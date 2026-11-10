@@ -1,0 +1,53 @@
+Satélite de la portada (maqueta, 9-nov-2026)
+
+Archivos derivados, hechos por herramientas/preparar_mapa.py:
+  satelite-escritorio.jpg  2432 x 1929  lon -122..-84, lat 16..42, Mercator esférico, 64 px por grado
+                           SHA-256 134b1bc1846b7c5f26425b068a145b4e45069c468528f55675afe2d033c982ff
+  satelite-movil.jpg       1800 x 2264  lon -109..-89, lat 17..39, Mercator esférico, 90 px por grado
+                           SHA-256 8db78fd297792e3d6c783e13e81fe38e3dd0da745ac2cddd0c1a30e0f7ec23e1
+  satelite-banda.jpg       1125 x 788   lon -106..-98.5, lat 26.6..31.2 (fondo de la banda de método)
+                           SHA-256 6dd561f573dabf3dd53e9e034a7511edea3d1d256e5b675e3afd042b07448c1c
+
+Fuente: NASA Global Imagery Browse Services (GIBS), capa BlueMarble_ShadedRelief_Bathymetry
+(Blue Marble con relieve y batimetría, compuesto sin nubes, sin fecha). Dos recortes que ya estaban
+descargados en el taller de redes del otro proyecto de Sebastián (sólo se leyeron, no se copiaron):
+  region-bluemarble-v2.jpg      BBOX lat 14..43, lon -113..-85, 4667 x 4833, EPSG:4326
+                                SHA-256 e8b2f242ee858ef49d79621bdaffece30c1007f78dc0bb710408536cdcc4c81f
+  continente-bluemarble-72.jpg  BBOX lat -15..85, lon -135..-62, 5256 x 7200, EPSG:4326, pedido el 13-oct-2026
+                                SHA-256 447e314a039d1b6f6925ff1ebf8c9b4ec5b2c2f46cbeb033915bfc3985510fa7
+Se usa el primero donde cubre y el segundo sólo para el borde oeste (al oeste de -113). Misma capa,
+sin costura visible. Reproyectados de EPSG:4326 a Mercator esférico, sin retoque de color; el
+oscurecimiento es un velo en CSS.
+
+Derechos: las imágenes de GIBS son de acceso libre y sin restricciones de uso según NASA. Crédito
+«NASA Blue Marble vía GIBS». Sin logotipo de NASA ni aval implícito.
+
+Capas dibujadas encima (vectores, no satélite):
+  Carreteras de Texas: U.S. Census Bureau, TIGERweb Transportation (1-ene-2026), dominio público
+    (I-35, I-35E, I-10 de San Antonio a Houston, I-45, SH 255).
+  I-35W y carretera 85/85D de Monterrey a Nuevo Laredo: Natural Earth 10m roads, dominio público.
+  Contorno de Texas: marca/datos/texas.geojson (Natural Earth 10m). Estados vecinos y Nuevo León:
+    Natural Earth 10m admin-1, dominio público.
+  Ciudades de Texas: puntos internos del Census 2020 citados en contenido/regiones/EVIDENCIA.md.
+  Monterrey: Natural Earth 10m populated places v5.1.2 (-100.331931, 25.671941).
+
+Versión 2 (9-nov-2026)
+
+  satelite-detalle.jpg     2175 x 1729  lon -107.5..-93, lat 24.6..34.6, Mercator esférico, 150 px por grado
+                           Hecho por herramientas/satelite_detalle.py con el mismo original (region-bluemarble-v2.jpg,
+                           unos 167 px por grado, sólo lectura) y el mismo método, sin retoque de color. Se carga sólo
+                           cuando la cámara se acerca; la página no pasa de 140 px por grado.
+
+Capas nuevas (vectores), armadas por herramientas/red.py en assets/red-datos.js:
+  México, Natural Earth 10m roads (datos/naturalearth-10m-roads): 40/40D Saltillo-Monterrey, 57 Saltillo-Piedras
+    Negras (el último tramo a Piedras Negras viene sin nombre en Natural Earth), 29 a Ciudad Acuña, 45 Chihuahua-
+    Ciudad Juárez.
+  Texas, Census TIGER/Line 2025 (datos/census-tiger-2025-prisecroads-tx): US-57 Eagle Pass a I-35, US-277 Eagle Pass
+    a Del Rio, US-90 Del Rio a San Antonio.
+  Carretera La Gloria-Colombia: OpenStreetMap vía Overpass, 9-nov-2026 (datos/osm-la-gloria-colombia), licencia ODbL.
+    Crédito visible «© OpenStreetMap contributors».
+  Conectores de puente: segmentos cortos entre el extremo mexicano y la carretera texana que pasan por la coordenada
+    del puente (capa de cruces de TxDOT, en datos/capas-geo.json). Sin coordenada verificada irían por el punto medio
+    y sin nombre; hoy todos los conectores tienen puente verificado o parcial.
+  Ciudades mexicanas (Saltillo, Chihuahua, Nuevo Laredo, Reynosa, Matamoros, Piedras Negras, Ciudad Juárez, Ciudad
+    de México): Natural Earth 10m populated places, la misma fuente de Monterrey.

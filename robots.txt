@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /herramientas/
+Disallow: /datos/
+Disallow: /capturas/
+
+Sitemap: https://investtexashub.com/sitemap.xml

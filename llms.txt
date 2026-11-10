@@ -1,0 +1,27 @@
+# Invest Texas Hub
+
+> Guía independiente, en español, para empresas mexicanas que quieren vender, instalarse o invertir en Texas.
+> Muestra a qué región de Texas conviene llegar, por dónde cruza la carga y a quién acudir, con la fuente y la fecha de cada dato.
+> No es gobierno, ni correduría, ni despacho, y no da asesoría legal, fiscal ni migratoria.
+
+## Secciones de la portada
+
+- [Cifras](https://investtexashub.com/#cifras): comercio por Laredo, precio industrial de la electricidad e impuesto de franquicia.
+- [¿Desde dónde sales?](https://investtexashub.com/#origenes): rutas y cruces desde Monterrey, Saltillo y Chihuahua.
+- [Regiones](https://investtexashub.com/#regiones): siete regiones de Texas, con su cifra, cómo llegar y a quién acudir.
+- [¿Qué necesitas resolver?](https://investtexashub.com/#necesidad): regiones según se cruce por tierra, se salga por mar o se mueva carga aérea.
+- [Compara regiones](https://investtexashub.com/#compara): dos o tres regiones lado a lado.
+- [Por dónde cruza la carga](https://investtexashub.com/#puentes): dieciséis cruces de El Paso a Brownsville.
+- [Empresas](https://investtexashub.com/#empresas): empresas mexicanas que ya operan en Texas y empresas ancla por región.
+- [Parques](https://investtexashub.com/#parques): parques en verificación en Laredo y el sur de Dallas.
+- [A quién acudir](https://investtexashub.com/#acudir): organismos de desarrollo económico por región.
+- [Guías](https://investtexashub.com/#guias): guías en preparación.
+- [Aviso legal y de privacidad](https://investtexashub.com/aviso.html)
+
+## De dónde salen los datos
+
+- Comercio y puertos: Texas Comptroller of Public Accounts, páginas de puertos de entrada (datos 2024).
+- Cruces de carga: U.S. Customs and Border Protection, TxDOT y operadores de los puentes.
+- Electricidad: U.S. Energy Information Administration. Impuesto de franquicia: Texas Comptroller.
+- Mapas: NASA Blue Marble vía GIBS, U.S. Census Bureau (TIGER), Natural Earth y OpenStreetMap.
+- Empresas y organismos: páginas oficiales de cada uno, citadas junto a cada dato.

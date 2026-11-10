@@ -1,0 +1,158 @@
+{
+  "descarga": "2026-11-10",
+  "origen": "Wikimedia Commons, Special:FilePath con ancho de 1600 px",
+  "fotos": [
+    {
+      "id": "houston",
+      "etiqueta": "06 Houston",
+      "enlazada": "https://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20view%20in%202014%20of%20the%20Houston%20Ship%20Channel%20and%20surrounding%20energy%20facilities%20in%20Houston%2C%20Texas%20LCCN2014632188.tif",
+      "ficha": "https://commons.wikimedia.org/wiki/File:Aerial_view_in_2014_of_the_Houston_Ship_Channel_and_surrounding_energy_facilities_in_Houston,_Texas_LCCN2014632188.tif",
+      "autor": "Carol M. Highsmith, Biblioteca del Congreso, 5-may-2014",
+      "licencia": "Dominio público",
+      "descarga_kb": 384,
+      "sha256_descarga": "6d0ed3c4d6fa4cc9dc1e94d88642fe5fca2bfcce3735f38d314661b994cd5e76",
+      "archivos": {
+        "1600": "assets/fotos/houston-1600.jpg",
+        "800": "assets/fotos/houston-800.jpg",
+        "1280": "assets/fotos/houston-1280.jpg"
+      },
+      "kb": {
+        "1600": 315,
+        "800": 80
+      }
+    },
+    {
+      "id": "dallas-fort-worth",
+      "etiqueta": "05 Dallas-Fort Worth",
+      "enlazada": "https://commons.wikimedia.org/wiki/Special:FilePath/Dallas%20skyline%202025.jpg",
+      "ficha": "https://commons.wikimedia.org/wiki/File:Dallas_skyline_2025.jpg",
+      "autor": "BullDawg2021, 6-abr-2025",
+      "licencia": "CC BY 4.0",
+      "descarga_kb": 190,
+      "sha256_descarga": "d224c177eec3afcbaec7275d227eda981f9b43202dd4117d38bb25dc54559df4",
+      "archivos": {
+        "1600": "assets/fotos/dallas-fort-worth-1600.jpg",
+        "800": "assets/fotos/dallas-fort-worth-800.jpg",
+        "1280": "assets/fotos/dallas-fort-worth-1280.jpg"
+      },
+      "kb": {
+        "1600": 177,
+        "800": 48
+      }
+    },
+    {
+      "id": "valle-del-rio-grande",
+      "etiqueta": "02 Valle del Río Grande",
+      "enlazada": "https://commons.wikimedia.org/wiki/Special:FilePath/Operational%20Tour%20of%20Pharr%20Bridge%20Commercial%20Facility%20-%20agriculture%20inspections%20(40777129960).jpg",
+      "ficha": "https://commons.wikimedia.org/wiki/File:Operational_Tour_of_Pharr_Bridge_Commercial_Facility_-_agriculture_inspections_(40777129960).jpg",
+      "autor": "U.S. Customs and Border Protection, 4-jun-2018",
+      "licencia": "Dominio público",
+      "descarga_kb": 1022,
+      "sha256_descarga": "8c8c7a01eda3111994ff88cfe594865b23f8c5be7e94ae8616b15686155953b9",
+      "archivos": {
+        "1600": "assets/fotos/valle-del-rio-grande-1600.jpg",
+        "800": "assets/fotos/valle-del-rio-grande-800.jpg",
+        "1280": "assets/fotos/valle-del-rio-grande-1280.jpg"
+      },
+      "kb": {
+        "1600": 368,
+        "800": 114
+      }
+    },
+    {
+      "id": "san-antonio",
+      "etiqueta": "03 San Antonio",
+      "enlazada": "https://commons.wikimedia.org/wiki/Special:FilePath/SanAntonioskyline%2C%20IH-37.jpg",
+      "ficha": "https://commons.wikimedia.org/wiki/File:SanAntonioskyline,_IH-37.jpg",
+      "autor": "Justin Cozart, 31-dic-2008",
+      "licencia": "CC BY-SA 2.0",
+      "descarga_kb": 529,
+      "sha256_descarga": "664cf1be65f3761c7cb37a068a9b5624133e58138fb271a3b39009fa032e922e",
+      "archivos": {
+        "1600": "assets/fotos/san-antonio-1600.jpg",
+        "800": "assets/fotos/san-antonio-800.jpg",
+        "1280": "assets/fotos/san-antonio-1280.jpg"
+      },
+      "kb": {
+        "1600": 458,
+        "800": 100
+      }
+    },
+    {
+      "id": "el-paso",
+      "etiqueta": "07 El Paso",
+      "enlazada": "https://commons.wikimedia.org/wiki/Special:FilePath/Skyline%20view%20of%20El%20Paso%2C%20Texas%20LCCN2014631659.tif",
+      "ficha": "https://commons.wikimedia.org/wiki/File:Skyline_view_of_El_Paso,_Texas_LCCN2014631659.tif",
+      "autor": "Carol M. Highsmith, Biblioteca del Congreso, 23-mar-2014",
+      "licencia": "Dominio público",
+      "descarga_kb": 425,
+      "sha256_descarga": "cd17c2e80c1d6b2f8366d22996706dc444594405558f5340144d389d4ddfa0e6",
+      "archivos": {
+        "1600": "assets/fotos/el-paso-1600.jpg",
+        "800": "assets/fotos/el-paso-800.jpg",
+        "1280": "assets/fotos/el-paso-1280.jpg"
+      },
+      "kb": {
+        "1600": 356,
+        "800": 95
+      }
+    },
+    {
+      "id": "austin",
+      "etiqueta": "04 Austin",
+      "enlazada": "https://commons.wikimedia.org/wiki/Special:FilePath/Texas%20Capitol%20Dome%20from%20MLK%20Blvd%20and%20IH35.jpg",
+      "ficha": "https://commons.wikimedia.org/wiki/File:Texas_Capitol_Dome_from_MLK_Blvd_and_IH35.jpg",
+      "autor": "Larry D. Moore, 26-may-2020",
+      "licencia": "CC BY 4.0",
+      "descarga_kb": 804,
+      "sha256_descarga": "713d02859f4315e78d2942a9c9afcd6c434e3c3d9f6281152b421bab2b647e90",
+      "archivos": {
+        "1600": "assets/fotos/austin-1600.jpg",
+        "800": "assets/fotos/austin-800.jpg",
+        "1280": "assets/fotos/austin-1280.jpg"
+      },
+      "kb": {
+        "1600": 650,
+        "800": 158
+      }
+    },
+    {
+      "id": "laredo",
+      "etiqueta": "01 Laredo",
+      "enlazada": "https://commons.wikimedia.org/wiki/Special:FilePath/World%20Trade%20Crossing%20International%20Bridge%20in%20Laredo%2C%20Texas%20(35598341390).jpg",
+      "ficha": "https://commons.wikimedia.org/wiki/File:World_Trade_Crossing_International_Bridge_in_Laredo,_Texas_(35598341390).jpg",
+      "autor": "U.S. Customs and Border Protection, 12-abr-2017",
+      "licencia": "Dominio público (gobierno federal)",
+      "descarga_kb": 691,
+      "sha256_descarga": "d48252a185a599c97532ec4e503673069f745d36613554f635cbfeb341f3d1df",
+      "archivos": {
+        "1600": "assets/fotos/laredo-1600.jpg",
+        "800": "assets/fotos/laredo-800.jpg",
+        "1280": "assets/fotos/laredo-1280.jpg"
+      },
+      "kb": {
+        "1600": 544,
+        "800": 139
+      }
+    },
+    {
+      "id": "parques",
+      "etiqueta": "Parques",
+      "enlazada": "https://commons.wikimedia.org/wiki/Special:FilePath/World%20Trade%20Crossing%20International%20Bridge%20in%20Laredo%2C%20Texas%20(35854890291).jpg",
+      "ficha": "https://commons.wikimedia.org/wiki/File:World_Trade_Crossing_International_Bridge_in_Laredo,_Texas_(35854890291).jpg",
+      "autor": "U.S. Customs and Border Protection, 12-abr-2017",
+      "licencia": "Dominio público",
+      "descarga_kb": 612,
+      "sha256_descarga": "ba461228df3d5e9da1e7c30671128ad920feec6a45f2bc12a0af71d6993adf4e",
+      "archivos": {
+        "1600": "assets/fotos/parques-1600.jpg",
+        "800": "assets/fotos/parques-800.jpg",
+        "1280": "assets/fotos/parques-1280.jpg"
+      },
+      "kb": {
+        "1600": 490,
+        "800": 124
+      }
+    }
+  ]
+}
