@@ -18,6 +18,14 @@
 - [Guías](https://investtexashub.com/#guias): guías en preparación.
 - [Aviso legal y de privacidad](https://investtexashub.com/aviso.html)
 
+## Costos de operación
+
+- [Salarios por región](https://investtexashub.com/costos/): mediana por hora de once puestos en ocho zonas metropolitanas. BLS, mayo de 2025. Sin prestaciones ni impuestos del empleador; los datos ausentes se muestran como «sin dato».
+- [Impuestos](https://investtexashub.com/impuestos/): franquicia para informes 2026 y 2027, ventas y uso, propiedad, desempleo y renta personal. Fuente oficial y año en cada renglón. Información general; no sustituye asesoría fiscal.
+- [Electricidad](https://investtexashub.com/energia/): precio industrial de Texas y Estados Unidos, EIA, agosto de 2026, cifras preliminares. Fichas regionales de distribución por confirmar; no son tarifas de cada empresa.
+
+Consulta de los datos 10 de noviembre de 2026.
+
 ## De dónde salen los datos
 
 - Comercio y puertos: Texas Comptroller of Public Accounts, páginas de puertos de entrada (datos 2024).
