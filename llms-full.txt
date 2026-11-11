@@ -261,8 +261,15 @@ Compara salarios, impuestos y electricidad con la fuente y la fecha de cada dato
 
 ### Guías
 
-Cuatro guías en preparación, cada una con su fuente oficial.
+Una guía publicada y cuatro en preparación, cada una con su fuente oficial.
 
+-  Publicada
+
+#### ¿Filial o seguir exportando?
+
+Qué cambia al vender desde México y al abrir una empresa en Texas, con la fuente oficial de cada paso.
+
+[Leer la guía](https://investtexashub.com/guias/filial-o-exportar/index.html)
 -  En preparación
 
 #### Cómo cruza tu mercancía
@@ -709,6 +716,233 @@ Por confirmar. Información parcial. Quién distribuye: CenterPoint Energy Houst
 #### El Paso
 
 Por confirmar. Información parcial. Quién distribuye: El Paso Electric. Elección de proveedor: no. La cobertura y las características de esta ficha requieren confirmación para el inmueble. [Fuente](https://www.epelectric.com/) [Fuente](https://www.epelectric.com/company/about-epe/service-territory)
+
+
+---
+
+
+# https://investtexashub.com/guias/filial-o-exportar/
+
+Modificación del mapa del sitio: 2026-11-11
+
+Guía independiente
+
+## ¿Filial o seguir exportando?
+
+Qué cambia si vendes a Texas desde México y qué cambia si abres una empresa allá, con la fuente oficial de cada paso.
+
+### Qué cambia en cada camino
+
+Fuentes consultadas el 11 de noviembre de 2026.
+
+Información general; no sustituye asesoría legal, fiscal ni migratoria.
+
+Aquí se comparan vender desde la empresa mexicana y crear una nueva entidad en Texas.
+
+Lo esencial
+
+- Si sólo vendes desde México, lo que se decide es quién figura como importador de la mercancía, si tu cliente en Texas o tu propia empresa como importador no residente.
+- Si tienes inventario en Texas, pueden aparecer obligaciones de impuestos de Texas aunque no tengas oficina ahí.
+- Si produces u operas allá, se suman el registro de la empresa, el registro como empleador y la luz del inmueble.
+- Desde el 5 de enero de 2027, CBP pide requisitos adicionales al importador extranjero, y constituir la filial en Texas no basta para dejar de serlo.
+
+Elige tu situación
+
+Vendo desde México a un cliente en Texas  Quiero tener inventario en Texas  Quiero producir u operar en Texas
+
+Se resaltan importador, aduana e impuestos para revisar esta situación.
+
+El resaltado ordena la lectura. Todos los temas siguen visibles y su aplicación depende de tu operación; no decide qué estructura te conviene.
+
+Comparación de exportar desde México y crear una filial en Texas, por tema.
+
+| Si sigues exportando | Si abres una filial en Texas
+
+| Quién importa la mercancíaResaltado para tu situación
+
+|
+
+Lo primero es definir quién figura como importador de registro (importer of record). Según CBP, una empresa extranjera puede exportar a Estados Unidos sin un importador de registro en ese país, pero debe tener un agente residente en el estado del puerto de entrada.
+
+El reglamento aduanero pide que ese agente esté autorizado para recibir emplazamientos contra la empresa y que la empresa presente una fianza con una afianzadora residente. No es el mismo requisito que el agente registrado que Texas pide a las entidades.
+
+Desde el 5 de enero de 2027 se suman los requisitos de la regla descrita abajo, en «Cambio con vigencia futura».
+
+[U.S. Customs and Border Protection (CBP)](https://www.help.cbp.gov/s/article/Article-1147?language=en_US)[Reglamento aduanero, 19 CFR 141.18](https://www.ecfr.gov/current/title-19/section-141.18)
+
+|
+
+Si la filial es la importadora, responde por la documentación y por los aranceles, impuestos y cargos de importación, aunque contrate un agente aduanal (customs broker).
+
+Desde el 5 de enero de 2027, constituirla en Texas no basta para que CBP la trate como importador estadounidense. Los criterios están abajo, en «Cambio con vigencia futura».
+
+[CBP, responsabilidad del importador](https://www.help.cbp.gov/s/article/Article-1894?language=en_US)[CBP, regla del 6 de noviembre de 2026](https://www.govinfo.gov/content/pkg/FR-2026-11-06/html/2026-22735.htm)
+
+| Qué trámite de aduana intervieneResaltado para tu situación
+
+|
+
+El importador se da de alta ante CBP con el formulario CBP 5106. Además, cada mercancía tiene sus requisitos de entrada, y otras agencias pueden pedir permisos.
+
+[CBP, requisitos de importación](https://www.help.cbp.gov/s/article/Article-1894?language=en_US)
+
+|
+
+Si la filial importa, aplican los mismos requisitos de entrada de cada producto. Para solicitar el trato preferencial del Tratado entre México, Estados Unidos y Canadá (T-MEC), la certificación de origen debe indicar que se cumplen sus requisitos.
+
+[CBP, requisitos](https://www.help.cbp.gov/s/article/Article-1894?language=en_US)[CBP, T-MEC](https://www.cbp.gov/trade/priority-issues/trade-agreements/free-trade-agreements/USMCA/FAQs)
+
+| Qué entidad se crea y cuánto cuesta el registroResaltado para tu situación
+
+|
+
+Según su actividad en Texas, tu empresa mexicana puede tener que registrarse ahí como entidad extranjera.
+
+Por ejemplo, registrar una sociedad de responsabilidad limitada (LLC, por sus siglas en inglés) constituida fuera de Texas cuesta 750 USD de derecho estatal, con el formulario 304. Una vez registrada, también debe mantener un agente registrado y una oficina registrada en Texas.
+
+[Secretaría de Estado, entidad extranjera](https://www.sos.state.tx.us/corp/foreign_outofstate.shtml)[Secretaría de Estado, formulario 304](https://www.sos.state.tx.us/corp/instructions/304.shtml)
+
+|
+
+Por ejemplo, constituir una LLC en Texas cuesta 300 USD de derecho estatal, con el certificado de constitución (formulario 205).
+
+Necesita un agente registrado (registered agent) y una oficina registrada en Texas; el agente recibe las notificaciones y emplazamientos.
+
+Los dos importes son derechos estatales de presentación, sin honorarios, cargos de pago, otros trámites ni sanciones por registro tardío.
+
+[Secretaría de Estado, formulario 205](https://www.sos.state.tx.us/corp/instructions/205.shtml)[Secretaría de Estado, agente registrado](https://www.sos.state.tx.us/corp/formationfaqs.shtml)
+
+| Impuestos de TexasResaltado para tu situación
+
+|
+
+Aunque no tengas oficina en Texas, puedes tener obligaciones de impuestos ahí (nexo fiscal, nexus), en ventas y uso y en franquicia.
+
+El Comptroller pone el umbral en 500,000 USD. Un vendedor remoto con ingresos totales en Texas menores a esa cifra en los doce meses anteriores no está obligado a obtener el permiso ni a recaudar el impuesto de uso. Una entidad sujeta al impuesto, constituida fuera de Texas, con ingresos brutos anuales de 500,000 USD o más por negocios en Texas tiene nexo de franquicia aunque no tenga presencia física.
+
+Con presencia física en Texas ya no eres vendedor remoto. Operar un almacén, o tener o usar bienes muebles en Texas, está entre las actividades que el Comptroller considera.
+
+[Comptroller, vendedores remotos](https://comptroller.texas.gov/taxes/sales/remote-sellers.php)[Comptroller, actividad en Texas](https://comptroller.texas.gov/taxes/publications/94-108.php)
+
+[Consultar impuestos de Texas](https://investtexashub.com/impuestos/index.html)  |
+
+Una filial puede quedar sujeta al impuesto de franquicia (franchise tax) y necesitar el permiso de ventas y uso para sus operaciones gravadas.
+
+[Comptroller, franquicia](https://comptroller.texas.gov/taxes/franchise/)[Comptroller, ventas y uso](https://comptroller.texas.gov/taxes/publications/94-108.php)
+
+[Consultar impuestos de Texas](https://investtexashub.com/impuestos/index.html)
+
+| Nómina y registro como empleadorResaltado para tu situación
+
+|
+
+Si contratas personal en Texas desde la empresa mexicana, puedes volverte empleador sujeto al impuesto de desempleo. La Texas Workforce Commission pide registrar la cuenta dentro de los diez días siguientes a ese momento.
+
+[Texas Workforce Commission (TWC)](https://www.twc.texas.gov/programs/unemployment-tax)
+
+[Consultar salarios por región](https://investtexashub.com/costos/index.html)  |
+
+Si la filial se vuelve empleador sujeto, tiene diez días desde ese momento para registrar su cuenta de impuesto de desempleo, según la TWC.
+
+[TWC, registro de empleadores](https://www.twc.texas.gov/programs/unemployment-tax)
+
+[Consultar salarios por región](https://investtexashub.com/costos/index.html)
+
+| Luz y operaciónResaltado para tu situación
+
+|
+
+Si sumas un almacén en Texas, el costo de la luz depende del contrato de ese inmueble. El promedio por estado sirve para comparar, no como cotización.
+
+[U.S. Energy Information Administration (EIA)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+
+[Consultar electricidad en Texas](https://investtexashub.com/energia/index.html)  |
+
+Para un local o una planta, el costo depende del suministro y del consumo previsto. La EIA publica un promedio industrial por estado, no la tarifa de tu instalación.
+
+[EIA, precio promedio por estado](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+
+[Consultar electricidad en Texas](https://investtexashub.com/energia/index.html)
+
+| Quién puede ir a operar en personaResaltado para tu situación
+
+|
+
+Para trabajar en persona en Texas, quien no es ciudadano ni residente de Estados Unidos necesita una categoría de visa que lo permita. El Departamento de Estado publica la lista.
+
+No es asesoría migratoria.
+
+[Departamento de Estado, categorías de visa](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/all-visa-categories.html)
+
+|
+
+Lo mismo aplica a quien vaya a dirigir u operar la filial en persona.
+
+[Departamento de Estado, categorías de visa](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/all-visa-categories.html)
+
+Cambio con vigencia futura
+
+CBP publicó el 6 de noviembre de 2026 una regla sobre los importadores de registro extranjeros, que entra en vigor el 5 de enero de 2027. Desde esa fecha, para presentar una entrada de mercancía para consumo, formal o informal en los formularios CBP 3461 o 7501, el importador extranjero debe estar validado en el programa CTPAT (Customs Trade Partnership Against Terrorism) o designar a un agente aduanal con licencia que lo esté.
+
+Para esa regla, constituir la empresa en Estados Unidos no basta para ser importador estadounidense. La entidad debe estar constituida y ubicada en ese país y, además, cumplir una de dos condiciones. La primera es que al menos 51% de sus beneficiarios finales sean ciudadanos o residentes permanentes de Estados Unidos y la controlen. La segunda es que sea dueña directa de una cantidad significativa de inmuebles sin gravamen en ese país. Quien no cumple esos criterios es importador extranjero, y CBP puede verificarlo.
+
+La regla cuenta como beneficiarios finales a las personas físicas que ejercen control sustancial sobre la entidad o tienen al menos 25% de ella, aunque haya otras sociedades en medio.
+
+CBP recibe comentarios sobre la regla hasta el 5 de enero de 2027. Revisa el texto vigente antes de un despacho posterior a esa fecha.
+
+[CBP, regla publicada en el Federal Register](https://www.govinfo.gov/content/pkg/FR-2026-11-06/html/2026-22735.htm)
+
+La comparación completa está disponible. Activa JavaScript para cambiar los renglones resaltados.
+
+### Preguntas frecuentes
+
+#### ¿Cómo abro una empresa en Texas siendo mexicano?
+
+La Secretaría de Estado indica que la ley de Texas no exige ciudadanía o residencia estadounidense o texana para constituir o tener participación en una entidad, y que el organizador debe tener capacidad contractual. Advierte que los documentos de la entidad pueden imponer requisitos adicionales. Para una LLC, el formulario 205 describe la constitución y el agente registrado.
+
+[Secretaría de Estado, formación](https://www.sos.state.tx.us/corp/formationfaqs.shtml)[Formulario 205](https://www.sos.state.tx.us/corp/instructions/205.shtml)
+
+#### ¿Cómo vendo mis productos en Texas siendo empresa mexicana?
+
+CBP indica revisar los requisitos de entrada de la mercancía y la responsabilidad del importador de registro. Del lado mexicano, el Servicio de Administración Tributaria (SAT) dirige el Padrón de Exportadores Sectoriales a quienes exportan las mercancías listadas en la fracción II del Anexo 10 de las Reglas Generales de Comercio Exterior vigentes.
+
+[CBP, importación](https://www.help.cbp.gov/s/article/Article-1894?language=en_US)[SAT, padrón sectorial](https://www.sat.gob.mx/minisitio/PadronImportadoresExportadores/pes_inscripcion.html)
+
+#### ¿Conviene abrir una filial en Texas o seguir exportando desde México?
+
+La Secretaría de Estado distingue constituir una entidad texana de registrar una entidad formada fuera del estado según sus actividades. El Comptroller contempla obligaciones fiscales también para vendedores remotos. Estas fuentes permiten comparar trámites, pero no resuelven qué camino conviene a tu operación.
+
+[Secretaría de Estado, registro](https://www.sos.state.tx.us/corp/foreign_outofstate.shtml)[Comptroller, vendedores remotos](https://comptroller.texas.gov/taxes/sales/remote-sellers.php)
+
+#### ¿Cómo uso el certificado de origen del T-MEC para exportar a EE. UU.?
+
+CBP no exige un formato fijo para la certificación de origen del T-MEC, pero señala nueve datos mínimos. La certificación debe identificar la mercancía e indicar que cumple los requisitos de origen y del capítulo 5 del tratado.
+
+[CBP, certificación de origen del T-MEC](https://www.cbp.gov/trade/priority-issues/trade-agreements/free-trade-agreements/USMCA/FAQs)
+
+### Fuentes y fechas
+
+Consulta del 11 de noviembre de 2026. Las fechas siguientes corresponden a la fuente o a su periodo de datos.
+
+- [CBP, empresa extranjera que exporta](https://www.help.cbp.gov/s/article/Article-1147?language=en_US)10 de abril de 2026.
+- [Reglamento aduanero, 19 CFR 141.18, entrada por sociedad no residente](https://www.ecfr.gov/current/title-19/section-141.18)Texto vigente al 9 de noviembre de 2026.
+- [CBP, importadores y exportadores](https://www.help.cbp.gov/s/article/Article-1894?language=en_US)27 de junio de 2026.
+- [CBP, certificación de origen del T-MEC](https://www.cbp.gov/trade/priority-issues/trade-agreements/free-trade-agreements/USMCA/FAQs)Actualización del 16 de enero de 2025.
+- [CBP, requisitos para importadores extranjeros](https://www.govinfo.gov/content/pkg/FR-2026-11-06/html/2026-22735.htm)Publicada el 6 de noviembre de 2026. Vigencia futura del 5 de enero de 2027.
+- [Secretaría de Estado, constitución de LLC](https://www.sos.state.tx.us/corp/instructions/205.shtml)Formulario 205 revisado en septiembre de 2026.
+- [Secretaría de Estado, registro de LLC extranjera](https://www.sos.state.tx.us/corp/instructions/304.shtml)Formulario 304 revisado en septiembre de 2026.
+- [Secretaría de Estado, entidades extranjeras](https://www.sos.state.tx.us/corp/foreign_outofstate.shtml)Sin fecha de actualización visible.
+- [Secretaría de Estado, formación y agente registrado](https://www.sos.state.tx.us/corp/formationfaqs.shtml)Sin fecha de actualización visible.
+- [Texas Comptroller, vendedores remotos](https://comptroller.texas.gov/taxes/sales/remote-sellers.php)Sin fecha de actualización visible.
+- [Texas Comptroller, actividad en Texas](https://comptroller.texas.gov/taxes/publications/94-108.php)Sin fecha de actualización visible.
+- [Texas Comptroller, franquicia](https://comptroller.texas.gov/taxes/franchise/)Sin fecha de actualización visible.
+- [TWC, registro de cuenta de desempleo](https://www.twc.texas.gov/programs/unemployment-tax)Sin fecha de actualización visible.
+- [EIA, Electric Power Monthly, tabla 5.6.A](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)Agosto de 2026, cifras preliminares. Publicación del 23 de octubre de 2026.
+- [SAT, inscripción al Padrón de Exportadores Sectoriales](https://www.sat.gob.mx/minisitio/PadronImportadoresExportadores/pes_inscripcion.html)Sin fecha de actualización visible.
+- [Obtener un número de identificación del empleador (Employer Identification Number, EIN)](https://www.irs.gov/businesses/small-businesses-self-employed/get-an-employer-identification-number)Internal Revenue Service (IRS). Nombre y enlace del trámite consultados el 11 de noviembre de 2026.
+- [Departamento de Estado, categorías de visa](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/all-visa-categories.html)Directorio consultado el 11 de noviembre de 2026. No es asesoría migratoria.
+
+[Fotografía de entrada, Puente de Comercio Mundial, Laredo](https://commons.wikimedia.org/wiki/File:World_Trade_Crossing_International_Bridge_in_Laredo,_Texas_(35598341390).jpg)Donna Burton, U.S. Customs and Border Protection, 12 de abril de 2017. Dominio público. Encuadre y velo de color.
 
 
 ---

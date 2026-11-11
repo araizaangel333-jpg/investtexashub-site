@@ -4,8 +4,8 @@
   var H=root.HOJA_DATOS, D=root.COSTOS_DATOS, R=root.RED_DATOS, C=root.CAPAS_DATOS;
   var CAPTURA={url:"", campos:{correo:"",empresa:"",sector:"",respuestas:"",duda:"",presentacion:""}};
   var PRESENTACION=false;
-  /* GUÍA EN ESPERA: en falso mientras «¿Filial o seguir exportando?» no esté publicada; «Qué leer ahora» no la enlaza. */
-  var GUIA_PUBLICADA=false;
+  /* La guía «¿Filial o seguir exportando?» se publicó el 11-nov-2026. En falso, «Qué leer ahora» deja de enlazarla. */
+  var GUIA_PUBLICADA=true;
   var PLANES={vender:["Vender desde México","Exportas y tu operación se queda en México.","Quieres vender desde México."],bodega:["Tener bodega o centro de distribución","Guardas y repartes producto desde Texas.","Quieres tener bodega o centro de distribución."],producir:["Producir o ensamblar","Pones una planta o una línea allá.","Quieres producir o ensamblar."],oficina:["Abrir una oficina","Ventas, servicio o administración, sin mover mercancía.","Quieres abrir una oficina."]};
   var ORIGENES={monterrey:["Monterrey",""],saltillo:["Saltillo",""],chihuahua:["Chihuahua",""],otra:["Otra ciudad","Escríbela y la sumamos a nuestras rutas."]};
   var ENVIOS={tierra:["Por carretera","Camión completo o consolidado.","Tu mercancía viaja por carretera."],mar:["Por barco","Contenedores o granel.","Tu mercancía viaja por barco."],aire:["Por avión","Carga urgente o de alto valor.","Tu mercancía viaja por avión."]};
