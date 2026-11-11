@@ -9,6 +9,9 @@ body { overflow-x: visible; }
 .entrada-texto { padding: 48px 0; }
 .entrada-parque h1 { color: var(--oscuro); font-size: clamp(38px, 4.5vw, 62px); font-weight: 800; line-height: 1.06; max-width: 19ch; overflow-wrap: break-word; }
 .entrada-parque .bajada { font-size: 17px; max-width: 52ch; margin: 24px 0 0; }
+/* entrada al mapa de parques, bajo la bajada */
+.entrada-parque a.al-mapa { display: inline-flex; align-items: center; min-height: 44px; margin-top: 14px; color: var(--oscuro); font-weight: 600; font-size: 16px; text-underline-offset: 4px; }
+.entrada-parque a.al-mapa:hover { color: var(--acento); }
 .mapa-referencia { margin: 0; align-self: stretch; display: flex; flex-direction: column; justify-content: center; min-width: 0; }
 .mapa-referencia svg { width: 100%; height: 390px; display: block; }
 .mapa-referencia figcaption { font-size: 12px; color: var(--texto-2); text-align: center; padding: 0 0 20px; }

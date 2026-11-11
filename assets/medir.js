@@ -18,9 +18,11 @@
     mapa_region:["region","desde"],mapa_parque:["parque","nivel","desde"],mapa_vista:["vista"],mapa_buscar:["region"],mapa_enlace:["tipo"]
   };
   /* La etiqueta de Google cuenta una vista de página cada vez que cambia la dirección, y la manda con la dirección
-     completa. La hoja de ruta guarda sus respuestas en la dirección: la cambia con la función original del navegador,
-     tomada aquí, antes de que la etiqueta cargue y la envuelva. */
+     completa. La hoja de ruta guarda sus respuestas en la dirección y el mapa de parques guarda la región y el parque:
+     las cambian con las funciones originales del navegador, tomadas aquí, antes de que la etiqueta cargue y las
+     envuelva. Lo que la persona hace en esas páginas se cuenta con sus eventos, no como vistas de página. */
   window.cambiarDireccion = History.prototype.replaceState.bind(history);
+  window.agregarDireccion = History.prototype.pushState.bind(history);
   window.medir = function (nombre, datos) {
     if(!Object.prototype.hasOwnProperty.call(permitidos,nombre))return;
     var limpios={};permitidos[nombre].forEach(function(k){var v=datos&&datos[k];if(typeof v==="boolean"||typeof v==="number"&&Number.isFinite(v))limpios[k]=v;else if(typeof v==="string"&&v.length<=160&&!/[<>@\r\n]/.test(v))limpios[k]=v;});

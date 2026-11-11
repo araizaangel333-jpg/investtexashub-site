@@ -1,0 +1,211 @@
+/* Invest Texas Hub, mapa de parques (publicado el 11-nov-2026).
+   Dos estados en una página: la portada con las regiones y el explorador (lista, ficha y mapa).
+   Colores sólo de la paleta de bandera y sus neutros de estilos.css. */
+
+.mp { background: var(--profundo); }
+/* Dentro del explorador la página no se desplaza: la barra queda sólida y el pie se guarda. */
+html.mp-en-mapa, html.mp-en-mapa body { height: 100%; overflow: hidden; }
+html.mp-en-mapa .nav { background: var(--nav-fondo); color: var(--nav-texto); box-shadow: 0 1px 0 var(--nav-linea); }
+html.mp-en-mapa .pie { display: none; }
+
+.mp button, .mp input { font-family: "Jakarta", system-ui, sans-serif; }
+.saltar { position: absolute; left: 12px; top: -80px; z-index: 60; padding: 12px 16px; background: var(--claro); color: var(--texto); font-weight: 600; }
+.saltar:focus { top: 12px; }
+
+/* ------------------------------------------------------------ portada */
+.mp-portada {
+  position: relative; min-height: 100vh; min-height: 100svh;
+  display: flex; align-items: flex-start;
+  background: var(--profundo); color: var(--tinta); overflow: hidden;
+}
+/* En teléfono el satélite ocupa una franja arriba, con Texas completo, y el texto sigue debajo sobre el azul. */
+.mp-fondo { position: absolute; inset: 0 0 auto 0; height: 330px; background: var(--profundo) no-repeat; filter: var(--filtro-foto); }
+.mp-portada::after { /* velo: deja ver Texas y se cierra hacia el texto */
+  content: ""; position: absolute; inset: 0 0 auto 0; height: 331px; pointer-events: none;
+  background: linear-gradient(180deg, rgba(var(--velo), .7) 0, rgba(var(--velo), .2) 96px, rgba(var(--velo), .22) 220px, var(--profundo) 328px);
+}
+.mp-portada-texto { position: relative; z-index: 2; width: 100%; padding: 272px var(--gutter) 28px; }
+.mp-portada .etiqueta { color: var(--tinta); opacity: .86; }
+.mp-portada h1 { font-size: 34px; line-height: 1.08; max-width: 14ch; }
+.mp-portada .bajada { margin: 14px 0 22px; font-size: 16.5px; line-height: 1.5; max-width: 34ch; color: var(--tinta); opacity: .92; }
+
+.mp-regiones { list-style: none; margin: 0; padding: 0; border-top: 1px solid rgba(255, 255, 255, .28); }
+.mp-regiones li { border-bottom: 1px solid rgba(255, 255, 255, .28); }
+.mp-regiones button {
+  width: 100%; min-height: 60px; padding: 6px 0; display: flex; flex-direction: column; align-items: flex-start; justify-content: center; gap: 2px;
+  background: transparent; border: 0; color: inherit; cursor: pointer; text-align: left;
+}
+.mp-regiones .r-nombre { font: 600 20px/1.2 "Outfit", sans-serif; letter-spacing: -0.01em; }
+.mp-regiones .r-cuenta { font-size: 13.5px; opacity: .86; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.mp-regiones button:hover .r-nombre, .mp-regiones button.encendida .r-nombre { text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 6px; }
+.mp-regiones button:focus-visible { outline-color: var(--tinta); }
+.mp-regiones .r-todo .r-nombre { font-weight: 500; }
+.mp-credito { margin: 14px 0 0; font-size: 12.5px; color: rgba(255, 255, 255, .78); }
+.mp-credito a { display: inline-flex; align-items: center; min-height: 44px; color: var(--tinta); font-weight: 600; font-size: 14px; text-underline-offset: 4px; }
+
+/* Regiones sobre el satélite. Son la vista de lo que ya ofrece la lista: no reciben foco ni clic propios.
+   El clic se resuelve en la portada entera (mapa.js): gana la región más cercana al puntero o al dedo. */
+.mp-puntos { position: absolute; inset: 0 0 auto 0; height: 330px; z-index: 3; pointer-events: none; }
+.mp-punto { position: absolute; width: 0; height: 0; color: var(--tinta); }
+.mp-punto i {
+  position: absolute; left: -5px; top: -5px; width: 10px; height: 10px; border-radius: 50%; background: var(--tinta);
+  box-shadow: 0 0 0 2px rgba(0, 26, 69, .8), 0 0 0 3.5px rgba(255, 255, 255, .5);
+  transition: transform .18s ease, background-color .18s ease;
+}
+.mp-punto .p-rotulo { position: absolute; left: 0; top: 15px; transform: translateX(-50%); white-space: nowrap; text-align: center; text-shadow: 0 1px 3px rgba(0, 12, 40, .95), 0 0 10px rgba(0, 12, 40, .8); }
+.mp-punto .p-nombre { display: block; font: 600 12.5px/1.15 "Outfit", sans-serif; }
+/* la cuenta sólo sale con la región encendida, y va fuera del flujo para que el nombre no se mueva */
+.mp-punto .p-cuenta { display: none; position: absolute; left: 50%; top: 100%; transform: translateX(-50%); padding-top: 2px; font: 500 11.5px/1.15 "Jakarta", system-ui, sans-serif; font-variant-numeric: tabular-nums; }
+.mp-punto[data-lado="arriba"] .p-rotulo { top: auto; bottom: 15px; }
+.mp-punto[data-lado="arriba"] .p-cuenta { top: auto; bottom: 100%; padding: 0 0 2px; }
+.mp-punto[data-lado="der"] .p-rotulo { left: 16px; top: 0; transform: translateY(-50%); text-align: left; }
+.mp-punto[data-lado="der"] .p-cuenta { left: 0; transform: none; }
+.mp-punto[data-lado="izq"] .p-rotulo { left: auto; right: 16px; top: 0; transform: translateY(-50%); text-align: right; }
+.mp-punto[data-lado="izq"] .p-cuenta { left: auto; right: 0; transform: none; }
+.mp-punto.encendida { z-index: 1; }
+.mp-punto.encendida i { transform: scale(1.6); background: var(--acento); box-shadow: 0 0 0 2px var(--tinta); }
+.mp-punto.encendida .p-nombre { text-decoration: underline; text-decoration-thickness: 1.5px; text-underline-offset: 4px; }
+.mp-punto.encendida .p-cuenta { display: block; }
+.mp-portada.mp-apunta { cursor: pointer; }
+
+@media (min-width: 1024px) {
+  .mp-portada { align-items: center; }
+  .mp-fondo { inset: 0; height: auto; }
+  .mp-portada::after { inset: 0; height: auto; background: linear-gradient(90deg, rgba(var(--velo), .93) 0%, rgba(var(--velo), .86) 30%, rgba(var(--velo), .34) 56%, rgba(var(--velo), .2) 100%); }
+  .mp-portada-texto { max-width: calc(var(--max) + 2 * var(--gutter)); margin: 0 auto; padding-top: calc(var(--nav) + 20px); padding-bottom: 36px; }
+  .mp-portada-texto > * { max-width: 500px; }
+  .mp-portada h1 { font-size: 44px; max-width: 500px; }
+  .mp-portada .bajada { font-size: 17px; margin: 12px 0 22px; max-width: 44ch; }
+  /* en escritorio las regiones van en dos columnas, con su cuenta debajo, para que la portada quepa en una pantalla */
+  .mp-regiones { display: grid; grid-template-columns: 1fr 1fr; column-gap: 28px; }
+  .mp-regiones button { min-height: 58px; }
+  .mp-regiones .r-nombre { font-size: 19px; }
+  .mp-puntos { inset: 0; height: auto; }
+  .mp-punto i { left: -6px; top: -6px; width: 12px; height: 12px; }
+  .mp-punto .p-nombre { font-size: 13.5px; }
+  .mp-punto .p-cuenta { font-size: 12px; }
+}
+
+/* ------------------------------------------------------------ explorador */
+.mp-explorador { position: relative; height: 100vh; height: 100svh; padding-top: var(--nav); background: var(--profundo); }
+.mp-explorador[hidden], .mp-portada[hidden] { display: none; }
+.mp-mapa-caja { position: absolute; inset: var(--nav) 0 0 0; }
+/* MapLibre le pone position: relative a su contenedor; por eso el tamaño va explícito. */
+.mp-mapa-caja .mp-mapa { position: absolute; inset: 0; width: 100%; height: 100%; background: #0b1730; }
+.mp-mapa .maplibregl-canvas { outline: none; }
+.mp-mapa .maplibregl-ctrl-attrib { font: 11px/1.4 "Jakarta", sans-serif; }
+
+.mp-estado { position: absolute; left: 50%; top: 45%; transform: translate(-50%, -50%); margin: 0; padding: 10px 16px; background: rgba(0, 26, 69, .86); color: var(--tinta); font-size: 14px; border-radius: 2px; pointer-events: none; }
+.mp-estado:empty { display: none; }
+.mp-estado.abajo { top: auto; bottom: 64px; transform: translateX(-50%); }
+
+/* controles sobre el mapa */
+.mp-vista { position: absolute; left: 12px; top: 12px; display: flex; border-radius: 2px; overflow: hidden; box-shadow: 0 1px 6px rgba(0, 12, 40, .35); }
+.mp-vista button { min-height: 44px; padding: 0 16px; border: 0; background: var(--claro); color: var(--texto); font: 600 14px "Outfit", sans-serif; cursor: pointer; }
+.mp-vista button + button { border-left: 1px solid var(--linea); }
+.mp-vista button[aria-pressed="true"] { background: var(--oscuro); color: var(--tinta); }
+.mp-camara { position: absolute; right: 12px; top: 12px; display: flex; flex-direction: column; border-radius: 2px; overflow: hidden; box-shadow: 0 1px 6px rgba(0, 12, 40, .35); }
+.mp-camara button { min-width: 44px; min-height: 44px; padding: 0 10px; border: 0; border-bottom: 1px solid var(--linea); background: var(--claro); color: var(--texto); font: 600 13px "Outfit", sans-serif; cursor: pointer; }
+.mp-camara button:last-child { border-bottom: 0; }
+.mp-camara .signo { font-size: 22px; line-height: 1; font-weight: 500; }
+.mp-camara button:hover, .mp-vista button:hover:not([aria-pressed="true"]) { background: var(--claro-2); }
+.mp-camara button:disabled { color: var(--texto-2); opacity: .55; cursor: default; }
+
+.mp-leyenda { position: absolute; left: 12px; bottom: 34px; margin: 0; padding: 10px 12px; list-style: none; background: rgba(0, 26, 69, .82); color: var(--tinta); font-size: 12.5px; line-height: 1.3; border-radius: 2px; display: none; }
+.mp-leyenda li { display: flex; align-items: center; gap: 9px; min-height: 22px; }
+
+/* el mismo dibujo del pin en la leyenda, en la lista y en la ficha */
+.pin { flex: none; width: 13px; height: 13px; border-radius: 50%; box-sizing: border-box; display: inline-block; }
+.pin-ficha { background: var(--acento); border: 2px solid #fff; box-shadow: 0 0 0 1.5px rgba(0, 26, 69, .7); }
+.pin-confirmado { background: #fff; border: 3px solid var(--acento); box-shadow: 0 0 0 1.5px rgba(0, 26, 69, .7); }
+.pin-listado { width: 10px; height: 10px; background: #fff; border: 1.5px solid var(--profundo); margin: 0 1.5px; }
+.pin-sin { width: 10px; height: 10px; background: transparent; border: 1.5px dashed var(--texto-2); margin: 0 1.5px; }
+.pin-puente { width: 11px; height: 11px; background: transparent; border: 2px solid #fff; box-shadow: 0 0 0 1px rgba(0, 26, 69, .8); margin: 0 1px; }
+
+.trazo { flex: none; width: 14px; height: 10px; border: 1.5px solid #fff; background: rgba(255, 255, 255, .14); }
+
+/* rótulos que el guion coloca sobre el mapa */
+.mp-rotulo { pointer-events: none; padding: 5px 9px; background: rgba(0, 26, 69, .92); color: #fff; font: 600 13px/1.2 "Outfit", sans-serif; border-radius: 2px; white-space: nowrap; box-shadow: 0 1px 4px rgba(0, 12, 40, .4); }
+.mp-rotulo small { display: block; margin-top: 2px; font: 500 11px/1.2 "Jakarta", sans-serif; opacity: .85; }
+.mp-mx { pointer-events: none; color: rgba(255, 255, 255, .78); font: 600 13px/1.2 "Outfit", sans-serif; text-align: right; white-space: nowrap; }
+.mp-mx small { display: block; font: 500 11px/1.3 "Jakarta", sans-serif; opacity: .8; }
+.mp-mx.pais { font-size: 17px; letter-spacing: .04em; color: rgba(255, 255, 255, .6); }
+.mp-zona { display: flex; align-items: baseline; gap: 8px; padding: 7px 11px; background: #fff; color: var(--texto); border: 0; border-radius: 2px; font: 600 14px/1.1 "Outfit", sans-serif; cursor: pointer; box-shadow: 0 1px 6px rgba(0, 12, 40, .45); white-space: nowrap; }
+.mp-zona b { font: 700 14px/1 "Outfit", sans-serif; color: var(--acento); font-variant-numeric: tabular-nums; }
+.mp-zona:hover { background: var(--claro-2); }
+@media (pointer: coarse) { .mp-zona { min-height: 44px; align-items: center; } }
+
+/* ------------------------------------------------------------ panel: lista y ficha */
+.mp-panel { position: absolute; z-index: 5; left: 0; right: 0; bottom: 0; max-height: 72%; display: flex; flex-direction: column; background: var(--claro); color: var(--texto); border-radius: 10px 10px 0 0; box-shadow: 0 -2px 14px rgba(0, 12, 40, .3); }
+.mp-asa { flex: none; display: flex; align-items: center; justify-content: space-between; gap: 12px; width: 100%; min-height: 56px; padding: 6px 16px; background: transparent; border: 0; border-bottom: 1px solid var(--linea); color: inherit; cursor: pointer; text-align: left; }
+.mp-asa .a-region { font: 600 19px/1.15 "Outfit", sans-serif; }
+.mp-asa .a-cuenta { display: block; font: 500 12.5px/1.3 "Jakarta", sans-serif; color: var(--texto-2); }
+.mp-asa .a-accion { flex: none; font: 600 14px "Outfit", sans-serif; text-decoration: underline; text-underline-offset: 4px; }
+.mp-cuerpo { flex: 1; min-height: 0; overflow-y: auto; -webkit-overflow-scrolling: touch; overscroll-behavior: contain; }
+.mp-explorador.hoja-baja .mp-cuerpo { display: none; }
+.mp-explorador.con-ficha .mp-panel { max-height: 56%; }
+
+.mp-cabeza { padding: 6px 16px 12px; border-bottom: 1px solid var(--linea); }
+.mp-cabeza .fila { display: flex; flex-direction: column-reverse; align-items: flex-start; } /* el enlace para cambiar de región va arriba del nombre */
+.mp-cabeza h2, .mp-cabeza .cuenta { display: none; } /* en teléfono ya los dice el asa */
+.mp-volver { min-height: 44px; padding: 0; background: none; border: 0; color: var(--texto); font: 600 14px "Outfit", sans-serif; text-decoration: underline; text-underline-offset: 4px; cursor: pointer; }
+.mp-buscar { width: 100%; min-height: 46px; padding: 0 12px; border: 1px solid var(--texto-2); border-radius: 2px; background: var(--claro); color: var(--texto); font: 400 16px "Jakarta", sans-serif; }
+.mp-buscar::placeholder { color: var(--texto-2); }
+
+.mp-grupo { margin: 0; padding: 16px 16px 6px; font: 700 11.5px/1.3 "Jakarta", sans-serif; letter-spacing: .12em; text-transform: uppercase; color: var(--texto-2); }
+.mp-filas { list-style: none; margin: 0; padding: 0; }
+.mp-fila { display: grid; grid-template-columns: 16px 1fr; column-gap: 12px; align-items: start; width: 100%; min-height: 56px; padding: 10px 16px; background: transparent; border: 0; border-bottom: 1px solid var(--linea); color: inherit; text-align: left; cursor: pointer; }
+.mp-fila .pin { margin-top: 5px; }
+.mp-fila .f-nombre { display: block; font: 600 16px/1.25 "Outfit", sans-serif; }
+.mp-fila .f-linea { display: block; margin-top: 2px; font-size: 13px; line-height: 1.35; color: var(--texto-2); }
+.mp-fila:hover, .mp-fila.encendida { background: var(--claro-2); }
+.mp-fila.apagada { opacity: .45; }
+.mp-vacio { margin: 0; padding: 20px 16px; color: var(--texto-2); }
+.mp-mas { display: block; width: 100%; min-height: 48px; padding: 0 16px; background: none; border: 0; border-bottom: 1px solid var(--linea); color: var(--texto); font: 600 14px "Outfit", sans-serif; text-align: left; text-decoration: underline; text-underline-offset: 4px; cursor: pointer; }
+
+.mp-ficha { padding: 6px 16px 22px; }
+.mp-ficha[hidden], .mp-lista[hidden], .mp-cabeza[hidden] { display: none; }
+.mp-ficha-nav { display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 48px; border-bottom: 1px solid var(--linea); margin-bottom: 16px; }
+.mp-ficha-nav .pasos { display: flex; align-items: center; gap: 4px; font-size: 13px; color: var(--texto-2); font-variant-numeric: tabular-nums; }
+.mp-ficha-nav .pasos button { min-width: 44px; min-height: 44px; background: none; border: 0; color: var(--texto); font: 600 14px "Outfit", sans-serif; text-decoration: underline; text-underline-offset: 4px; cursor: pointer; }
+.mp-ficha-nav .pasos button:disabled { color: var(--texto-2); text-decoration: none; opacity: .5; cursor: default; }
+.mp-nivel { display: flex; align-items: center; gap: 9px; margin: 0 0 8px; font: 700 12px/1.3 "Jakarta", sans-serif; letter-spacing: .1em; text-transform: uppercase; color: var(--texto-2); }
+.mp-ficha h3 { font-size: 26px; line-height: 1.12; }
+.mp-ficha h3:focus { outline: none; } /* recibe el foco por guion al abrir la ficha; no es un control */
+.mp-ficha .f-alias { margin: 6px 0 0; font-size: 13.5px; color: var(--texto-2); }
+.mp-ficha .f-que { margin: 12px 0 0; font-size: 14.5px; line-height: 1.5; }
+.mp-datos { margin: 18px 0 0; border-top: 1px solid var(--linea); }
+.mp-datos div { display: grid; grid-template-columns: 104px 1fr; gap: 12px; padding: 11px 0; border-bottom: 1px solid var(--linea); }
+.mp-datos dt { font-size: 13px; color: var(--texto-2); }
+.mp-datos dd { margin: 0; font-size: 14.5px; line-height: 1.45; overflow-wrap: anywhere; }
+.mp-datos dd small { display: block; margin-top: 3px; font-size: 12.5px; color: var(--texto-2); }
+.mp-datos .no { color: var(--texto-2); }
+.mp-datos dd a { display: inline-flex; align-items: center; min-height: 44px; margin: -11px 0; text-underline-offset: 4px; } /* la fuente se toca con el dedo */
+.mp-acciones { display: flex; flex-direction: column; align-items: flex-start; gap: 4px; margin-top: 18px; }
+.mp-acciones .boton { margin-bottom: 8px; }
+.mp-acciones a:not(.boton) { display: inline-flex; align-items: center; min-height: 44px; font-weight: 600; font-size: 14.5px; text-underline-offset: 4px; }
+.mp-nota { margin: 16px 0 0; font-size: 12.5px; line-height: 1.5; color: var(--texto-2); }
+.mp-aviso { margin: 0; padding: 14px 16px 18px; font-size: 12px; line-height: 1.5; color: var(--texto-2); }
+.mp-aviso a { color: inherit; text-underline-offset: 3px; }
+
+@media (min-width: 1024px) {
+  .mp-panel, .mp-explorador.con-ficha .mp-panel { left: 0; top: var(--nav); bottom: 0; right: auto; width: 408px; max-height: none; border-radius: 0; box-shadow: 1px 0 0 var(--linea); }
+  .mp-asa { display: none; }
+  .mp-explorador.hoja-baja .mp-cuerpo { display: block; }
+  .mp-mapa-caja { left: 408px; }
+  .mp-cabeza { padding: 8px 24px 16px; }
+  .mp-cabeza h2 { display: block; font-size: 30px; line-height: 1.1; }
+  .mp-cabeza .cuenta { display: block; margin: 2px 0 14px; font-size: 13.5px; color: var(--texto-2); }
+  .mp-grupo { padding: 18px 24px 6px; }
+  .mp-fila { padding: 11px 24px; }
+  .mp-mas, .mp-vacio { padding-left: 24px; padding-right: 24px; }
+  .mp-ficha { padding: 8px 24px 26px; }
+  .mp-aviso { padding: 14px 24px 22px; }
+  .mp-leyenda { display: block; }
+  .mp-vista { left: 16px; top: 16px; }
+  .mp-camara { right: 16px; top: 16px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .mp-punto i { transition: none; }
+}

@@ -1,6 +1,6 @@
 # Invest Texas Hub
 
-Guía independiente en español. Texto de las páginas publicables, sus fuentes y fechas. Generado desde el HTML local y los datos de los módulos; no incluye respuestas personales ni el mapa de parques en construcción.
+Guía independiente en español. Texto de las páginas publicables, sus fuentes y fechas. Generado desde el HTML local y los datos de los módulos; no incluye respuestas personales.
 
 
 ---
@@ -229,7 +229,9 @@ Parques
 
 ### Parques y naves, verificados uno por uno
 
-Las fichas reúnen nombre, promotor y ubicación comprobados, con fuente y fecha. Los demás parques siguen en verificación.
+Las fichas reúnen nombre, promotor y ubicación comprobados, con fuente y fecha. Los demás parques están en el mapa, cada uno con la fuente que lo nombra, y siguen en verificación.
+
+[Abrir el mapa de parques](https://investtexashub.com/mapa/index.html)
 
 Laredo Sur de Dallas
 
@@ -348,6 +350,10 @@ El sitio no pide registro. Si nos escribes por correo, tu mensaje llega a ese bu
 Usamos Google Analytics para saber cuántas personas visitan el sitio, desde qué país y qué páginas leen. Google Analytics guarda cookies en tu navegador y no recibe tu nombre ni tu correo. No usamos esos datos para publicidad ni los vendemos. Google los trata conforme a su [política de privacidad](https://policies.google.com/privacy?hl=es).
 
 Puedes impedir esta medición si bloqueas las cookies en tu navegador o si instalas el [complemento de Google para inhabilitar Google Analytics](https://tools.google.com/dlpage/gaoptout?hl=es).
+
+### Mapa de parques
+
+El mapa de parques pide su imagen de fondo a servidores de terceros. La imagen de satélite viene del U.S. Geological Survey y la vista de mapa, de OpenFreeMap. Como en cualquier página, esos servidores reciben la dirección IP de tu dispositivo y la zona que estás viendo. No les mandamos tu nombre, tu correo ni tus respuestas. El mapa sólo se carga cuando eliges una región o llegas con el enlace de un parque.
 
 ### Enlaces a otros sitios
 
@@ -948,6 +954,626 @@ Consulta del 11 de noviembre de 2026. Las fechas siguientes corresponden a la fu
 ---
 
 
+# https://investtexashub.com/mapa/
+
+Modificación del mapa del sitio: 2026-11-11
+
+Parques industriales
+
+## Dónde están los parques industriales de Texas
+
+552 parques y conjuntos industriales, cada uno con su fuente. 442 ya tienen punto en el mapa. Elige una región en la lista o en el mapa.
+
+- Laredo54 en el mapa, 7 en lista
+- Valle del Río Grande72 en el mapa, 22 en lista
+- San Antonio22 en el mapa, 9 en lista
+- Austin67 en el mapa, 24 en lista
+- Dallas-Fort Worth88 en el mapa, 22 en lista
+- Houston121 en el mapa, 20 en lista
+- El Paso18 en el mapa, 6 en lista
+- Todo Texas442 en el mapa
+
+[Ver sólo los parques verificados](https://investtexashub.com/parques/index.html). Satélite NASA Blue Marble vía GIBS.
+
+Para usar el mapa hace falta JavaScript. Las fichas ya verificadas están en [Parques industriales verificados](https://investtexashub.com/parques/index.html).
+
+### Directorio de parques del mapa
+
+552 parques y conjuntos industriales, 442 con punto en el mapa. Datos generados el 2026-11-11.
+
+Verificado quiere decir nombre, promotor y punto comprobados con fuente propia. Confirmado, identidad y punto tomados del desarrollador. En el directorio, que lo nombra una fuente pública y falta verificar el conjunto. Un nombre tomado de un plano de subdivisión no acredita que el parque esté en operación ni quién lo promueve.
+
+#### Laredo
+
+61 parques y conjuntos, 54 con punto en el mapa.
+
+- North Laredo Industrial Park. Laredo. Verificado, con ficha. Fuente: [North Laredo Industrial Park](https://northlaredoindustrialpark.net/lots/).
+- Pinnacle Industry Center. Laredo. Verificado, con ficha. Fuente: [Kraus Development](https://www.krausdevelopment.com/pinnacle-industry-center-2).
+- Port Grande. Laredo. Verificado, con ficha. Fuente: [Majestic Realty / Port Grande](https://www.portgrande.com/).
+- World Logistics Park. Condado de Webb. Verificado, con ficha. Fuente: [World Logistics Park](https://worldlogisticspark.com/).
+- Gateway Industrial Park. Condado de Webb. Confirmado con el desarrollador. Fuente: [Kraus Development](https://www.krausdevelopment.com/gateway).
+- Crossroads. Laredo. En el directorio. Fuente: City of Laredo.
+- Del Mar Industrial Park. Laredo. En el directorio. Fuente: Laredo Metropolitan Planning Organization.
+- E.G. Business Park. Laredo. En el directorio. Fuente: City of Laredo, Open Data, planos de subdivisión.
+- El Portal Industrial Park. Laredo. En el directorio. Fuente: City of Laredo.
+- Embarcadero Business Park. Laredo. En el directorio. Fuente: Foreign-Trade Zones Board, OFIS.
+- Emerald Industrial Park. Laredo. En el directorio. Fuente: City of Laredo, Planning and Zoning.
+- Fesco Business Park. Laredo. En el directorio. Fuente: City of Laredo, Open Data, planos de subdivisión.
+- Garmar Industrial Park. Laredo. En el directorio. Fuente: Laredo Economic Development Corporation.
+- IH 35 Business Park. Laredo. En el directorio. Fuente: City of Laredo, Open Data, planos de subdivisión.
+- Inter-America Distribution Center. Laredo. En el directorio. Fuente: City of Laredo.
+- International Commerce Center. Laredo. En el directorio. Fuente: City of Laredo.
+- International Trade Center. Laredo. En el directorio. Fuente: WhiteArk.
+- Khaledi Industrial Park. Laredo. En el directorio. Fuente: City of Laredo.
+- Killam Industrial Park. Laredo. En el directorio. Fuente: Killam Development.
+- La Barranca Industrial Park. Laredo. En el directorio. Fuente: City of Laredo.
+- Laredo Distribution Center. Laredo. En el directorio. Fuente: City of Laredo, Open Data, planos de subdivisión.
+- Laredo International Airpark. Laredo. En el directorio. Fuente: Foreign-Trade Zones Board, OFIS.
+- Laredo International Airport Industrial Park. Ciudad no informada. En el directorio. Fuente: Foreign-Trade Zones Board, OFIS.
+- Laredo Logistic Center. Ciudad no informada. En el directorio. Fuente: City of Laredo, Planning and Zoning.
+- Las Lomas Industrial Park. Laredo. En el directorio. Fuente: City of Laredo.
+- Las Minas Industrial Park. Laredo. En el directorio. Fuente: City of Laredo.
+- Mann Road Commercial Park. Laredo. En el directorio. Fuente: Laredo Economic Development Corporation.
+- Martinez Business Park. Laredo. En el directorio. Fuente: City of Laredo, Open Data, planos de subdivisión.
+- McPherson Acres Industrial Park. Ciudad no informada. En el directorio. Fuente: Laredo Metropolitan Planning Organization.
+- Millennium Industrial Park. Laredo. En el directorio. Fuente: Laredo Economic Development Corporation.
+- Milo Distribution Center. Laredo. En el directorio. Fuente: City of Laredo.
+- Mines Road Industrial Park. Laredo. En el directorio. Fuente: City of Laredo, Open Data, planos de subdivisión.
+- Missouri Pacific Railyards. Laredo. En el directorio. Fuente: City of Laredo.
+- Modern Industrial Park. Laredo. En el directorio. Fuente: City of Laredo.
+- N.D. Hachar Industrial Park. Laredo. En el directorio. Fuente: City of Laredo, Planning and Zoning.
+- New Trade Center. Laredo. En el directorio. Fuente: City of Laredo.
+- North American Industrial Park. Laredo. En el directorio. Fuente: Webb County Clerk.
+- North Webb Industrial Park. Laredo. En el directorio. Fuente: WhiteArk.
+- Octavio Salinas Industrial Park. Laredo. En el directorio. Fuente: City of Laredo.
+- Pan American Business Park. Laredo. En el directorio. Fuente: City of Laredo.
+- Paso del Norte Industrial Park. Laredo. En el directorio. Fuente: City of Laredo.
+- Pellegrino Industrial Park. Laredo. En el directorio. Fuente: Laredo Economic Development Corporation.
+- Pinto Valle Industrial Park. Laredo. En el directorio. Fuente: Webb County Planning.
+- Ponderosa Industrial Park. Laredo. En el directorio. Fuente: City of Laredo.
+- Port Laredo Industrial Park. Ciudad no informada. En el directorio. Fuente: City of Laredo, Planning and Zoning.
+- Premier Industrial Park. Ciudad no informada. En el directorio. Fuente: Cawley Partners.
+- Quivira Industrial Park. Laredo. En el directorio. Fuente: City of Laredo.
+- R.M.R. Industrial Park. Laredo. En el directorio. Fuente: City of Laredo, Open Data, planos de subdivisión.
+- San Isidro Business Park. Laredo. En el directorio. Fuente: City of Laredo, Open Data, planos de subdivisión.
+- San Isidro Ranch East Point Center. Laredo. En el directorio. Fuente: City of Laredo, Planning and Zoning.
+- Sophia Industrial Park. Laredo. En el directorio. Fuente: Laredo Economic Development Corporation.
+- South Laredo Industrial Park. Laredo. En el directorio. Fuente: City of Laredo.
+- South Texas Oil & Gas Industrial Park. Laredo. En el directorio. Fuente: City of Laredo.
+- South Webb Industrial Park. Ciudad no informada. En el directorio. Fuente: Laredo Economic Development Corporation.
+- Southern Development Industrial Park. Laredo. En el directorio. Fuente: City of Laredo.
+- TWJ Industrial Park. Laredo. En el directorio. Fuente: City of Laredo, Open Data, planos de subdivisión.
+- Tejas Industrial Park. Laredo. En el directorio. Fuente: Laredo Economic Development Corporation.
+- Tex-Mex Industrial Park. Laredo. En el directorio. Fuente: City of Laredo, Open Data, planos de subdivisión.
+- Township Logistics Park at Talise. Ciudad no informada. En el directorio. Fuente: Stewart Development.
+- Unitec Industrial Park. Laredo. En el directorio. Fuente: Foreign-Trade Zones Board, OFIS.
+- Wisdom Industrial Park. Laredo. En el directorio. Fuente: North Laredo Industrial Park.
+
+#### Valle del Río Grande
+
+94 parques y conjuntos, 72 con punto en el mapa.
+
+- Capote International Business Park. Pharr. Confirmado con el desarrollador. Fuente: [Capote International Business Park / Ocotillo Capital Partners](https://www.capotecrossing.com/).
+- Industrial Park at Roosevelt. Harlingen. Confirmado con el desarrollador. Fuente: [Harlingen Economic Development Corporation](https://static1.squarespace.com/static/6660753305297d790f628bf0/t/68434ff84494bd77457d438d/1749241900321/Industrial%2BPark%2Bat%2BRoosevelt%2BSpec%2BSheet.pdf).
+- 281 Industrial Park. Edinburg. En el directorio. Fuente: City of Edinburg, planos de subdivisión.
+- 6400 Industrial Center. McAllen. En el directorio. Fuente: City of McAllen, planos de subdivisión.
+- 802 Industrial Park. Ciudad no informada. En el directorio. Fuente: Greater Brownsville Incentives Corporation.
+- 802 Industrial Park West. Brownsville. En el directorio. Fuente: City of Brownsville, planos de subdivisión.
+- Airport Industrial Park. Brownsville. En el directorio. Fuente: Greater Brownsville Incentives Corporation.
+- Albrad Business Park. Pharr. En el directorio. Fuente: City of Pharr, planos de subdivisión.
+- Alianza Business Park. Pharr. En el directorio. Fuente: City of Pharr, planos de subdivisión.
+- Bahn Industrial Park. Ciudad no informada. En el directorio. Fuente: Pharr Economic Development Corporation.
+- Bebo Industrial Park. Pharr. En el directorio. Fuente: City of Pharr, planos de subdivisión.
+- Bert Ogden Industrial Park. Edinburg. En el directorio. Fuente: City of Edinburg, planos de subdivisión.
+- Big D Industrial Park. Pharr. En el directorio. Fuente: City of Pharr, planos de subdivisión.
+- Big Horn Business Park. Edinburg. En el directorio. Fuente: City of Edinburg, planos de subdivisión.
+- Border Line Industrial Park. Pharr. En el directorio. Fuente: City of Pharr, planos de subdivisión.
+- Botelo Industrial Park. McAllen. En el directorio. Fuente: City of McAllen, Planning.
+- Brownsville Industrial Park. Brownsville. En el directorio. Fuente: City of Brownsville, planos de subdivisión.
+- Business Park at Trinity. Ciudad no informada. En el directorio. Fuente: Mission Economic Development Corporation.
+- Center Point Plaza Industrial Park. Brownsville. En el directorio. Fuente: City of Brownsville, planos de subdivisión.
+- Chapin Industrial Park. Edinburg. En el directorio. Fuente: City of Edinburg, planos de subdivisión.
+- Cibolo Industrial Park. Edinburg. En el directorio. Fuente: City of Edinburg, planos de subdivisión.
+- Coffee Port Industrial Park. Brownsville. En el directorio. Fuente: Greater Brownsville Incentives Corporation.
+- Corrigan Ramos Industrial Park. Brownsville. En el directorio. Fuente: City of Brownsville, planos de subdivisión.
+- Del Prado Business Park. Edinburg. En el directorio. Fuente: City of Edinburg, planos de subdivisión.
+- Donna Industrial Park. Ciudad no informada. En el directorio. Fuente: City of Donna.
+- Elca Industrial Park. Brownsville. En el directorio. Fuente: City of Brownsville, planos de subdivisión.
+- Espensen Industrial Park. McAllen. En el directorio. Fuente: City of McAllen, planos de subdivisión.
+- FM 802 Industrial Park. Brownsville. En el directorio. Fuente: City of Brownsville, planos de subdivisión.
+- Gerald Mann Industrial Park. McAllen. En el directorio. Fuente: City of McAllen, planos de subdivisión.
+- Greater Brownsville Tech District. Ciudad no informada. En el directorio. Fuente: Greater Brownsville Incentives Corporation.
+- Hackberry Business Park. McAllen. En el directorio. Fuente: City of McAllen, planos de subdivisión.
+- Hanmore Industrial Park. Ciudad no informada. En el directorio. Fuente: Harlingen Economic Development Corporation, portal de sitios.
+- Harlingen Aerotropolis. Ciudad no informada. En el directorio. Fuente: Harlingen Economic Development Corporation.
+- Harlingen Business Park. Ciudad no informada. En el directorio. Fuente: CBRE, comercializador del inmueble.
+- Harlingen Industrial Park. Ciudad no informada. En el directorio. Fuente: Harlingen Economic Development Corporation.
+- Herritage Business Park. Rio Grande City. En el directorio. Fuente: Starr County Appraisal District, BIS Consulting, planos de subdivisión.
+- International Industrial Park. Brownsville. En el directorio. Fuente: City of Brownsville, planos de subdivisión.
+- JCS Industrial Park. Brownsville. En el directorio. Fuente: City of Brownsville, planos de subdivisión.
+- Keystone Business Park. Ciudad no informada. En el directorio. Fuente: Pharr Economic Development Corporation.
+- Kings Road Industrial Park. Brownsville. En el directorio. Fuente: City of Brownsville, planos de subdivisión.
+- Lakes Business Park. McAllen. En el directorio. Fuente: City of McAllen, planos de subdivisión.
+- Las Palmas Industrial Park. McAllen. En el directorio. Fuente: City of McAllen, planos de subdivisión.
+- Maco Industrial Park. Pharr. En el directorio. Fuente: City of Pharr, planos de subdivisión.
+- Majestic International Trade Port. Ciudad no informada. En el directorio. Fuente: Majestic Realty / CBRE.
+- McAllen Foreign Trade Zone Intermodal. McAllen. En el directorio. Fuente: City of McAllen, planos de subdivisión.
+- McAllen Near-Shoring Industrial Park. McAllen. En el directorio. Fuente: City of McAllen, planos de subdivisión.
+- McAllen Nearshoring Industrial Park. Ciudad no informada. En el directorio. Fuente: CIL Capital.
+- McAllen Palms Business Park. McAllen. En el directorio. Fuente: City of McAllen, planos de subdivisión.
+- McAllen South Industrial Park. McAllen. En el directorio. Fuente: City of McAllen, Planning.
+- McAllen Southwest Industrial Area. Ciudad no informada. En el directorio. Fuente: Foreign-Trade Zones Board, OFIS.
+- McAllen Southwest Industrial District. McAllen. En el directorio. Fuente: City of McAllen, planos de subdivisión.
+- Mid-Cities Business Park. Pharr. En el directorio. Fuente: City of Pharr, planos de subdivisión.
+- Mid-Valley Industrial Park #1. Weslaco. En el directorio. Fuente: Economic Development Corporation of Weslaco.
+- Mid-Valley International Industrial Park. Weslaco. En el directorio. Fuente: Economic Development Corporation of Weslaco.
+- Military Industrial Park. McAllen. En el directorio. Fuente: City of McAllen, planos de subdivisión.
+- Mission Expressway Business Park. Ciudad no informada. En el directorio. Fuente: Altiva Management Group, encargo de reclutamiento de Mission EDC.
+- Monarch Business Park. Pharr. En el directorio. Fuente: Crexi, ficha de inmueble.
+- NAFTA Industrial Park. Brownsville. En el directorio. Fuente: Port of Brownsville, Foreign Trade Zone 62.
+- North Brownsville Industrial Park. Brownsville. En el directorio. Fuente: City of Brownsville.
+- North Industrial Park. Edinburg. En el directorio. Fuente: Edinburg Economic Development Corporation.
+- North McColl Business Park. McAllen. En el directorio. Fuente: City of McAllen, planos de subdivisión.
+- North Paredes Business Park. Brownsville. En el directorio. Fuente: City of Brownsville, planos de subdivisión.
+- Northwest Industrial Park. Condado de Starr. En el directorio. Fuente: Starr County Appraisal District, BIS Consulting, planos de subdivisión.
+- Owassa Industrial Park. Ciudad no informada. En el directorio. Fuente: Edinburg Economic Development Corporation.
+- Owassa Lake Business Park. Edinburg. En el directorio. Fuente: City of Edinburg, planos de subdivisión.
+- Pharr Bridge Business Park. Pharr. En el directorio. Fuente: City of Pharr.
+- Pharr Industrial Park. Ciudad no informada. En el directorio. Fuente: Pharr Industrial Park, sitio del proyecto.
+- Pharr International Industrial Park. Ciudad no informada. En el directorio. Fuente: MyOpenTexas, transcripción de Planning and Zoning de Pharr.
+- Pharr Las Milpas Industrial Park. Pharr. En el directorio. Fuente: City of Pharr, planos de subdivisión.
+- Pharr Logistics Center. Pharr. En el directorio. Fuente: CBRE.
+- Pharr Produce District. Ciudad no informada. En el directorio. Fuente: City of Pharr.
+- Ponderosa Business Park. McAllen. En el directorio. Fuente: City of McAllen, planos de subdivisión.
+- Queenstown Park. Ciudad no informada. En el directorio. Fuente: CIL Capital.
+- R.E.F. Industrial Park. Pharr. En el directorio. Fuente: City of Pharr, planos de subdivisión.
+- Renaissance Industrial Park. Ciudad no informada. En el directorio. Fuente: Edinburg Economic Development Corporation.
+- Security Drive Business Park. Brownsville. En el directorio. Fuente: City of Brownsville, planos de subdivisión.
+- Service Industrial Park. Brownsville. En el directorio. Fuente: City of Brownsville, planos de subdivisión.
+- Sharyland Business Park. Ciudad no informada. En el directorio. Fuente: Killam Development.
+- Sharyland Business Park. McAllen. En el directorio. Fuente: McAllen Economic Development Corporation.
+- South 23RD Business Park. McAllen. En el directorio. Fuente: City of McAllen, planos de subdivisión.
+- South Bentsen Industrial Park. McAllen. En el directorio. Fuente: City of McAllen, planos de subdivisión.
+- Southeast Industrial Park. Edinburg. En el directorio. Fuente: City of Edinburg, planos de subdivisión.
+- Spamer Business Park. Pharr. En el directorio. Fuente: City of Pharr, planos de subdivisión.
+- Starr County Industrial Park. Rio Grande City. En el directorio. Fuente: Starr County Appraisal District, BIS Consulting, planos de subdivisión.
+- Steel Horse Industrial Park. Pharr. En el directorio. Fuente: City of Pharr, planos de subdivisión.
+- Stoneridge Business Park. Edinburg. En el directorio. Fuente: City of Edinburg, planos de subdivisión.
+- Tanya Industrial Park. McAllen. En el directorio. Fuente: City of McAllen, planos de subdivisión.
+- Tres Puentes Industrial Park. Ciudad no informada. En el directorio. Fuente: Hidalgo Economic Development Corporation.
+- Vermillinois Industrial Park. Brownsville. En el directorio. Fuente: City of Brownsville, planos de subdivisión.
+- Veterans International Trade Center. Brownsville. En el directorio. Fuente: Greater Brownsville Incentives Corporation.
+- Victoria Lake Industrial Park. Brownsville. En el directorio. Fuente: Texas Real Estate Research Center, Texas A&M University.
+- Weslaco WDC Industrial Park. Weslaco. En el directorio. Fuente: City of Weslaco, planos de subdivisión.
+- West 83 Industrial Park. McAllen. En el directorio. Fuente: City of McAllen, planos de subdivisión.
+- West University Business Park. Edinburg. En el directorio. Fuente: City of Edinburg, planos de subdivisión.
+
+#### San Antonio
+
+31 parques y conjuntos, 22 con punto en el mapa.
+
+- 1604 Logistics Center. San Antonio. En el directorio. Fuente: City of San Antonio GIS, planos de subdivisión.
+- Alamo Junction Rail Park. Elmendorf. En el directorio. Fuente: National Property Holdings.
+- Alamo Ridge Business Park. San Antonio. En el directorio. Fuente: EastGroup Properties.
+- Arion Business Park. San Antonio. En el directorio. Fuente: EastGroup Properties.
+- Centeroint Industrial Park. San Antonio. En el directorio. Fuente: City of San Antonio GIS, planos de subdivisión.
+- Coliseum Distribution Center. San Antonio. En el directorio. Fuente: City of San Antonio.
+- Corridor Industrial Park. New Braunfels. En el directorio. Fuente: Texas Department of Licensing and Regulation.
+- East Gate Industrial Park. San Antonio. En el directorio. Fuente: City of San Antonio GIS, planos de subdivisión.
+- East Kelly Railport. San Antonio. En el directorio. Fuente: Port San Antonio.
+- Eisenhauer Point Distribution Center. San Antonio. En el directorio. Fuente: EastGroup Properties.
+- Foster Commerce Center. San Antonio. En el directorio. Fuente: Stream Realty Partners.
+- Foster Ridge Industrial Park. San Antonio. En el directorio. Fuente: City of San Antonio GIS, planos de subdivisión.
+- Galleria Industrial Park. Condado de Bexar. En el directorio. Fuente: City of San Antonio GIS, planos de subdivisión.
+- Innovation Industrial Park. San Antonio. En el directorio. Fuente: Merit Commercial Real Estate.
+- Interpark Logistics Center. San Antonio. En el directorio. Fuente: Stream Realty Partners.
+- Koehler Industrial Park. New Braunfels. En el directorio. Fuente: Texas Department of Licensing and Regulation.
+- Mission Rail Park. Floresville. En el directorio. Fuente: Mission Rail Park.
+- Park 35. Schertz. En el directorio. Fuente: City of Schertz.
+- Perrin Creek Business Park. San Antonio. En el directorio. Fuente: Prologis.
+- Ridgeview 1-3. San Antonio. En el directorio. Fuente: EastGroup Properties.
+- Rio Nogales Industrial Park. Seguin. En el directorio. Fuente: Seguin Economic Development Corporation.
+- Rittiman Crossroads Industrial Park. San Antonio. En el directorio. Fuente: City of San Antonio GIS, planos de subdivisión.
+- Rittiman Trade Center. San Antonio. En el directorio. Fuente: Stream Realty Partners.
+- Rosillo Creek Industrial Park. San Antonio. En el directorio. Fuente: City of San Antonio GIS, planos de subdivisión.
+- S Foster Industrial Park. San Antonio. En el directorio. Fuente: City of San Antonio GIS, planos de subdivisión.
+- Schertz Summit Park 1 & 2. San Antonio. En el directorio. Fuente: EastGroup Properties.
+- Seguin Commerce Park. Seguin. En el directorio. Fuente: City of Seguin.
+- TIP Selma. Selma. En el directorio. Fuente: Titan Development.
+- Tacco Industrial Park. Kirby. En el directorio. Fuente: City of San Antonio GIS, planos de subdivisión.
+- Titan Industrial Park: Schertz 312. Schertz. En el directorio. Fuente: Titan Development.
+- Tri-County Crossing. Schertz. En el directorio. Fuente: EastGroup Properties.
+
+#### Austin
+
+91 parques y conjuntos, 67 con punto en el mapa.
+
+- 12821 Titanium Street. Austin. En el directorio. Fuente: Logistics Property Company.
+- 195 Business Park. Condado de Williamson. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- 685 Business Park. Pflugerville. En el directorio. Fuente: City of Pflugerville, planos de subdivisión.
+- 79 Business Park. Condado de Williamson. En el directorio. Fuente: City of Round Rock Planning and Development Services, planos de subdivisión.
+- Airport Industrial Park. Georgetown. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- Airport Logistics Center. Austin. En el directorio. Fuente: Opportunity Austin.
+- Altman Business Park. Round Rock. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- Amifast Industrial Park. Liberty Hill. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- Austin Hills Commerce Center. Austin. En el directorio. Fuente: Opportunity Austin.
+- Bastrop Business and Industrial Park. Bastrop. En el directorio. Fuente: Bastrop EDC.
+- Bean Industrial Park. Liberty Hill. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- Blue Springs Business Park. Georgetown. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- Bluebonnet Business Center. Austin. En el directorio. Fuente: AQUILA Commercial, representante del proyecto.
+- Braker Business Park. Austin. En el directorio. Fuente: BKM Management Company.
+- Bratton Lane Business Park. Austin. En el directorio. Fuente: City of Round Rock Planning and Development Services, planos de subdivisión.
+- Bridge Business Park. Georgetown. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- Buda Commerce Center. Buda. En el directorio. Fuente: Opportunity Austin.
+- Burleson Tech Center. Austin. En el directorio. Fuente: Opportunity Austin.
+- Business Park at Brushy Creek. Condado de Williamson. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- CTX 110. Kyle. En el directorio. Fuente: Opportunity Austin.
+- Central Commerce Park. Condado de Travis. En el directorio. Fuente: Travis County GIS / Transportation and Natural Resources, planos de subdivisión.
+- Cimmaron Business Park. Liberty Hill. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- City Centre Business Park. Round Rock. En el directorio. Fuente: City of Round Rock Planning and Development Services, planos de subdivisión.
+- Colorado Crossing Distribution Center. Austin. En el directorio. Fuente: EastGroup Properties.
+- Cottonwood Creek Business Park. Cedar Park. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- Creekside Industrial Park. Round Rock. En el directorio. Fuente: City of Round Rock Planning and Development Services, planos de subdivisión.
+- Crossroads Logistics Center. Austin. En el directorio. Fuente: Opportunity Austin.
+- Crystal Falls Business Park. Leander. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- Elgin Business Park. Elgin. En el directorio. Fuente: Elgin EDC.
+- Expo Business Park. Austin. En el directorio. Fuente: Trammell Crow Company.
+- Forest Commons Business Park. Condado de Williamson. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- Gateway35. Georgetown. En el directorio. Fuente: Titan Development.
+- Georgetown Industrial Park South West. Georgetown. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- Georgetown Logistics Park. Georgetown. En el directorio. Fuente: Opportunity Austin.
+- Georgetown South Industrial Park. Georgetown. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- Gradiant Technology Park. Taylor. En el directorio. Fuente: Taylor EDC.
+- H & M Industrial Park. Leander. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- Harris Ridge Business Center. Austin. En el directorio. Fuente: EastGroup Properties.
+- Hays Commerce Center. Kyle. En el directorio. Fuente: Kyle Economic Development, reproducción de Austin Business Journal.
+- Heritage Grove Business Park. Leander. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- Hur Industrial Park. Cedar Park. En el directorio. Fuente: Travis County GIS / Transportation and Natural Resources, planos de subdivisión.
+- Hutto Crossing Industrial Park. Hutto. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- Hutto Industrial Park. Condado de Williamson. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- Hutto Innovation Business Park. Hutto. En el directorio. Fuente: Titan Development.
+- Hutto Mega TechCenter. Hutto. En el directorio. Fuente: Titan Development.
+- Industrial Park North. Georgetown. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- Interchange Business Park. Round Rock. En el directorio. Fuente: City of Round Rock Planning and Development Services, planos de subdivisión.
+- KW Industrial Park. Condado de Williamson. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- Kyle 35 Logistics Park. Kyle. En el directorio. Fuente: JLL, representante del vendedor.
+- Kyle Crossing Business Park. Kyle. En el directorio. Fuente: Majestic Realty Co..
+- LR Williams Business Park. Condado de Williamson. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- La Jaita Business Park. Cedar Park. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- Leander Commerce Park. Leander. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- Leander183. Leander. En el directorio. Fuente: Titan Development.
+- Lockhart Industrial Park III. Lockhart. En el directorio. Fuente: Lockhart EDC.
+- Lockhart130. Lockhart. En el directorio. Fuente: Titan Development.
+- Lone Star Business Park. Condado de Williamson. En el directorio. Fuente: City of Round Rock Planning and Development Services, planos de subdivisión.
+- Longhorn Junction Logistics Center. Georgetown. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- Met Center. Austin. En el directorio. Fuente: Opportunity Austin.
+- MidPointe Logistics Centre. San Marcos. En el directorio. Fuente: Majestic Realty Co..
+- Midway Business Park. Georgetown. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- Mustang Creek Industrial Park. Taylor. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- New Hope Business Park. Cedar Park. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- NorthPark35. Georgetown. En el directorio. Fuente: Titan Development.
+- One Thirty Business Park. Pflugerville. En el directorio. Fuente: Pflugerville Community Development Corporation, reproducción de Community Impact.
+- Park 183. Austin. En el directorio. Fuente: Trammell Crow Company.
+- Park 290. Austin. En el directorio. Fuente: Opportunity Austin.
+- Park 96. Austin. En el directorio. Fuente: Stream Realty Partners.
+- Pflugerville Industrial Park. Pflugerville. En el directorio. Fuente: City of Pflugerville, planos de subdivisión.
+- Picadilly Business Park. Pflugerville. En el directorio. Fuente: City of Round Rock Planning and Development Services, planos de subdivisión.
+- Plum Creek Industrial Center. Kyle. En el directorio. Fuente: Kyle Economic Development, reproducción de Austin Business Journal.
+- RCR Taylor Logistics Park. Taylor. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- River Oaks - IH 35 Business Park. Georgetown. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- Round Rock Commerce Park. Round Rock. En el directorio. Fuente: City of Round Rock Planning and Development Services, planos de subdivisión.
+- Round Rock Industrial Park. Round Rock. En el directorio. Fuente: City of Round Rock Planning and Development Services, planos de subdivisión.
+- Rutland Business Park. Austin. En el directorio. Fuente: BKM Management Company.
+- San Marcos Business Park. San Marcos. En el directorio. Fuente: Stream Realty Partners, representante del proyecto.
+- Settlers Crossing. Round Rock. En el directorio. Fuente: EastGroup Properties.
+- Seward Industrial Park. Condado de Williamson. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- Shiller Business Park. Georgetown. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- South Town Industrial Park. Georgetown. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- Southpark Commerce Center II. Austin. En el directorio. Fuente: Hines.
+- Southpark Corporate Center. Austin. En el directorio. Fuente: EastGroup Properties.
+- Springbrook II Business Park. Pflugerville. En el directorio. Fuente: City of Pflugerville, planos de subdivisión.
+- Springbrook Industrial Park. Pflugerville. En el directorio. Fuente: City of Pflugerville, planos de subdivisión.
+- Springdale Business Center. Austin. En el directorio. Fuente: EastGroup Properties.
+- Stonefield 35. Austin. En el directorio. Fuente: EastGroup Properties.
+- T.K. Industrial Park. Hutto. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- Texas Avenue 1 & 2. Round Rock. En el directorio. Fuente: EastGroup Properties.
+- Titan Innovation Business Park. Hutto. En el directorio. Fuente: City of Georgetown, planos de subdivisión.
+- Tradesmens Industrial Park. Condado de Williamson. En el directorio. Fuente: City of Round Rock Planning and Development Services, planos de subdivisión.
+
+#### Dallas-Fort Worth
+
+110 parques y conjuntos, 88 con punto en el mapa.
+
+- Logistix Hub South Dallas. Wilmer. Verificado, con ficha. Fuente: [Wilmer Municipal Utility District No. 1](https://samco.postos.com/wp-content/uploads/2025/08/Wilmer-MUD-1-FOS-Second-Revised.pdf).
+- Longhorn 35 Logistics Park. Lancaster. Verificado, con ficha. Fuente: [Johnson Development Associates](https://www.johnsondevelopment.net/industrial/properties/i35-distribution-center-i).
+- 35|Eagle. Fort Worth. En el directorio. Fuente: Trammell Crow Company.
+- Adams Industrial Park. Fort Worth. En el directorio. Fuente: City of Fort Worth Development Services, planos de subdivisión.
+- Airport Industrial Park. Grand Prairie. En el directorio. Fuente: City of Grand Prairie, planos de subdivisión.
+- Alcott Logistics Station. Mesquite. En el directorio. Fuente: City of Mesquite Economic Development.
+- Allen Station I & II. Allen. En el directorio. Fuente: EastGroup Properties.
+- Alliance Gateway. Fort Worth. En el directorio. Fuente: Hillwood.
+- Alliance Westport. Fort Worth. En el directorio. Fuente: Hillwood.
+- Ambassador Industrial District. Dallas. En el directorio. Fuente: City of Dallas Development Services GIS, planos de subdivisión.
+- Arlington Tech Center. Arlington. En el directorio. Fuente: EastGroup Properties.
+- Basswood 35. Fort Worth. En el directorio. Fuente: EastGroup Properties.
+- Bear Creek Logistics Park. Irving. En el directorio. Fuente: Logistics Property Company.
+- Bell Helicopter Industrial Park. Fort Worth. En el directorio. Fuente: City of Fort Worth Development Services, planos de subdivisión.
+- Berry Industrial Park. Fort Worth. En el directorio. Fuente: City of Fort Worth Development Services, planos de subdivisión.
+- Boswell Industrial Park. Fort Worth. En el directorio. Fuente: City of Fort Worth Development Services, planos de subdivisión.
+- Brookfield Frontier Industrial Park. Fort Worth. En el directorio. Fuente: City of Fort Worth Development Services, planos de subdivisión.
+- Buckner Park Industrial District. Dallas. En el directorio. Fuente: City of Dallas Development Services GIS, planos de subdivisión.
+- Burlington Industrial District. Fort Worth. En el directorio. Fuente: City of Fort Worth Development Services, planos de subdivisión.
+- CORE35 Logistics Center. Dallas. En el directorio. Fuente: City of Dallas Development Services GIS, planos de subdivisión.
+- Campus Industrial Park. Fort Worth. En el directorio. Fuente: City of Fort Worth Development Services, planos de subdivisión.
+- Carter Industrial Park. Fort Worth. En el directorio. Fuente: Foreign-Trade Zones Board / Federal Register.
+- Cedardale Distribution Center. Dallas. En el directorio. Fuente: Trammell Crow Company.
+- Craine Industrial Park. Fort Worth. En el directorio. Fuente: City of Fort Worth Development Services, planos de subdivisión.
+- Creekview 121. Lewisville. En el directorio. Fuente: EastGroup Properties.
+- Crossroads Logistics Park. Midlothian. En el directorio. Fuente: City of Midlothian.
+- DFW Global Logistics Centre. Grapevine. En el directorio. Fuente: EastGroup Properties.
+- DalPort Trade Center. Wilmer. En el directorio. Fuente: Panattoni.
+- Dalho Industrial Park. Dallas. En el directorio. Fuente: City of Dallas Development Services GIS, planos de subdivisión.
+- Dallas Global Industrial Center. Dallas. En el directorio. Fuente: City of Dallas Development Services GIS, planos de subdivisión.
+- Denton 35 Exchange. Denton. En el directorio. Fuente: EastGroup Properties.
+- Duncan Perry Industrial Park. Grand Prairie. En el directorio. Fuente: City of Grand Prairie, planos de subdivisión.
+- Dunn Properties Industrial Park. Dallas. En el directorio. Fuente: City of Dallas Development Services GIS, planos de subdivisión.
+- Esco Industrial Park. Fort Worth. En el directorio. Fuente: City of Fort Worth Development Services, planos de subdivisión.
+- First Pinnacle Industrial Park. Dallas. En el directorio. Fuente: City of Dallas Development Services GIS, planos de subdivisión.
+- Fort Worth Logistics Hub. Fort Worth. En el directorio. Fuente: City of Fort Worth Development Services, planos de subdivisión.
+- Forum Industrial Park. Grand Prairie. En el directorio. Fuente: City of Grand Prairie, planos de subdivisión.
+- Helms Trail Industrial. Forney. En el directorio. Fuente: Stream Realty Partners.
+- Heritage Trace Logistics Park. Fort Worth. En el directorio. Fuente: City of Fort Worth Development Services, planos de subdivisión.
+- Highland Industrial Park. Dallas. En el directorio. Fuente: City of Dallas Development Services GIS, planos de subdivisión.
+- IAC Pleasant Run. Ciudad no informada. En el directorio. Fuente: IAC Properties.
+- IH-20 Logistics Park. Dallas. En el directorio. Fuente: City of Dallas Development Services GIS, planos de subdivisión.
+- International Commerce Park. DFW Airport. En el directorio. Fuente: Dallas Fort Worth International Airport.
+- Inwood Trade Center. Dallas. En el directorio. Fuente: Hines.
+- Kings Row Industrial District. Dallas. En el directorio. Fuente: City of Dallas Development Services GIS, planos de subdivisión.
+- Lake Vista Technology Park. Lewisville. En el directorio. Fuente: Trammell Crow Company.
+- LakePort Distribution Center. Flower Mound. En el directorio. Fuente: EastGroup Properties.
+- Lakeview Business District. Rowlett. En el directorio. Fuente: EastGroup Properties.
+- Lincoln Industrial Center. Grand Prairie. En el directorio. Fuente: City of Grand Prairie, planos de subdivisión.
+- Logistics Center 6 & 7. Irving. En el directorio. Fuente: EastGroup Properties.
+- Logistics Center at Bonnie View. Dallas. En el directorio. Fuente: City of Dallas Development Services GIS, planos de subdivisión.
+- Macarthur Grand Logistic Center. Grand Prairie. En el directorio. Fuente: City of Grand Prairie, planos de subdivisión.
+- Majestic Airport Center DFW. Lewisville. En el directorio. Fuente: Majestic Realty.
+- Majestic Fort Worth Partners. Fort Worth. En el directorio. Fuente: Majestic Realty.
+- Majestic Fort Worth South Business Park. Fort Worth. En el directorio. Fuente: Majestic Realty.
+- Majestic Silver Creek Business Park. Fort Worth. En el directorio. Fuente: Majestic Realty.
+- Mark IV Industrial Park. Fort Worth. En el directorio. Fuente: City of Fort Worth Development Services, planos de subdivisión.
+- McKinney 121. McKinney. En el directorio. Fuente: EastGroup Properties.
+- McKinney Airport Trade Center. McKinney. En el directorio. Fuente: EastGroup Properties.
+- Mercantile Center. Fort Worth. En el directorio. Fuente: City of Fort Worth.
+- Midlothian Business Park. Midlothian. En el directorio. Fuente: Midlothian Economic Development.
+- Midpoint Logistics Center. Lancaster. En el directorio. Fuente: Panattoni.
+- Mustang Creek Business Park North. Forney. En el directorio. Fuente: Forney Economic Development Corporation.
+- Mustang Creek Business Park South. Forney. En el directorio. Fuente: Forney Economic Development Corporation.
+- Northfield Distribution Center. Grapevine. En el directorio. Fuente: EastGroup Properties.
+- Northlink Logistics Center. Fort Worth. En el directorio. Fuente: City of Fort Worth Development Services, planos de subdivisión.
+- Northpoint Alliance Industrial Park. Fort Worth. En el directorio. Fuente: City of Fort Worth Development Services, planos de subdivisión.
+- Oakdale Logistics Center. Dallas. En el directorio. Fuente: City of Dallas Development Services GIS, planos de subdivisión.
+- Parc North. Fort Worth. En el directorio. Fuente: EastGroup Properties.
+- Parc SouthWest. Irving. En el directorio. Fuente: Stream Realty Partners.
+- ParkView Commerce Center. Flower Mound. En el directorio. Fuente: EastGroup Properties.
+- Passport Business Park. Irving. En el directorio. Fuente: Dalfen Industrial.
+- Patton Industrial Park. Fort Worth. En el directorio. Fuente: City of Fort Worth Development Services, planos de subdivisión.
+- Pinnacle Industrial Center. Dallas. En el directorio. Fuente: City of Dallas Development Services GIS, planos de subdivisión.
+- Pinnacle Industrial Park. Dallas. En el directorio. Fuente: City of Dallas Development Services GIS, planos de subdivisión.
+- Prime Pointe. Ciudad no informada. En el directorio. Fuente: Prime Rail Interests / Prime 45 Development.
+- Prologis Park 20/35. Lancaster. En el directorio. Fuente: Prologis.
+- RailPort Industrial Park. Midlothian. En el directorio. Fuente: City of Midlothian.
+- Red Bird Industrial Park West. Dallas. En el directorio. Fuente: City of Dallas Development Services GIS, planos de subdivisión.
+- Richland Industrial Park. Dallas. En el directorio. Fuente: City of Dallas Development Services GIS, planos de subdivisión.
+- Riverfront Logistics Park. Dallas. En el directorio. Fuente: Stream Realty Partners.
+- Royal Lane Industrial Park. Dallas. En el directorio. Fuente: City of Dallas Development Services GIS, planos de subdivisión.
+- Samsill Industrial Park. Fort Worth. En el directorio. Fuente: City of Fort Worth Development Services, planos de subdivisión.
+- Santa Fe Industrial District. Dallas. En el directorio. Fuente: City of Dallas Development Services GIS, planos de subdivisión.
+- Santa Fe NW Industrial Park. Fort Worth. En el directorio. Fuente: City of Fort Worth Development Services, planos de subdivisión.
+- Santa Fe SW Industrial Park. Fort Worth. En el directorio. Fuente: City of Fort Worth Development Services, planos de subdivisión.
+- Shady Trail Industrial Park. Dallas. En el directorio. Fuente: City of Dallas Development Services GIS, planos de subdivisión.
+- Southport Logistics Park. Ciudad no informada. En el directorio. Fuente: Logistics Property Company.
+- Southwest Industrial Park. Fort Worth. En el directorio. Fuente: City of Fort Worth Development Services, planos de subdivisión.
+- Speedway 2 Industrial Park. Fort Worth. En el directorio. Fuente: City of Fort Worth Development Services, planos de subdivisión.
+- Speedway 3 Industrial Park. Fort Worth. En el directorio. Fuente: City of Fort Worth Development Services, planos de subdivisión.
+- Steel One Industrial Park. Fort Worth. En el directorio. Fuente: City of Fort Worth Development Services, planos de subdivisión.
+- Sun Valley Industrial Park. Fort Worth. En el directorio. Fuente: City of Fort Worth Development Services, planos de subdivisión.
+- Sunridge Business Park. Ciudad no informada. En el directorio. Fuente: Scannell Properties, comunicado alojado por Wilmer EDC.
+- Sweeney, R E Industrial Park. Fort Worth. En el directorio. Fuente: City of Fort Worth Development Services, planos de subdivisión.
+- Sycamore Central Industrial Park. Fort Worth. En el directorio. Fuente: City of Fort Worth Development Services, planos de subdivisión.
+- Tarrant Industrial Park. Fort Worth. En el directorio. Fuente: City of Fort Worth Development Services, planos de subdivisión.
+- Texaco Industrial Park. Fort Worth. En el directorio. Fuente: City of Fort Worth Development Services, planos de subdivisión.
+- Towne Lake Business Center. Irving. En el directorio. Fuente: Panattoni.
+- Trinity Industrial Park. Fort Worth. En el directorio. Fuente: City of Fort Worth Development Services, planos de subdivisión.
+- Trinity Pointe. Mesquite. En el directorio. Fuente: Stream Realty Partners.
+- Ven Ken Industrial Park. Fort Worth. En el directorio. Fuente: City of Fort Worth Development Services, planos de subdivisión.
+- Vorelco Industrial Park. Fort Worth. En el directorio. Fuente: City of Fort Worth Development Services, planos de subdivisión.
+- Walnut Hill Industrial District. Dallas. En el directorio. Fuente: City of Dallas Development Services GIS, planos de subdivisión.
+- Walnut Hill North Industrial District. Dallas. En el directorio. Fuente: City of Dallas Development Services GIS, planos de subdivisión.
+- Walnut Stemmons Industrial Park. Dallas. En el directorio. Fuente: City of Dallas Development Services GIS, planos de subdivisión.
+- Wichita Industrial Park. Fort Worth. En el directorio. Fuente: City of Fort Worth Development Services, planos de subdivisión.
+- Wildlife Commerce Park. Grand Prairie. En el directorio. Fuente: City of Grand Prairie, planos de subdivisión.
+- Zale Industrial Park. Dallas. En el directorio. Fuente: City of Dallas Development Services GIS, planos de subdivisión.
+- Zodiac Industrial Park. Dallas. En el directorio. Fuente: City of Dallas Development Services GIS, planos de subdivisión.
+
+#### Houston
+
+141 parques y conjuntos, 121 con punto en el mapa.
+
+- 249 Business Park. Houston. En el directorio. Fuente: Panattoni Development Company.
+- Airport Business Park. Conroe. En el directorio. Fuente: City of Conroe GIS / Engineering, planos de subdivisión.
+- Airtex Industrial Park. Houston. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Aldine Bender Logistics Center. Houston. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- AmeriPort Industrial Park. Baytown. En el directorio. Fuente: Baytown–West Chambers County Economic Development Foundation.
+- April Business Park. Conroe. En el directorio. Fuente: City of Conroe GIS / Engineering, planos de subdivisión.
+- Atascocita Industrial Park. Houston. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Aurora Business Park. Conroe. En el directorio. Fuente: City of Conroe GIS / Engineering, planos de subdivisión.
+- BDF Business Park. Conroe. En el directorio. Fuente: City of Conroe GIS / Engineering, planos de subdivisión.
+- Baytown 10 Commerce Center. Baytown. En el directorio. Fuente: Baytown–West Chambers County Economic Development Foundation.
+- Baytown Grove Business Park. Baytown. En el directorio. Fuente: City of Baytown, planos de subdivisión.
+- Beltway Crossing Business Park. Houston. En el directorio. Fuente: EastGroup Properties.
+- Beltway Crossing NorthWest. Houston. En el directorio. Fuente: Panattoni Development Company.
+- Beltway Southwest Business Park. Houston. En el directorio. Fuente: Hines.
+- Blue Ridge Commerce Center. Houston. En el directorio. Fuente: Trammell Crow Company.
+- Boulevard Oaks. Houston. En el directorio. Fuente: Hines.
+- Brittmoore Tanner Industrial Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Bush Logistics Center. Houston. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Business Park South Loop 336 East. Conroe. En el directorio. Fuente: City of Conroe GIS / Engineering, planos de subdivisión.
+- Cannonball Industrial Park East. Houston. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Cannonball Industrial Park West. Houston. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Carpenters Logistics Center. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Central Green Business Park. Houston. En el directorio. Fuente: Seeberger Architecture.
+- Central Industrial Park. Houston. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Chambers 99 Logistics Center. Baytown. En el directorio. Fuente: Scannell Properties.
+- Charlies Business Park. Condado de Harris. En el directorio. Fuente: City of Tomball, planos de subdivisión.
+- Cherry Industrial Center. Condado de Fort Bend. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- CityPark Logistics Center. Missouri City. En el directorio. Fuente: Logistics Property Company.
+- Clay Bridgewater Commerce Park. Houston. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Clay Road Commerce Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Conroe Logistics Center. Conroe. En el directorio. Fuente: City of Conroe GIS / Engineering, planos de subdivisión.
+- Conroe Park North. Conroe. En el directorio. Fuente: Conroe Economic Development Council.
+- Conroe South Business Park. Conroe. En el directorio. Fuente: City of Conroe GIS / Engineering, planos de subdivisión.
+- Core5 Logistics Center at Airtex. Houston. En el directorio. Fuente: Stream Realty Partners.
+- Creation 1960 Industrial Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Creation Jackrabbit Industrial Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Crosby Logistics Center. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Curtis Steel Commerce Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Cypress Preserve 1 & 2. Houston. En el directorio. Fuente: EastGroup Properties.
+- Cypress Preserve Logistic Center. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- East Belt Logistics Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Eastwood Business Park. Conroe. En el directorio. Fuente: City of Conroe GIS / Engineering, planos de subdivisión.
+- Egypt Creek Business Park. Condado de Montgomery. En el directorio. Fuente: City of Conroe GIS / Engineering, planos de subdivisión.
+- Elyson Grand Central West Industrial Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- FM 1960 Industrial Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Fairway North Logistics Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Fallbrook Industrial Park. Houston. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Franz Industrial Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Frazier Commerce Park. Conroe. En el directorio. Fuente: City of Conroe GIS / Engineering, planos de subdivisión.
+- GCW Industrial Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Garfam Industries Industrial Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Gateway Ten Business Park. Baytown. En el directorio. Fuente: City of Baytown, planos de subdivisión.
+- Goodnight Trail Industrial Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Grand National Business Park. Houston. En el directorio. Fuente: Hines.
+- Grand Parkway Industrial Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Grand West Crossing. Houston. En el directorio. Fuente: EastGroup Properties.
+- Greens Bayou Marine Industrial Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Greens Port. Houston. En el directorio. Fuente: Watco.
+- Gulfbelt Logistics Park. Houston. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- HITC Logistics Park. Humble. En el directorio. Fuente: Logistics Property Company.
+- Hardy 88 Commerce Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Hardy Road Industrial Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Henry Beltway Industrial Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Hirsch Industrial Park. Houston. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Hobby Business Center Industrial Park. Houston. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Holderrieth Business Park. Tomball. En el directorio. Fuente: City of Tomball, planos de subdivisión.
+- Holzwarth Logistics Center. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Houston Belt Railway Industrial Park. Houston. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Houston TradePort. Houston. En el directorio. Fuente: NorthPoint Development.
+- IAH Commerce Park. Houston. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Interchange 249 Business Park. Condado de Harris. En el directorio. Fuente: City of Tomball, planos de subdivisión.
+- Ironwood Industrial Park. Houston. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Kermier Commerce Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Kirby District. Houston. En el directorio. Fuente: Stream Realty Partners.
+- Kohrville Commerce Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Lake Conroe Business Park. Conroe. En el directorio. Fuente: City of Conroe GIS / Engineering, planos de subdivisión.
+- Larson Intermodal. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- League Line Business Park. Conroe. En el directorio. Fuente: City of Conroe GIS / Engineering, planos de subdivisión.
+- Ley Road Logistics Center. Houston. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Lone Star Logistics Park. Houston. En el directorio. Fuente: Hines.
+- Mach Industrial Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Mason Creek Business Center. Houston. En el directorio. Fuente: Hillwood.
+- McHard Logistics Center. Condado de Fort Bend. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Meadow Edge Commerce Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Mesa Drive Industrial Park. Houston. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Nexus Logistics Park. Houston. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Nickson Business Park. Tomball. En el directorio. Fuente: City of Tomball, planos de subdivisión.
+- North Airport Logistics Center. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- North Frazieer Industrial Park. Conroe. En el directorio. Fuente: City of Conroe GIS / Engineering, planos de subdivisión.
+- North Houston Commerce Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- North Park 34. Houston. En el directorio. Fuente: Stream Realty Partners.
+- Northpoint 90 Logistics Center. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Northside Industrial Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Northwest Crossing. Houston. En el directorio. Fuente: EastGroup Properties.
+- Northwest Crossroads Industrial Park North. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Oakhill Business Park. Oak Ridge North. En el directorio. Fuente: City of Conroe GIS / Engineering, planos de subdivisión.
+- Orion Logistics Center. Houston. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- PCRIF North Houston Commerce Park. Houston. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Pinto Business Park. Houston. En el directorio. Fuente: Hines.
+- Port 10 Logistics Center. Baytown. En el directorio. Fuente: Pontikes Development / JLL.
+- Portside Logistics Center. Baytown. En el directorio. Fuente: Stream Realty Partners.
+- Post Oak Logistics Park. Houston. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Prologis Bondesen. Houston. En el directorio. Fuente: Prologis.
+- Prologis Legacy Point. Cypress. En el directorio. Fuente: Prologis.
+- Prologis Port Crossing Commerce Center. La Porte. En el directorio. Fuente: Prologis.
+- Prologis Presidents Park. Houston. En el directorio. Fuente: Prologis.
+- R.A. “Mickey” Deison Technology Park. Conroe. En el directorio. Fuente: Conroe Economic Development Council.
+- Rayford Business Park. Houston. En el directorio. Fuente: City of Conroe GIS / Engineering, planos de subdivisión.
+- Red Hawk Distribution Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Rex Road Industrial Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- SEC Industrial Park. Houston. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Schurmier Industrial Park. Houston. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Seton Lake Logistics Center. Houston. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Sheldon Road Industrial Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- South Airport Logistics Center. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Southeast 45 Logistics Park. Houston. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Southwest Logistics Park. Houston. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Spring Cypress Commerce Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Springwood Business Park. Houston. En el directorio. Fuente: EastGroup Properties.
+- Starboard Logistics Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- TGS Cedar Port Industrial Park. Baytown. En el directorio. Fuente: Baytown–West Chambers County Economic Development Foundation.
+- Teas Ridge Business Park. Conroe. En el directorio. Fuente: City of Conroe GIS / Engineering, planos de subdivisión.
+- Telephone Logistics Center. Houston. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Ten West Crossing. Houston. En el directorio. Fuente: EastGroup Properties.
+- Thompson 10 Business Park. Baytown. En el directorio. Fuente: City of Baytown, planos de subdivisión.
+- Thompson Road Business Park. Baytown. En el directorio. Fuente: City of Baytown, planos de subdivisión.
+- Timberline Logistics Center. Houston. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Tomball Business & Technology Park. Tomball. En el directorio. Fuente: Tomball Economic Development Corporation.
+- Traders Ridge Business Park. Conroe. En el directorio. Fuente: City of Conroe GIS / Engineering, planos de subdivisión.
+- Tuboscope Industrial Park. Houston. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Vault Furman Industrial Park. Houston. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Walden Road Business Park. Condado de Montgomery. En el directorio. Fuente: City of Conroe GIS / Engineering, planos de subdivisión.
+- Walhof Global Logistics Center. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Waterstone Industrial Park. Houston. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Weiser Business Park. Cypress. En el directorio. Fuente: Trammell Crow Company.
+- West Little York Commerce Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- West Road Business Park. Houston. En el directorio. Fuente: EastGroup Properties.
+- Whiteoak Industrial Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Willow Creek Industrial Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- Winfield Industrial Park. Condado de Harris. En el directorio. Fuente: City of Houston HITS-GIS, planos de subdivisión.
+- World Houston International Business Center. Houston. En el directorio. Fuente: EastGroup Properties.
+
+#### El Paso
+
+24 parques y conjuntos, 18 con punto en el mapa.
+
+- Advanced Manufacturing District. El Paso. En el directorio. Fuente: El Paso International Airport.
+- Alfalfa Industrial Park. El Paso. En el directorio. Fuente: City of El Paso, Planning & Inspections, planos de subdivisión.
+- Americas Industrial Park. El Paso. En el directorio. Fuente: City of El Paso, Planning & Inspections, planos de subdivisión.
+- Americas Ten. El Paso. En el directorio. Fuente: EastGroup Properties.
+- Butterfield Trail Industrial Park. El Paso. En el directorio. Fuente: City of El Paso.
+- Continental Industrial Park. El Paso. En el directorio. Fuente: City of El Paso, Planning & Inspections, planos de subdivisión.
+- El Paso Logistics Park. El Paso. En el directorio. Fuente: VanTrust Real Estate.
+- FORM375 at Paso del Norte. El Paso. En el directorio. Fuente: Formation Interests.
+- Gateway Logistics Park. El Paso. En el directorio. Fuente: Provident Corp., distribuido por PR Newswire.
+- General Lee Industrial Park. El Paso. En el directorio. Fuente: City of El Paso, Planning & Inspections, planos de subdivisión.
+- I-10 Industrial Park. El Paso. En el directorio. Fuente: City of El Paso, Planning & Inspections, planos de subdivisión.
+- Inter-City Industrial Park. El Paso. En el directorio. Fuente: City of El Paso, Planning & Inspections, planos de subdivisión.
+- Miramonte Industrial Park. El Paso. En el directorio. Fuente: City of El Paso, Planning & Inspections, planos de subdivisión.
+- Northwestern Corporate Center. El Paso. En el directorio. Fuente: Prologis.
+- Panattoni Industrial Park. El Paso. En el directorio. Fuente: City of El Paso, Planning & Inspections, planos de subdivisión.
+- Pellicano Industrial Park. El Paso. En el directorio. Fuente: Panattoni Development Company.
+- Radco Industrial Park. El Paso. En el directorio. Fuente: City of El Paso, Planning & Inspections, planos de subdivisión.
+- Rancho del Rey Logistics Park. El Paso. En el directorio. Fuente: Colliers.
+- Rojas East Distribution Center. El Paso. En el directorio. Fuente: Sonny Brown Commercial Real Estate.
+- Socoro Logistics Center. Socorro. En el directorio. Fuente: City of Socorro, planos de subdivisión.
+- Tri B Industrial Park. Socorro. En el directorio. Fuente: City of Socorro, planos de subdivisión.
+- VJM Industrial Park. El Paso. En el directorio. Fuente: City of El Paso, Planning & Inspections, planos de subdivisión.
+- Vista Del Sol Industrial Center II. El Paso. En el directorio. Fuente: Prologis.
+- West Pendale Industrial Park. El Paso. En el directorio. Fuente: City of El Paso, Planning & Inspections, planos de subdivisión.
+
+
+---
+
+
 # https://investtexashub.com/parques/
 
 Modificación del mapa del sitio: 2026-11-11
@@ -957,6 +1583,8 @@ Parques industriales
 ## Parques industriales verificados
 
 Nombre, promotor y ubicación comprobados, con fuentes y fecha de consulta.
+
+[Ver todos los parques en el mapa](https://investtexashub.com/mapa/index.html)
 
 Referencia en Texas. Cartografía de U.S. Census Bureau.
 
@@ -1029,6 +1657,8 @@ Parques industriales
 
 Laredo, condado de Webb. Ubicación de referencia, etapas documentadas y fuentes.
 
+[Ver en el mapa de parques](https://investtexashub.com/mapa/index.html?parque=L01)
+
 Referencia en Texas. Cartografía de U.S. Census Bureau.
 
 Fuentes y punto consultados el 10 de noviembre de 2026. La fecha de consulta no es una fecha de obra.
@@ -1098,6 +1728,8 @@ Parques industriales
 ## North Laredo Industrial Park
 
 Laredo, condado de Webb. Ubicación de referencia, etapas documentadas y fuentes.
+
+[Ver en el mapa de parques](https://investtexashub.com/mapa/index.html?parque=L03)
 
 Referencia en Texas. Cartografía de U.S. Census Bureau.
 
@@ -1182,6 +1814,8 @@ Parques industriales
 
 Fuera de ciudad incorporada, condado de Webb. Ubicación de referencia, etapas documentadas y fuentes.
 
+[Ver en el mapa de parques](https://investtexashub.com/mapa/index.html?parque=L07)
+
 Referencia en Texas. Cartografía de U.S. Census Bureau.
 
 Fuentes y punto consultados el 10 de noviembre de 2026. La fecha de consulta no es una fecha de obra.
@@ -1252,6 +1886,8 @@ Parques industriales
 ## Pinnacle Industry Center
 
 Laredo, condado de Webb. Ubicación de referencia, etapas documentadas y fuentes.
+
+[Ver en el mapa de parques](https://investtexashub.com/mapa/index.html?parque=L09)
 
 Referencia en Texas. Cartografía de U.S. Census Bureau.
 
@@ -1324,6 +1960,8 @@ Parques industriales
 ## Longhorn 35 Logistics Park
 
 Lancaster, condado de Dallas. Ubicación de referencia, etapas documentadas y fuentes.
+
+[Ver en el mapa de parques](https://investtexashub.com/mapa/index.html?parque=D06)
 
 Referencia en Texas. Cartografía de U.S. Census Bureau.
 
@@ -1405,6 +2043,8 @@ Parques industriales
 ## Logistix Hub South Dallas
 
 Wilmer, condado de Dallas. Ubicación de referencia, etapas documentadas y fuentes.
+
+[Ver en el mapa de parques](https://investtexashub.com/mapa/index.html?parque=D09)
 
 Referencia en Texas. Cartografía de U.S. Census Bureau.
 

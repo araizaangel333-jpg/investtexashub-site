@@ -1,0 +1,14 @@
+MapLibre GL JS 5.24.0
+Biblioteca de mapas de código abierto. Se sirve desde el sitio, sin pedirla a otro servidor.
+
+Origen: registro de npm, paquete maplibre-gl, versión 5.24.0
+Integridad del paquete (npm): sha512-ALyFxgtd5R+65UqZ/++lOqwWcC0SNho9c27fYSyLmG7AfnAul2o46F05aDJGPbFU57wos9dgcIySHs0Xe6ia3A==
+Archivos copiados sin cambios de dist/ del paquete:
+  maplibre-gl.js   sha256 45a9b07a9189ce56054c620a947ccf41e291e58c95e9b61533b740aaa65ee5cb  (1,056,837 bytes; 275 KB comprimido con gzip)
+  maplibre-gl.css  sha256 ab1e70d59ec40465bae7e7030da2f3ccf28133fd502e62bd598eefbadfd7a732
+Licencia: BSD de tres cláusulas. El texto completo va en LICENSE.txt y debe conservarse junto a los archivos.
+Bajado el 2026-11-11 con npm pack.
+
+Por qué la 5 y no la 6: desde la versión 6 la biblioteca sólo se publica como módulo y los
+navegadores no cargan módulos desde un archivo abierto con doble clic. La 5.24.0 es la
+última con el formato clásico.

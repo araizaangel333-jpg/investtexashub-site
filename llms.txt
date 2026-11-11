@@ -30,6 +30,10 @@ Consulta de los datos 10 de noviembre de 2026.
 
 - [¿Filial o seguir exportando?](https://investtexashub.com/guias/filial-o-exportar/): comparación de importador, aduana, entidad y derechos de registro, impuestos de Texas, nómina, electricidad y enlace oficial a categorías de visa. Tres situaciones para ordenar la lectura; sin recomendación jurídica. Fuentes oficiales consultadas el 11 de noviembre de 2026. Describe la regla de CBP publicada el 6 de noviembre de 2026, con vigencia desde el 5 de enero de 2027, sobre importadores de registro extranjeros y quién cuenta como importador estadounidense.
 
+## Mapa de parques
+
+- [Mapa de parques industriales de Texas](https://investtexashub.com/mapa/): 552 parques y conjuntos en siete regiones, cada uno con su fuente; 442 tienen punto en el mapa. Tres niveles: verificado con ficha (6), confirmado con el desarrollador (3) y en el directorio (543). Los del directorio son nombres tomados de una fuente pública, en su mayoría planos de subdivisión de ciudades y condados, y siguen sin verificar. Datos del 11 de noviembre de 2026. La lista por región está en el texto completo.
+
 ## Parques industriales verificados
 
 - [Índice de parques](https://investtexashub.com/parques/): seis fichas y nueve candidatos todavía en verificación.
