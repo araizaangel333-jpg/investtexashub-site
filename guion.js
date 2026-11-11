@@ -540,7 +540,7 @@
     g.addEventListener("pointerleave", function (ev) { if (ev.pointerType !== "mouse") return; ME.sobreMarca = false; encenderRutas(null); });
     g.addEventListener("focus", function () { encenderRutas(r.id); });
     g.addEventListener("blur", function () { encenderRutas(null); });
-    function ir(ev) { ev.preventDefault(); ev.stopPropagation(); irARegion(r.id); }
+    function ir(ev) { window.medir("region_elegida", {region:r.id,desde:"mapa"}); ev.preventDefault(); ev.stopPropagation(); irARegion(r.id); }
     g.addEventListener("click", ir);
     g.addEventListener("keydown", function (ev) { if (ev.key === "Enter" || ev.key === " ") ir(ev); });
   });
@@ -647,7 +647,7 @@
     MO.volar(dest, animar ? 750 : 0, function () { MO.dibujar(animar ? 1300 : 0); });
   }
   tabsOrigen.forEach(function (t, i) {
-    t.addEventListener("click", function () { if (t.getAttribute("data-origen") !== origenActivo || !origenListo) ponerOrigen(t.getAttribute("data-origen")); });
+    t.addEventListener("click", function () { window.medir("origen_elegido", {origen:t.getAttribute("data-origen")}); if (t.getAttribute("data-origen") !== origenActivo || !origenListo) ponerOrigen(t.getAttribute("data-origen")); });
     t.addEventListener("keydown", function (ev) {
       var d = ev.key === "ArrowRight" || ev.key === "ArrowDown" ? 1 : ev.key === "ArrowLeft" || ev.key === "ArrowUp" ? -1 : ev.key === "Home" ? -99 : ev.key === "End" ? 99 : 0;
       if (!d) return;
@@ -743,7 +743,7 @@
     var ver = paneles[id].querySelector(".ver-otra");
     if (lista.length > 1 && !ver) {
       ver = h("button", "ver-otra", null, "Ver otra ruta"); ver.type = "button"; ul.parentNode.insertBefore(ver, ul.nextSibling);
-      ver.addEventListener("click", function () { var a = !ul.classList.contains("abierta"); ul.classList.toggle("abierta", a); ver.setAttribute("aria-expanded", a ? "true" : "false"); });
+      ver.addEventListener("click", function () { window.medir("ruta_alterna", {region:id}); var a = !ul.classList.contains("abierta"); ul.classList.toggle("abierta", a); ver.setAttribute("aria-expanded", a ? "true" : "false"); });
     }
     if (ver) { ver.hidden = lista.length < 2; ver.setAttribute("aria-expanded", "false"); }
     ul.innerHTML = lista.map(function (x, i) {
@@ -812,7 +812,7 @@
     contar(id);
   }
   tabsReg.forEach(function (t, i) {
-    t.addEventListener("click", function () { elegirRegion(t.getAttribute("data-region"), true, true); });
+    t.addEventListener("click", function () { window.medir("region_elegida", {region:t.getAttribute("data-region"),desde:"lista"}); elegirRegion(t.getAttribute("data-region"), true, true); });
     t.addEventListener("keydown", function (ev) {
       var d = ev.key === "ArrowRight" || ev.key === "ArrowDown" ? 1 : ev.key === "ArrowLeft" || ev.key === "ArrowUp" ? -1 : ev.key === "Home" ? -99 : ev.key === "End" ? 99 : 0;
       if (!d) return;
@@ -821,7 +821,7 @@
       tabsReg[n].focus(); tabsReg[n].click();
     });
   });
-  botonesOrigenReg.forEach(function (b) { b.addEventListener("click", function () { ponerOrigen(b.getAttribute("data-origen")); }); });
+  botonesOrigenReg.forEach(function (b) { b.addEventListener("click", function () { window.medir("origen_elegido", {origen:b.getAttribute("data-origen")}); ponerOrigen(b.getAttribute("data-origen")); }); });
   // Un solo origen para las dos secciones: cambiar uno cambia el otro.
   function ponerOrigen(k) {
     if (!R.origenes[k]) return;
@@ -931,7 +931,7 @@
     panelNec.innerHTML = "<ol>" + ORDEN.filter(function (id) { return cat.regiones[id]; }).map(function (id) {
       return '<li><button type="button" class="nec-fila" data-region="' + id + '"><b>' + esc(RPOR[id].nombre) + "</b>" + esc(cat.regiones[id]) + "</button></li>";
     }).join("") + '</ol><p class="fuente">' + esc(cat.fuente) + "</p>";
-    cada(panelNec.querySelectorAll(".nec-fila"), function (b) { b.addEventListener("click", function () { irARegion(b.getAttribute("data-region")); }); });
+    cada(panelNec.querySelectorAll(".nec-fila"), function (b) { b.addEventListener("click", function () { window.medir("region_elegida", {region:b.getAttribute("data-region"),desde:"necesidad"}); irARegion(b.getAttribute("data-region")); }); });
     if (!MN) return;
     var n = 0;
     REGIONES.forEach(function (r) {
@@ -942,11 +942,11 @@
     });
     MN.rotulos();
   }
-  pestanas(tabsNec, function (t) { elegirNec(t.getAttribute("data-cat")); });
+  pestanas(tabsNec, function (t) { window.medir("necesidad_elegida", {necesidad:t.getAttribute("data-cat")}); elegirNec(t.getAttribute("data-cat")); });
   elegirNec(necActual);
   alAcercarse(document.getElementById("necesidad"), function () {
     MN = crearMapa(document.getElementById("mapa-nec"), { minLado: 0 });
-    REGIONES.forEach(function (r) { r.mN = MN.marca({ pts: r.pts, cls: "m-region", texto: r.nombre, lados: r.id === "valle" ? ["der", "abajo", "arriba", "izq"] : null }); r.mN.g.addEventListener("click", function () { irARegion(r.id); }); });
+    REGIONES.forEach(function (r) { r.mN = MN.marca({ pts: r.pts, cls: "m-region", texto: r.nombre, lados: r.id === "valle" ? ["der", "abajo", "arriba", "izq"] : null }); r.mN.g.addEventListener("click", function () { window.medir("region_elegida", {region:r.id,desde:"necesidad"}); irARegion(r.id); }); });
     MN.medir();
     MN.cam = MN.encuadre(ampliar([-106.7, merc(25.4), -94.9, merc(33.2)], 0.04));
     MN.render();
@@ -981,7 +981,7 @@
     });
     if (MP) Object.keys(MP.pts).forEach(function (k) { var si = estadoDe(CRUCE[k]) === e; MP.pts[k].g.classList.toggle("elegido", si); MP.pts[k].g.classList.toggle("apagado", !si); MP.pts[k].g.setAttribute("tabindex", "-1"); }); // con teclado se usan los renglones
   }
-  pestanas(tabsEst, function (t) { elegirEstado(t.getAttribute("data-estado")); });
+  pestanas(tabsEst, function (t) { window.medir("puentes_estado", {estado:t.getAttribute("data-estado")}); elegirEstado(t.getAttribute("data-estado")); });
   tabsEst.forEach(function (t) { var s = t.getAttribute("data-estado") === estadoActual; t.setAttribute("aria-selected", s ? "true" : "false"); t.tabIndex = s ? 0 : -1; });
   elegirEstado(estadoActual);
   alAcercarse(document.getElementById("puentes"), function () {
@@ -1087,7 +1087,7 @@
       setTimeout(function () { t.classList.remove("espera"); x.m.g.style.opacity = ""; }, retraso + (x.arco ? 650 : 0));
     });
   }
-  pestanas(tabsEmp, function (t) { elegirEmp(t.getAttribute("data-capa"), false); });
+  pestanas(tabsEmp, function (t) { window.medir("empresas_capa", {capa:t.getAttribute("data-capa")}); elegirEmp(t.getAttribute("data-capa"), false); });
   elegirEmp(capaEmp, false);
   alAcercarse(document.getElementById("empresas"), function () {
     ME2 = crearMapa(document.getElementById("mapa-emp"), {});
@@ -1168,6 +1168,8 @@
     b.type = "button"; b.setAttribute("data-region", id);
     b.addEventListener("click", function () {
       var i = elegidas.indexOf(id);
+      if (i < 0 || elegidas.length > 1) window.medir("comparar_region", {region:id,accion:i>=0?"quitar":"agregar"});
+      if (i < 0 && elegidas.length >= topeC()) window.medir("comparar_region", {region:elegidas[0],accion:"quitar"});
       if (i >= 0) { if (elegidas.length > 1) elegidas.splice(i, 1); }
       else { elegidas.push(id); nuevas[id] = true; while (elegidas.length > topeC()) elegidas.shift(); } // al pasar el tope sale la más antigua
       pintarCompara();
@@ -1209,7 +1211,7 @@
   window.addEventListener("resize", function () { if (movil() !== anchoC) { anchoC = movil(); pintarCompara(); } });
 
   /* ============================================================ a quién acudir */
-  cada(document.querySelectorAll(".acu-lista button.acu-reg"), function (b) { b.addEventListener("click", function () { irARegion(b.getAttribute("data-region")); }); });
+  cada(document.querySelectorAll(".acu-lista button.acu-reg"), function (b) { b.addEventListener("click", function () { window.medir("region_elegida", {region:b.getAttribute("data-region"),desde:"acudir"}); irARegion(b.getAttribute("data-region")); }); });
 
   /* ============================================================ 7. parques */
   var tabsPq = Array.prototype.slice.call(document.querySelectorAll("#selector-parques [role=tab]"));
@@ -1220,7 +1222,7 @@
       return '<li><span class="cand-nombre">' + esc(n) + '</span><span class="en-verif">en verificación</span><a class="cand-escribe" href="mailto:contacto@investtexashub.com?subject=' + encodeURIComponent("Duda sobre " + n) + '">Escríbenos sobre este parque</a></li>';
     }).join("");
   }
-  pestanas(tabsPq, function (t) { elegirZona(t.getAttribute("data-zona")); });
+  pestanas(tabsPq, function (t) { window.medir("parques_zona", {zona:t.getAttribute("data-zona")}); elegirZona(t.getAttribute("data-zona")); });
   elegirZona(param("zona") === "dfw" ? "dfw" : "laredo");
   if (param("zona") === "dfw") tabsPq.forEach(function (t) { var s = t.getAttribute("data-zona") === "dfw"; t.setAttribute("aria-selected", s ? "true" : "false"); t.tabIndex = s ? 0 : -1; });
   var pasosVer = document.querySelectorAll("#pasos-ver li");

@@ -1,0 +1,1312 @@
+# Invest Texas Hub
+
+Guía independiente en español. Texto de las páginas publicables, sus fuentes y fechas. Generado desde el HTML local y los datos de los módulos; no incluye respuestas personales ni el mapa de parques en construcción.
+
+
+---
+
+
+# https://investtexashub.com/
+
+Modificación del mapa del sitio: 2026-11-11
+
+Mapa industrial de Texas
+
+## ¿A qué parte de Texas te conviene llegar?
+
+Siete regiones vistas desde México. Por dónde se cruza, qué hay en cada una y a quién acudir, con datos y fuente.
+
+[Elige una región](https://investtexashub.com/#regiones)
+
+[](https://investtexashub.com/#origenes)
+
+Satélite NASA Blue Marble vía GIBS. Carreteras U.S. Census Bureau (TIGER) y Natural Earth. Límites Natural Earth. Carretera La Gloria-Colombia [© OpenStreetMap contributors](https://www.openstreetmap.org/copyright). Puentes TxDOT
+
+-
+
+339.7 mil millones de dólares
+
+de comercio cruzaron por Laredo en 2024
+
+[Texas Comptroller, 2024](https://comptroller.texas.gov/economy/economic-data/ports/2024/laredo.php)
+-
+
+62 %
+
+del comercio de los puertos terrestres de Texas pasa por Laredo
+
+[Texas Comptroller, 2024](https://comptroller.texas.gov/economy/economic-data/ports/2024/laredo.php)
+-
+
+6.77 centavos por kWh
+
+pagó en promedio la industria por la luz en Texas, de enero a agosto de 2026. El promedio nacional fue de 9.09.
+
+Cifras preliminares
+
+[EIA, 2026](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_b)
+-
+
+0.75 %
+
+impuesto de franquicia sobre el margen. El comercio al menudeo y al mayoreo paga 0.375 %. No se paga con ingresos menores a 2.65 millones de dólares.
+
+[Texas Comptroller, 2026](https://comptroller.texas.gov/taxes/franchise/)
+
+### ¿Desde dónde sales?
+
+El camino cambia según tu punto de partida.
+
+Monterrey Saltillo Chihuahua
+
+#### Desde Monterrey
+- Por la autopista 85D se llega a Nuevo Laredo y se cruza por el Puente del Comercio Mundial.
+- Por la carretera La Gloria-Colombia se llega al puente Colombia-Solidaridad.
+- Por la 40D se llega a Reynosa y se cruza por el puente Reynosa-Pharr.
+
+#### Desde Saltillo
+- La carretera 57 sube a Piedras Negras y cruza a Eagle Pass por el puente Camino Real.
+- Un ramal llega a Ciudad Acuña, frente a Del Rio. por confirmar
+- Por la 40D, pasando por Monterrey, se toman los cruces de Laredo y de Reynosa.
+
+#### Desde Chihuahua
+- La carretera 45 sube a Ciudad Juárez.
+- Ahí cruzan carga los puentes Ysleta-Zaragoza y Córdova de las Américas, hacia El Paso.
+
+Regiones
+
+### No hay una ciudad correcta para todos
+
+Depende de lo que quieras hacer. Empieza por aquí.
+
+Laredo San Antonio Austin Dallas-Fort Worth Houston Valle del Río Grande El Paso
+
+Desde Monterrey Saltillo Chihuahua
+
+#### Laredo
+
+El cruce terrestre con más comercio de Texas. En 2024 movió 339.7 mil millones de dólares y 3 millones de camiones.
+
+[Texas Comptroller](https://comptroller.texas.gov/economy/economic-data/ports/2024/laredo.php), datos 2024, consulta 9-nov-2026 [Foto CBP, dominio público](https://commons.wikimedia.org/wiki/File:World_Trade_Crossing_International_Bridge_in_Laredo,_Texas_(35598341390).jpg)
+
+Cómo llegas desde Monterrey
+
+- Carretera 85 / 85D y Puente del Comercio Mundial
+
+A quién acudir[Laredo Economic Development Corporation](https://www.laredoedc.org/)
+
+Escríbenos sobre Laredo
+
+#### San Antonio
+
+Sobre la I‑35, al norte de Laredo.
+
+Trazo de la I-35, U.S. Census Bureau (TIGER, 2026) [Foto Justin Cozart, CC BY-SA 2.0](https://commons.wikimedia.org/wiki/File:SanAntonioskyline,_IH-37.jpg)
+
+Cómo llegas desde Monterrey
+
+- Carretera 85 / 85D, Puente del Comercio Mundial e I‑35
+
+A quién acudir[greater:SATX](https://greatersatx.com/)
+
+Escríbenos sobre San Antonio
+
+#### Austin
+
+La capital del estado, sobre la I‑35 entre San Antonio y Dallas.
+
+Trazo de la I-35, U.S. Census Bureau (TIGER, 2026) [Foto Larry D. Moore, CC BY 4.0](https://commons.wikimedia.org/wiki/File:Texas_Capitol_Dome_from_MLK_Blvd_and_IH35.jpg)
+
+Cómo llegas desde Monterrey
+
+- Carretera 85 / 85D, Puente del Comercio Mundial e I‑35
+
+A quién acudir[Greater Austin Chamber of Commerce](https://www.austinchamber.com/)
+
+Escríbenos sobre Austin
+
+#### Dallas-Fort Worth
+
+Su aeropuerto movió 62.6 mil millones de dólares de comercio en 2024.
+
+[Texas Comptroller](https://comptroller.texas.gov/economy/economic-data/ports/2024/dfw.php), datos 2024, consulta 9-nov-2026 [Foto BullDawg2021, CC BY 4.0](https://commons.wikimedia.org/wiki/File:Dallas_skyline_2025.jpg)
+
+Cómo llegas desde Monterrey
+
+- Carretera 85 / 85D, Puente del Comercio Mundial, I‑35 e I‑35W
+
+A quién acudir[Dallas Regional Chamber](https://www.dallaschamber.org/)
+
+Escríbenos sobre Dallas-Fort Worth
+
+#### Houston
+
+Puerto marítimo con 223.5 mil millones de dólares de comercio en 2024. México fue su segundo destino de exportación.
+
+[Texas Comptroller](https://comptroller.texas.gov/economy/economic-data/ports/2024/houston.php), datos 2024, consulta 9-nov-2026 [Foto Carol M. Highsmith, Biblioteca del Congreso, dominio público](https://commons.wikimedia.org/wiki/File:Aerial_view_in_2014_of_the_Houston_Ship_Channel_and_surrounding_energy_facilities_in_Houston,_Texas_LCCN2014632188.tif)
+
+Cómo llegas desde Monterrey
+
+- Carretera 85 / 85D, Puente del Comercio Mundial y US‑59
+
+A quién acudir[Greater Houston Partnership](https://www.houston.org/)
+
+Escríbenos sobre Houston
+
+#### Valle del Río Grande
+
+Frontera con Tamaulipas y puerto marítimo en Brownsville. Por el cruce de Hidalgo entraron 721 mil camiones en 2024.
+
+[Texas Comptroller](https://comptroller.texas.gov/economy/economic-data/ports/2024/hidalgo.php), datos 2024, consulta 9-nov-2026 [Foto CBP, dominio público](https://commons.wikimedia.org/wiki/File:Operational_Tour_of_Pharr_Bridge_Commercial_Facility_-_agriculture_inspections_(40777129960).jpg)
+
+Cómo llegas desde Monterrey
+
+- Carretera 40D, Puente Internacional Reynosa-Pharr e I‑69C
+
+A quién acudir[Pharr Economic Development Corporation](https://pharredc.com/global-business-hub/) y [Brownsville Community Improvement Corporation](https://brownsvillecic.com/)
+
+Escríbenos sobre Valle del Río Grande
+
+#### El Paso
+
+Frontera con Ciudad Juárez. Por el cruce de Ysleta pasaron 86.8 mil millones de dólares en 2024.
+
+[Texas Comptroller](https://comptroller.texas.gov/economy/economic-data/ports/2024/ysleta.php), datos 2024, consulta 9-nov-2026 [Foto Carol M. Highsmith, Biblioteca del Congreso, dominio público](https://commons.wikimedia.org/wiki/File:Skyline_view_of_El_Paso,_Texas_LCCN2014631659.tif)
+
+Cómo llegas desde Monterrey
+
+- Carretera 85 / 85D, Puente del Comercio Mundial, I‑35 e I‑10
+
+A quién acudir[Borderplex Alliance](https://www.borderplexalliance.org/)
+
+Escríbenos sobre El Paso
+
+Por necesidad
+
+### ¿Qué necesitas resolver?
+
+Cruzar carga por tierra 3 regiones Salir por mar 2 regiones Carga aérea e intermodal 3 regiones
+
+### Compara regiones
+
+Elige dos o tres y míralas lado a lado.
+
+Las cifras de comercio miden cosas distintas en cada región. Cada una dice qué mide.
+
+### Arma tu hoja de ruta
+
+Cinco respuestas y tienes en una hoja lo que aplica a tu caso.
+
+[Empezar mi hoja](https://investtexashub.com/hoja-de-ruta/index.html)
+
+- ¿Qué quieres hacer en Texas?
+- ¿Desde dónde sales?
+- ¿Cómo se mueve tu mercancía?
+- ¿Con cuántas personas empezarías?
+- ¿Qué tan cerca estás de decidir?
+
+Fondo NASA Blue Marble vía GIBS
+
+### Por dónde cruza la carga
+
+Dieciséis cruces de El Paso a Brownsville. En nueve, la carga está confirmada con fuente reciente; en los demás, por confirmar.
+
+Chihuahua Coahuila Nuevo León Tamaulipas
+
+16 cruces
+
+Ubicación de los puentes: TxDOT
+
+Empresas
+
+### Empresas mexicanas que ya operan en Texas
+
+Una muestra, con la fuente de cada dato. No es una lista completa.
+
+Mexicanas en Texas Anclas por región
+
+Parques
+
+### Parques y naves, verificados uno por uno
+
+Las fichas reúnen nombre, promotor y ubicación comprobados, con fuente y fecha. Los demás parques siguen en verificación.
+
+Laredo Sur de Dallas
+
+[Parques industriales verificados](https://investtexashub.com/parques/index.html)
+
+World Trade Bridge, Laredo, 2017. [Foto CBP, dominio público](https://commons.wikimedia.org/wiki/File:World_Trade_Crossing_International_Bridge_in_Laredo,_Texas_(35854890291).jpg)
+- Nombre según el desarrollador
+- Ubicación comprobada
+- Fuente con fecha
+
+### A quién acudir
+
+El organismo que atiende a empresas en cada región, con su página.
+
+- Laredo[Laredo Economic Development Corporation](https://www.laredoedc.org/)
+- San Antonio[greater:SATX](https://greatersatx.com/)
+- Austin[Greater Austin Chamber of Commerce](https://www.austinchamber.com/)
+- Dallas-Fort Worth[Dallas Regional Chamber](https://www.dallaschamber.org/)
+- Houston[Greater Houston Partnership](https://www.houston.org/)
+- Valle del Río Grande[Pharr Economic Development Corporation](https://pharredc.com/global-business-hub/) y [Brownsville Community Improvement Corporation](https://brownsvillecic.com/)
+- El Paso[Borderplex Alliance](https://www.borderplexalliance.org/)
+- Estado de Texas[State of Texas Mexico Office](https://gov.texas.gov/business/page/state-of-texas-mexico-office)
+
+### Cuánto cuesta operar en Texas
+
+Compara salarios, impuestos y electricidad con la fuente y la fecha de cada dato.
+
+[Salarios por región](https://investtexashub.com/costos/index.html) [Impuestos](https://investtexashub.com/impuestos/index.html) [Electricidad](https://investtexashub.com/energia/index.html)
+
+### Guías
+
+Cuatro guías en preparación, cada una con su fuente oficial.
+
+-  En preparación
+
+#### Cómo cruza tu mercancía
+
+Qué puente, qué documentos y quién interviene de cada lado.
+
+Avísame cuando salga
+-  En preparación
+
+#### Cómo abrir una empresa en Texas
+
+Los pasos ante el estado, con el enlace de cada trámite.
+
+Avísame cuando salga
+-  En preparación
+
+#### Qué apoyos ofrece cada región
+
+Programas de las ciudades y del estado, con sus requisitos publicados.
+
+Avísame cuando salga
+-  En preparación
+
+#### Con qué visa se puede ir a operar
+
+Las categorías que publica el gobierno de Estados Unidos. No es asesoría migratoria.
+
+Avísame cuando salga
+
+Qué es
+
+### Cada dato, con su fuente y su fecha
+
+Invest Texas Hub es una guía independiente para empresas mexicanas. No somos gobierno, ni corredores, ni un despacho. Reunimos lo que publican las fuentes oficiales y lo explicamos en español.
+
+Fondo NASA Blue Marble vía GIBS
+
+### ¿Tienes una duda concreta?
+
+Escríbenos a contacto@investtexashub.com y la respondemos con fuente.
+
+¿No sabes por dónde empezar? [Arma tu hoja de ruta.](https://investtexashub.com/hoja-de-ruta/index.html)
+
+
+---
+
+
+# https://investtexashub.com/aviso.html
+
+Modificación del mapa del sitio: 2026-11-11
+
+## Aviso legal y de privacidad
+
+Última actualización: 11 de noviembre de 2026.
+
+### Quién publica
+
+Este sitio lo publica Invest Texas Hub, un sitio independiente. Para cualquier duda, escribe a contacto@investtexashub.com.
+
+### Qué es y qué no es
+
+Invest Texas Hub es una guía informativa para empresas mexicanas que miran hacia Texas. No es gobierno, ni correduría, ni despacho. No da asesoría legal, fiscal ni migratoria.
+
+### Datos y fuentes
+
+Cada dato cita su fuente y su fecha. Los datos pueden cambiar después de publicados, así que conviene confirmarlos en la fuente antes de decidir.
+
+### Datos personales
+
+Si al terminar tu hoja de ruta nos dejas tu correo, guardamos ese correo, el nombre de tu empresa si lo escribes, tus respuestas y tu duda. Los usamos para responderte y para avisarte cuando cambie un dato de tu hoja. No los vendemos ni los compartimos con nadie sin que tú lo pidas. Para corregirlos o borrarlos, escribe a contacto@investtexashub.com.
+
+El sitio no pide registro. Si nos escribes por correo, tu mensaje llega a ese buzón y se usa sólo para responderte.
+
+### Medición de visitas
+
+Usamos Google Analytics para saber cuántas personas visitan el sitio, desde qué país y qué páginas leen. Google Analytics guarda cookies en tu navegador y no recibe tu nombre ni tu correo. No usamos esos datos para publicidad ni los vendemos. Google los trata conforme a su [política de privacidad](https://policies.google.com/privacy?hl=es).
+
+Puedes impedir esta medición si bloqueas las cookies en tu navegador o si instalas el [complemento de Google para inhabilitar Google Analytics](https://tools.google.com/dlpage/gaoptout?hl=es).
+
+### Enlaces a otros sitios
+
+El sitio enlaza a páginas de terceros, como fuentes oficiales y organismos. Esas páginas tienen sus propios contenidos y avisos.
+
+### Fotografías
+
+Cada fotografía lleva su crédito y su licencia junto a ella.
+
+### Marcas
+
+Las marcas y los nombres de empresas mencionados son de sus dueños.
+
+
+---
+
+
+# https://investtexashub.com/costos/
+
+Modificación del mapa del sitio: 2026-11-11
+
+Costos de operación
+
+## Cuánto se paga por puesto
+
+Compara el salario mediano por hora entre las zonas metropolitanas de Texas.
+
+### Respuesta corta
+
+Para un ensamblador de producción, la mediana por hora va de USD 14.34 en McAllen-Edinburg-Mission a USD 20.15 en San Antonio-New Braunfels, entre las ocho zonas de la muestra. Son datos de mayo de 2025 del Bureau of Labor Statistics (BLS), consultados el 10-nov-2026.
+
+[BLS, serie de McAllen-Edinburg-Mission](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM003258000000051209008) [BLS, serie de San Antonio-New Braunfels](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM004170000000051209008)
+
+### ¿Cuánto se paga por hora en Texas?
+
+Puesto
+
+Salario mediano por hora, sin prestaciones ni impuestos del empleador. Es una estimación por zona metropolitana, no una oferta salarial. Las barras comparten la misma escala entre puestos. “Sin dato” indica una cifra no disponible, nunca un salario de cero.
+
+Activa JavaScript para consultar el módulo. Los enlaces a las fuentes siguen disponibles.
+
+Lleva estos datos a tu caso con [tu hoja de ruta.](https://investtexashub.com/hoja-de-ruta/index.html)
+
+[Descargar salarios de Texas, mayo de 2025 (CSV)](https://investtexashub.com/descargas/salarios-texas-2025.csv)
+Datos de BLS en dominio público. Cita al Bureau of Labor Statistics al reutilizarlos. [Condiciones de uso](https://www.bls.gov/bls/linksite.htm)
+
+### Fuentes y fechas
+- [Bureau of Labor Statistics](https://www.bls.gov/oes/)Consulta de los datos 10-nov-2026.
+- [Fotografía de entrada, Puente de Comercio Mundial, Laredo](https://commons.wikimedia.org/wiki/File:World_Trade_Crossing_International_Bridge_in_Laredo,_Texas_(35854890291).jpg)U.S. Customs and Border Protection, 12-abr-2017. Dominio público. Recorte de encuadre y velo de color. Ficha consultada el 2026-11-10.
+
+### Preguntas frecuentes
+
+#### ¿Qué diferencia hay entre Laredo y McAllen para poner una planta?
+
+En sueldos, la mediana por hora de un ensamblador de producción fue de USD 14.87 en Laredo y de USD 14.34 en McAllen-Edinburg-Mission en mayo de 2025. Es la comparación de un puesto y no cubre renta, electricidad ni los demás costos de una planta.
+
+[BLS, serie de Laredo](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002970000000051209008) [BLS, serie de McAllen-Edinburg-Mission](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM003258000000051209008) Consulta 10-nov-2026.
+
+#### ¿El salario que aparece incluye prestaciones o impuestos?
+
+No. Es la mediana del sueldo base por hora que publica el Bureau of Labor Statistics para cada zona metropolitana, sin prestaciones ni impuestos del empleador. Es una estimación por zona y no una oferta salarial.
+
+[BLS, notas técnicas de la encuesta](https://www.bls.gov/oes/2025/may/oes_tec.htm) Consulta 10-nov-2026.
+
+Publicado el 10 de noviembre de 2026. Actualizado el 11 de noviembre de 2026. Invest Texas Hub.
+
+### Datos del módulo de salarios
+
+Mayo de 2025 (edición más reciente de OEWS, última modificación 15-may-2026 según bls.gov). Consulta 2026-11-10.
+
+Zona | Puesto | Código | Mediana por hora | Fuente
+--- | --- | --- | --- | ---
+Laredo, TX | Ensamblador u operario de producción (ensambladores y fabricantes varios) | 51-2090 | USD 14.87 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002970000000051209008)
+Laredo, TX | Maquinista | 51-4041 | sin dato | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002970000000051404108)
+Laredo, TX | Soldador | 51-4121 | USD 21.81 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002970000000051412108)
+Laredo, TX | Mecánico de maquinaria industrial | 49-9041 | USD 26.95 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002970000000049904108)
+Laredo, TX | Supervisor de producción | 51-1011 | USD 25.49 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002970000000051101108)
+Laredo, TX | Ayudante general de carga y almacén (peón de carga a mano) | 53-7062 | USD 15.61 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002970000000053706208)
+Laredo, TX | Operador de montacargas (y tractores industriales) | 53-7051 | USD 14.28 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002970000000053705108)
+Laredo, TX | Chofer de tractocamión | 53-3032 | USD 23.56 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002970000000053303208)
+Laredo, TX | Ingeniero industrial | 17-2112 | sin dato | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002970000000017211208)
+Laredo, TX | Auxiliar contable (tenedores de libros, contabilidad y auditoría) | 43-3031 | USD 19.09 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002970000000043303108)
+Laredo, TX | Representante de servicio al cliente | 43-4051 | USD 16.55 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002970000000043405108)
+McAllen-Edinburg-Mission, TX | Ensamblador u operario de producción (ensambladores y fabricantes varios) | 51-2090 | USD 14.34 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM003258000000051209008)
+McAllen-Edinburg-Mission, TX | Maquinista | 51-4041 | USD 23.19 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM003258000000051404108)
+McAllen-Edinburg-Mission, TX | Soldador | 51-4121 | USD 19.09 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM003258000000051412108)
+McAllen-Edinburg-Mission, TX | Mecánico de maquinaria industrial | 49-9041 | USD 24.31 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM003258000000049904108)
+McAllen-Edinburg-Mission, TX | Supervisor de producción | 51-1011 | USD 25.05 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM003258000000051101108)
+McAllen-Edinburg-Mission, TX | Ayudante general de carga y almacén (peón de carga a mano) | 53-7062 | USD 15.20 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM003258000000053706208)
+McAllen-Edinburg-Mission, TX | Operador de montacargas (y tractores industriales) | 53-7051 | USD 15.14 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM003258000000053705108)
+McAllen-Edinburg-Mission, TX | Chofer de tractocamión | 53-3032 | USD 22.62 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM003258000000053303208)
+McAllen-Edinburg-Mission, TX | Ingeniero industrial | 17-2112 | USD 44.08 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM003258000000017211208)
+McAllen-Edinburg-Mission, TX | Auxiliar contable (tenedores de libros, contabilidad y auditoría) | 43-3031 | USD 20.17 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM003258000000043303108)
+McAllen-Edinburg-Mission, TX | Representante de servicio al cliente | 43-4051 | USD 17.23 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM003258000000043405108)
+Brownsville-Harlingen, TX | Ensamblador u operario de producción (ensambladores y fabricantes varios) | 51-2090 | USD 16.35 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001518000000051209008)
+Brownsville-Harlingen, TX | Maquinista | 51-4041 | USD 23.54 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001518000000051404108)
+Brownsville-Harlingen, TX | Soldador | 51-4121 | USD 21.64 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001518000000051412108)
+Brownsville-Harlingen, TX | Mecánico de maquinaria industrial | 49-9041 | USD 27.39 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001518000000049904108)
+Brownsville-Harlingen, TX | Supervisor de producción | 51-1011 | USD 28.50 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001518000000051101108)
+Brownsville-Harlingen, TX | Ayudante general de carga y almacén (peón de carga a mano) | 53-7062 | USD 15.53 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001518000000053706208)
+Brownsville-Harlingen, TX | Operador de montacargas (y tractores industriales) | 53-7051 | USD 16.65 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001518000000053705108)
+Brownsville-Harlingen, TX | Chofer de tractocamión | 53-3032 | USD 23.34 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001518000000053303208)
+Brownsville-Harlingen, TX | Ingeniero industrial | 17-2112 | USD 35.13 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001518000000017211208)
+Brownsville-Harlingen, TX | Auxiliar contable (tenedores de libros, contabilidad y auditoría) | 43-3031 | USD 19.97 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001518000000043303108)
+Brownsville-Harlingen, TX | Representante de servicio al cliente | 43-4051 | USD 18.44 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001518000000043405108)
+San Antonio-New Braunfels, TX | Ensamblador u operario de producción (ensambladores y fabricantes varios) | 51-2090 | USD 20.15 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM004170000000051209008)
+San Antonio-New Braunfels, TX | Maquinista | 51-4041 | USD 25.57 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM004170000000051404108)
+San Antonio-New Braunfels, TX | Soldador | 51-4121 | USD 23.18 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM004170000000051412108)
+San Antonio-New Braunfels, TX | Mecánico de maquinaria industrial | 49-9041 | USD 29.21 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM004170000000049904108)
+San Antonio-New Braunfels, TX | Supervisor de producción | 51-1011 | USD 33.89 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM004170000000051101108)
+San Antonio-New Braunfels, TX | Ayudante general de carga y almacén (peón de carga a mano) | 53-7062 | USD 18.01 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM004170000000053706208)
+San Antonio-New Braunfels, TX | Operador de montacargas (y tractores industriales) | 53-7051 | USD 21.80 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM004170000000053705108)
+San Antonio-New Braunfels, TX | Chofer de tractocamión | 53-3032 | USD 25.79 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM004170000000053303208)
+San Antonio-New Braunfels, TX | Ingeniero industrial | 17-2112 | USD 47.65 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM004170000000017211208)
+San Antonio-New Braunfels, TX | Auxiliar contable (tenedores de libros, contabilidad y auditoría) | 43-3031 | USD 23.15 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM004170000000043303108)
+San Antonio-New Braunfels, TX | Representante de servicio al cliente | 43-4051 | USD 20.54 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM004170000000043405108)
+Austin-Round Rock-San Marcos, TX | Ensamblador u operario de producción (ensambladores y fabricantes varios) | 51-2090 | USD 19.16 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001242000000051209008)
+Austin-Round Rock-San Marcos, TX | Maquinista | 51-4041 | USD 28.38 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001242000000051404108)
+Austin-Round Rock-San Marcos, TX | Soldador | 51-4121 | USD 28.39 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001242000000051412108)
+Austin-Round Rock-San Marcos, TX | Mecánico de maquinaria industrial | 49-9041 | USD 30.13 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001242000000049904108)
+Austin-Round Rock-San Marcos, TX | Supervisor de producción | 51-1011 | USD 34.36 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001242000000051101108)
+Austin-Round Rock-San Marcos, TX | Ayudante general de carga y almacén (peón de carga a mano) | 53-7062 | USD 18.53 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001242000000053706208)
+Austin-Round Rock-San Marcos, TX | Operador de montacargas (y tractores industriales) | 53-7051 | USD 22.32 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001242000000053705108)
+Austin-Round Rock-San Marcos, TX | Chofer de tractocamión | 53-3032 | USD 27.46 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001242000000053303208)
+Austin-Round Rock-San Marcos, TX | Ingeniero industrial | 17-2112 | USD 49.81 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001242000000017211208)
+Austin-Round Rock-San Marcos, TX | Auxiliar contable (tenedores de libros, contabilidad y auditoría) | 43-3031 | USD 26.12 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001242000000043303108)
+Austin-Round Rock-San Marcos, TX | Representante de servicio al cliente | 43-4051 | USD 21.02 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001242000000043405108)
+Dallas-Fort Worth-Arlington, TX | Ensamblador u operario de producción (ensambladores y fabricantes varios) | 51-2090 | USD 18.43 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001910000000051209008)
+Dallas-Fort Worth-Arlington, TX | Maquinista | 51-4041 | USD 28.76 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001910000000051404108)
+Dallas-Fort Worth-Arlington, TX | Soldador | 51-4121 | USD 24.82 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001910000000051412108)
+Dallas-Fort Worth-Arlington, TX | Mecánico de maquinaria industrial | 49-9041 | USD 30.47 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001910000000049904108)
+Dallas-Fort Worth-Arlington, TX | Supervisor de producción | 51-1011 | USD 33.63 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001910000000051101108)
+Dallas-Fort Worth-Arlington, TX | Ayudante general de carga y almacén (peón de carga a mano) | 53-7062 | USD 18.52 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001910000000053706208)
+Dallas-Fort Worth-Arlington, TX | Operador de montacargas (y tractores industriales) | 53-7051 | USD 22.71 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001910000000053705108)
+Dallas-Fort Worth-Arlington, TX | Chofer de tractocamión | 53-3032 | USD 28.62 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001910000000053303208)
+Dallas-Fort Worth-Arlington, TX | Ingeniero industrial | 17-2112 | USD 50.79 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001910000000017211208)
+Dallas-Fort Worth-Arlington, TX | Auxiliar contable (tenedores de libros, contabilidad y auditoría) | 43-3031 | USD 24.86 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001910000000043303108)
+Dallas-Fort Worth-Arlington, TX | Representante de servicio al cliente | 43-4051 | USD 21.63 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001910000000043405108)
+Houston-Pasadena-The Woodlands, TX | Ensamblador u operario de producción (ensambladores y fabricantes varios) | 51-2090 | USD 18.22 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002642000000051209008)
+Houston-Pasadena-The Woodlands, TX | Maquinista | 51-4041 | USD 29.46 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002642000000051404108)
+Houston-Pasadena-The Woodlands, TX | Soldador | 51-4121 | USD 27.86 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002642000000051412108)
+Houston-Pasadena-The Woodlands, TX | Mecánico de maquinaria industrial | 49-9041 | USD 30.38 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002642000000049904108)
+Houston-Pasadena-The Woodlands, TX | Supervisor de producción | 51-1011 | USD 36.21 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002642000000051101108)
+Houston-Pasadena-The Woodlands, TX | Ayudante general de carga y almacén (peón de carga a mano) | 53-7062 | USD 18.27 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002642000000053706208)
+Houston-Pasadena-The Woodlands, TX | Operador de montacargas (y tractores industriales) | 53-7051 | USD 22.11 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002642000000053705108)
+Houston-Pasadena-The Woodlands, TX | Chofer de tractocamión | 53-3032 | USD 27.33 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002642000000053303208)
+Houston-Pasadena-The Woodlands, TX | Ingeniero industrial | 17-2112 | USD 53.70 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002642000000017211208)
+Houston-Pasadena-The Woodlands, TX | Auxiliar contable (tenedores de libros, contabilidad y auditoría) | 43-3031 | USD 23.78 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002642000000043303108)
+Houston-Pasadena-The Woodlands, TX | Representante de servicio al cliente | 43-4051 | USD 19.42 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002642000000043405108)
+El Paso, TX | Ensamblador u operario de producción (ensambladores y fabricantes varios) | 51-2090 | USD 16.60 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002134000000051209008)
+El Paso, TX | Maquinista | 51-4041 | USD 22.54 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002134000000051404108)
+El Paso, TX | Soldador | 51-4121 | USD 21.63 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002134000000051412108)
+El Paso, TX | Mecánico de maquinaria industrial | 49-9041 | USD 27.15 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002134000000049904108)
+El Paso, TX | Supervisor de producción | 51-1011 | USD 29.46 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002134000000051101108)
+El Paso, TX | Ayudante general de carga y almacén (peón de carga a mano) | 53-7062 | USD 17.09 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002134000000053706208)
+El Paso, TX | Operador de montacargas (y tractores industriales) | 53-7051 | USD 18.52 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002134000000053705108)
+El Paso, TX | Chofer de tractocamión | 53-3032 | USD 23.69 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002134000000053303208)
+El Paso, TX | Ingeniero industrial | 17-2112 | USD 39.79 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002134000000017211208)
+El Paso, TX | Auxiliar contable (tenedores de libros, contabilidad y auditoría) | 43-3031 | USD 19.97 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002134000000043303108)
+El Paso, TX | Representante de servicio al cliente | 43-4051 | USD 18.10 | [BLS](https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002134000000043405108)
+
+
+---
+
+
+# https://investtexashub.com/impuestos/
+
+Modificación del mapa del sitio: 2026-11-11
+
+Costos de operación
+
+## Qué impuestos paga una empresa
+
+Consulta las tasas y el alcance de los impuestos estatales y locales en Texas.
+
+### Respuesta corta
+
+Para los informes de 2026 y 2027, el impuesto de franquicia es de 0.375% para comercio al menudeo o al mayoreo y de 0.75% para las demás actividades, y no se paga por debajo de 2,650,000 USD de ingresos totales anualizados. El impuesto sobre ventas y uso es de 6.25% estatal y las autoridades locales pueden sumar hasta 2%, con tope combinado de 8.25%. Son datos del Texas Comptroller, consultados el 10-nov-2026.
+
+[Texas Comptroller, franquicia](https://comptroller.texas.gov/taxes/franchise/) [Texas Comptroller, ventas y uso](https://comptroller.texas.gov/taxes/sales/)
+
+### ¿Cuánto paga de impuestos una empresa en Texas?
+
+Actividad de la empresa
+
+Comercio al menudeo o al mayoreo Otra actividad
+
+Tasas, alcance, año y fuente de los impuestos en Texas
+
+| Impuesto | Tasa o referencia | A quién aplica | Año y fuente
+
+Información general; no sustituye asesoría fiscal.
+
+Activa JavaScript para consultar el módulo. Los enlaces a las fuentes siguen disponibles.
+
+Lleva estos datos a tu caso con [tu hoja de ruta.](https://investtexashub.com/hoja-de-ruta/index.html)
+
+### Fuentes y fechas
+- [Texas Comptroller](https://comptroller.texas.gov/taxes/)Consulta de los datos 10-nov-2026.
+- [Fotografía de entrada, Austin](https://commons.wikimedia.org/wiki/File:Texas_Capitol_Dome_from_MLK_Blvd_and_IH35.jpg)Larry D. Moore, 26-may-2020. CC BY 4.0. Recorte de encuadre y velo de color. Ficha consultada el 2026-11-10. [Licencia CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+### Preguntas frecuentes
+
+#### ¿Qué es el impuesto de franquicia de Texas y cómo se calcula para una empresa extranjera?
+
+Es el impuesto estatal que paga cada entidad sujeta formada u organizada en Texas o que hace negocios en Texas. Se calcula sobre el margen gravable, con tasa de 0.375% para comercio al menudeo o al mayoreo y de 0.75% para las demás actividades. El cálculo EZ usa 0.331%. Referencia para los informes de 2026 y 2027.
+
+[Texas Comptroller, franquicia](https://comptroller.texas.gov/taxes/franchise/) Consulta 10-nov-2026.
+
+#### ¿Cuánto se paga de impuesto a la propiedad en Texas para una empresa?
+
+No hay una tasa única. El estado no cobra impuesto a la propiedad. Lo fijan y cobran las unidades locales, como escuelas, condados y ciudades, y la tasa total de un inmueble suma las de las unidades que lo cubren. La tasa total por ciudad no la encontramos en esta revisión.
+
+[Texas Comptroller, impuesto a la propiedad](https://comptroller.texas.gov/taxes/property-tax/rates/) Consulta 10-nov-2026.
+
+#### ¿Qué es el «sales tax» de Texas y debo cobrarlo si vendo ahí?
+
+Es el impuesto estatal sobre ventas y uso. La tasa estatal es de 6.25% y las autoridades locales pueden sumar hasta 2%, con tope combinado de 8.25%. Se aplica a ventas al menudeo, arrendamientos y rentas de la mayoría de los bienes. Si una venta concreta debe cobrarlo depende de las reglas del Comptroller.
+
+[Texas Comptroller, ventas y uso](https://comptroller.texas.gov/taxes/sales/) Consulta 10-nov-2026.
+
+Publicado el 10 de noviembre de 2026. Actualizado el 11 de noviembre de 2026. Invest Texas Hub.
+
+### Datos del módulo de impuestos
+
+Consulta 2026-11-10.
+
+#### Impuesto de franquicia de Texas (franchise tax), tasa
+
+0.375% para comercio al menudeo o al mayoreo; 0.75% para los demás. Cálculo EZ: 0.331% (ingresos totales de 20 millones USD o menos)
+
+Cada entidad sujeta a impuesto formada u organizada en Texas o que hace negocios en Texas. Informes de 2026 y 2027 (las mismas tasas rigen para los informes de 2024 y 2025). Estado verificado. [Texas Comptroller of Public Accounts](https://comptroller.texas.gov/taxes/franchise/)
+
+#### Impuesto de franquicia, umbral de no pago (no tax due threshold)
+
+2,650,000 USD (informes 2026 y 2027); 2,470,000 USD (informes 2024 y 2025)
+
+Entidades sujetas; por debajo del umbral no se debe impuesto. Informes 2026-2027 y 2024-2025. Los informes se presentan en mayo del año que nombran. Estado verificado. [Texas Comptroller of Public Accounts](https://comptroller.texas.gov/taxes/franchise/)
+
+#### Impuesto estatal a las ventas y uso
+
+6.25% estatal; las autoridades locales pueden sumar hasta 2%; tope combinado 8.25%
+
+Ventas al menudeo, arrendamientos y rentas de la mayoría de los bienes. Vigente a la consulta (la página no trae fecha de vigencia). Estado verificado. [Texas Comptroller of Public Accounts](https://comptroller.texas.gov/taxes/sales/)
+
+#### Impuesto estatal sobre la renta de las personas físicas: prohibición constitucional
+
+No hay; la Constitución prohíbe al Legislativo imponerlo
+
+Ingresos netos de individuos, incluida su parte de ingresos de sociedades y asociaciones no incorporadas. Añadida por los votantes el 5-nov-2019 (Artículo VIII, sección 24-a; la misma enmienda derogó la sección 24). Estado verificado. [Legislatura de Texas, texto de la resolución conjunta H.J.R. 38 (86.ª Legislatura, versión engrosada), que es la enmienda aprobada en 2019](https://capitol.texas.gov/tlodocs/86R/billtext/html/HJ00038E.htm)
+
+#### Seguro de desempleo para empleadores (Texas Workforce Commission), tasa mínima
+
+0.32%
+
+Empleadores sujetos. Se paga sobre los primeros 9,000 USD que cada empleado gana en el año calendario. 2026. Estado verificado. [Texas Workforce Commission](https://www.twc.texas.gov/programs/unemployment-tax/your-tax-rates)
+
+#### Seguro de desempleo para empleadores, tasa máxima
+
+6.32%
+
+Empleadores sujetos. 2026. Estado verificado. [Texas Workforce Commission](https://www.twc.texas.gov/programs/unemployment-tax/your-tax-rates)
+
+#### Seguro de desempleo, tasa de empleador nuevo y promedios
+
+Tasa de entrada 2.70% para todos los grupos; tasa promedio 1.20%; tasa promedio por experiencia 0.99%. Componentes: tasa de reposición 0.21%, tasa de interés 0.01%, sin tasa de déficit ni de obligación en 2026; evaluación ETIA de 0.10% de los salarios, compensada por la rebaja de la reposición
+
+Empleadores nuevos (tasa de entrada) y promedios del estado. 2026. Estado verificado. [Texas Workforce Commission](https://www.twc.texas.gov/programs/unemployment-tax/tax-rates)
+
+#### Impuesto a la propiedad, quién lo fija
+
+El estado no cobra impuesto a la propiedad. Lo fijan y cobran unidades locales (escuelas, condados, ciudades y otras); el Comptroller no los cobra ni fija las tasas
+
+Propietarios de inmuebles y de ciertos bienes de empresa, según el avalúo local. Vigente a la consulta. Estado verificado. [Texas Comptroller of Public Accounts](https://comptroller.texas.gov/taxes/property-tax/rates/)
+
+#### Tasa total de impuesto a la propiedad en la ciudad principal de cada región
+
+No lo encontramos.
+
+Cada unidad local fija su tasa; la tasa total de un inmueble suma las unidades que lo cubren. Lista de tasas de 2025. Estado no encontrado. [Texas Comptroller, Tax Rates and Levies](https://comptroller.texas.gov/taxes/property-tax/rates/)
+
+
+---
+
+
+# https://investtexashub.com/energia/
+
+Modificación del mapa del sitio: 2026-11-11
+
+Costos de operación
+
+## Cuánto cuesta la luz en Texas
+
+Compara el precio industrial y consulta quién distribuye la electricidad en cada región.
+
+### Respuesta corta
+
+En agosto de 2026 el precio promedio de la electricidad para la industria en Texas fue de 7.21 centavos de dólar por kWh y el de Estados Unidos fue de 9.64. Es un dato preliminar de la U.S. Energy Information Administration (EIA), consultado el 10-nov-2026.
+
+[EIA, tabla 5.6.A](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)
+
+### ¿Cuánto cuesta la luz para una fábrica en Texas?
+
+Son promedios de venta final del sector industrial. La tarifa de una fábrica depende de su contrato y consumo; estas cifras no son tarifas por ciudad ni por empresa.
+
+Región
+
+Pertenecer a la red ERCOT no implica que se pueda elegir proveedor. La empresa que distribuye la electricidad depende de la dirección del inmueble.
+
+Activa JavaScript para consultar el módulo. Los enlaces a las fuentes siguen disponibles.
+
+Lleva estos datos a tu caso con [tu hoja de ruta.](https://investtexashub.com/hoja-de-ruta/index.html)
+
+### Fuentes y fechas
+- [U.S. Energy Information Administration](https://www.eia.gov/electricity/monthly/)Consulta de los datos 10-nov-2026.
+- [Fotografía de entrada, Houston](https://commons.wikimedia.org/wiki/File:Aerial_view_in_2014_of_the_Houston_Ship_Channel_and_surrounding_energy_facilities_in_Houston,_Texas_LCCN2014632188.tif)Carol M. Highsmith, Biblioteca del Congreso, 5-may-2014. Dominio público. Recorte de encuadre y velo de color. Ficha consultada el 2026-11-10.
+
+### Preguntas frecuentes
+
+#### ¿El promedio de 7.21 centavos es la tarifa que pagaría mi fábrica?
+
+No. Es el promedio de venta final al sector industrial de todo Texas. La tarifa de una fábrica depende de su contrato y de su consumo, y estas cifras no son tarifas por ciudad ni por empresa.
+
+[EIA, tabla 5.6.A](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a) Consulta 10-nov-2026.
+
+#### ¿Cómo se compara el precio industrial de Texas con el de Estados Unidos?
+
+En agosto de 2026 el promedio industrial de Texas fue de 7.21 centavos de dólar por kWh y el de Estados Unidos de 9.64, según la EIA, con cifras preliminares. Un año antes fueron 6.42 y 8.98.
+
+[EIA, tabla 5.6.A](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a) Consulta 10-nov-2026.
+
+Publicado el 10 de noviembre de 2026. Actualizado el 11 de noviembre de 2026. Invest Texas Hub.
+
+### Datos del módulo de electricidad
+
+Consulta 2026-11-10.
+
+#### Laredo
+
+Por confirmar. Información parcial. Quién distribuye: AEP Texas. Elección de proveedor: sí. La cobertura y las características de esta ficha requieren confirmación para el inmueble. [Fuente](https://www.aeptexas.com/company/about/) [Fuente](https://www.ercot.com/files/docs/2026/03/06/2026_07-Retail-101.pdf)
+
+#### McAllen
+
+Por confirmar. Información parcial. Quién distribuye: AEP Texas. Elección de proveedor: sí. La cobertura y las características de esta ficha requieren confirmación para el inmueble. [Fuente](https://www.aeptexas.com/company/about/)
+
+#### Brownsville
+
+Por confirmar. Información parcial. Quién distribuye: Brownsville Public Utilities Board. Elección de proveedor: por confirmar. La cobertura y las características de esta ficha requieren confirmación para el inmueble. [Fuente](https://www.bpub.com/)
+
+#### San Antonio
+
+Por confirmar. Información parcial. Quién distribuye: CPS Energy. Elección de proveedor: no. La cobertura y las características de esta ficha requieren confirmación para el inmueble. [Fuente](https://www.cpsenergy.com/) [Fuente](https://www.ercot.com/files/docs/2025/11/17/ERCOT-Grid-Insights-Retail-Market.pdf)
+
+#### Austin
+
+Por confirmar. Información parcial. Quién distribuye: Austin Energy. Elección de proveedor: no. La cobertura y las características de esta ficha requieren confirmación para el inmueble. [Fuente](https://austinenergy.com/about/company-profile) [Fuente](https://www.ercot.com/files/docs/2025/11/17/ERCOT-Grid-Insights-Retail-Market.pdf)
+
+#### Dallas y Fort Worth
+
+Por confirmar. Información parcial. Quién distribuye: Oncor Electric Delivery. Elección de proveedor: sí. La cobertura y las características de esta ficha requieren confirmación para el inmueble. [Fuente](https://www.oncor.com/content/oncorwww/us/en/home/locations.html) [Fuente](https://www.ercot.com/files/docs/2025/11/17/ERCOT-Grid-Insights-Retail-Market.pdf)
+
+#### Houston
+
+Por confirmar. Información parcial. Quién distribuye: CenterPoint Energy Houston Electric. Elección de proveedor: sí. La cobertura y las características de esta ficha requieren confirmación para el inmueble. [Fuente](https://www.centerpointenergy.com/en-us/about-us) [Fuente](https://www.centerpointenergy.com/en-us/corp/pages/communities-we-serve-ho.aspx)
+
+#### El Paso
+
+Por confirmar. Información parcial. Quién distribuye: El Paso Electric. Elección de proveedor: no. La cobertura y las características de esta ficha requieren confirmación para el inmueble. [Fuente](https://www.epelectric.com/) [Fuente](https://www.epelectric.com/company/about-epe/service-territory)
+
+
+---
+
+
+# https://investtexashub.com/parques/
+
+Modificación del mapa del sitio: 2026-11-11
+
+Parques industriales
+
+## Parques industriales verificados
+
+Nombre, promotor y ubicación comprobados, con fuentes y fecha de consulta.
+
+Referencia en Texas. Cartografía de U.S. Census Bureau.
+
+### Laredo y Webb
+- [Port GrandeVer fichaNombre en Majestic Realty / Port Grande. Consulta 10 de noviembre de 2026.](https://investtexashub.com/parques/port-grande/index.html)
+- [North Laredo Industrial ParkVer fichaNombre en North Laredo Industrial Park. Consulta 10 de noviembre de 2026.](https://investtexashub.com/parques/north-laredo/index.html)
+-
+
+Wisdom Industrial Parken verificaciónNombre en North Laredo Industrial Park. Consulta 10 de noviembre de 2026.
+
+- [World Logistics ParkVer fichaNombre en World Logistics Park. Consulta 10 de noviembre de 2026.](https://investtexashub.com/parques/world-logistics/index.html)
+-
+
+Premier Industrial Parken verificaciónNombre en Cawley Partners. Consulta 10 de noviembre de 2026.
+
+- [Pinnacle Industry CenterVer fichaNombre en Kraus Development. Consulta 10 de noviembre de 2026.](https://investtexashub.com/parques/pinnacle/index.html)
+-
+
+Township Logistics Park at Taliseen verificaciónNombre en Stewart Development. Consulta 10 de noviembre de 2026.
+
+### Sur de Dallas
+-
+
+Sunridge Business Parken verificaciónNombre en Scannell Properties, comunicado alojado por Wilmer EDC. Consulta 10 de noviembre de 2026.
+
+-
+
+DalPort Trade Centeren verificaciónNombre en Panattoni. Consulta 10 de noviembre de 2026.
+
+-
+
+Southport Logistics Parken verificaciónNombre en Logistics Property Company. Consulta 10 de noviembre de 2026.
+
+-
+
+Prime Pointeen verificaciónNombre en Prime Rail Interests / Prime 45 Development. Consulta 10 de noviembre de 2026.
+
+- [Longhorn 35 Logistics ParkVer fichaNombre en Johnson Development Associates. Consulta 10 de noviembre de 2026.](https://investtexashub.com/parques/longhorn-35/index.html)
+-
+
+Prologis Park 20/35en verificaciónNombre en Prologis. Consulta 10 de noviembre de 2026.
+
+-
+
+IAC Pleasant Runen verificaciónNombre en IAC Properties. Consulta 10 de noviembre de 2026.
+
+- [Logistix Hub South DallasVer fichaNombre en Wilmer Municipal Utility District No. 1. Consulta 10 de noviembre de 2026.](https://investtexashub.com/parques/logistix-hub/index.html)
+
+### Qué verificamos
+
+Nombre y promotor, identidad del conjunto, fuente con fecha, punto de referencia y ciudad y condado según Census. Las fases y edificios se mantienen dentro de su conjunto. Los expedientes que aún no cumplen aparecen en verificación.
+
+Cada ficha enlaza sus fuentes y distingue la fecha del dato de la fecha de consulta. Verificado no certifica el estado operativo actual. Datos consultados el 10 de noviembre de 2026.
+
+Cartografía de U.S. Census Bureau, TIGERweb ACS 2025, límites del 1 de enero de 2025. Dominio público, contorno simplificado. Los puntos del índice representan los grupos, no los predios.
+
+[Fuente de la cartografía](https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2025/MapServer) [Condiciones de uso](https://www.census.gov/about/policies/privacy/privacy-policy.html)
+
+
+---
+
+
+# https://investtexashub.com/parques/port-grande/
+
+Modificación del mapa del sitio: 2026-11-11
+
+Parques industriales
+
+## Port Grande
+
+Laredo, condado de Webb. Ubicación de referencia, etapas documentadas y fuentes.
+
+Referencia en Texas. Cartografía de U.S. Census Bureau.
+
+Fuentes y punto consultados el 10 de noviembre de 2026. La fecha de consulta no es una fecha de obra.
+
+### El conjunto
+
+Port Grande se presenta como un conjunto con una fase I y lotes identificados dentro de ella.
+
+[Majestic Realty / Port Grande](https://www.portgrande.com/)
+
+#### Desarrollador o promotor
+
+Majestic Realty Co.
+
+[Majestic Realty / Port Grande](https://www.portgrande.com/)
+
+### Ubicación comprobada
+
+Laredo, condado de Webb, Texas.
+
+El cruce con Census corresponde sólo al punto. Límites TIGERweb ACS 2025 del 1 de enero de 2025. No es un deslinde del parque.
+
+Edificio de referencia en 1309 Carriers Drive, dentro del área de Port Grande.
+
+Latitud 27.6813559
+Longitud -99.4501905
+
+[Ver ubicación en el mapa](https://www.openstreetmap.org/?mlat=27.6813559&mlon=-99.4501905#map=15/27.6813559/-99.4501905)
+
+### Etapas documentadas
+-
+
+#### Fase I
+
+Estado de obra no confirmado con fecha. El sitio presenta el plan de esta fase.
+
+Fecha de obra no informada.
+
+[Majestic Realty / Port Grande](https://www.portgrande.com/)
+
+No se encontró un estado operativo actual ni una superficie del conjunto con fecha de corte.
+
+Datos públicos con su fuente. Para disponibilidad y precios, consulta al desarrollador.
+
+Escríbenos sobre este parque[Todos los parques](https://investtexashub.com/parques/index.html)
+
+### Fuentes y fechas
+- [Majestic Realty / Port Grande](https://www.portgrande.com/)Documento sin fecha de publicación informada. Consulta 10 de noviembre de 2026.
+- [U.S. Census Bureau, TIGERweb ACS 2025](https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2025/MapServer)Límites al 1 de enero de 2025. Consultas por punto del 10 de noviembre de 2026.
+
+[Ciudad](https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2025/MapServer/28/query?f=json&geometry=-99.4501905%2C27.6813559&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=NAME%2CGEOID&returnGeometry=false)[Condado](https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2025/MapServer/82/query?f=json&geometry=-99.4501905%2C27.6813559&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=NAME%2CGEOID&returnGeometry=false)[Estado](https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2025/MapServer/80/query?f=json&geometry=-99.4501905%2C27.6813559&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=NAME%2CGEOID&returnGeometry=false)[Área estadística](https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2025/MapServer/30/query?f=json&geometry=-99.4501905%2C27.6813559&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=NAME%2CGEOID&returnGeometry=false)
+
+El punto se cotejó visualmente con el domicilio y las vialidades de la fuente. Es una referencia aproximada. [Fuente del domicilio](https://www.portgrande.com/) [Mapa de la comprobación](https://www.google.com/maps/search/?api=1&query=27.6813559,-99.4501905)
+
+Cartografía del contorno de Texas de U.S. Census Bureau. TIGERweb ACS 2025, dominio público. Simplificada para esta vista; no es un plano de predio. [Condiciones de uso](https://www.census.gov/about/policies/privacy/privacy-policy.html)
+
+
+---
+
+
+# https://investtexashub.com/parques/north-laredo/
+
+Modificación del mapa del sitio: 2026-11-11
+
+Parques industriales
+
+## North Laredo Industrial Park
+
+Laredo, condado de Webb. Ubicación de referencia, etapas documentadas y fuentes.
+
+Referencia en Texas. Cartografía de U.S. Census Bureau.
+
+Fuentes y punto consultados el 10 de noviembre de 2026. La fecha de consulta no es una fecha de obra.
+
+### El conjunto
+
+Las fases I a V forman parte de North Laredo Industrial Park. Se conserva una sola ficha para el conjunto.
+
+[White Ark Enterprises](https://www.whiteark.co/nlip) [North Laredo Industrial Park](https://northlaredoindustrialpark.net/lots/)
+
+#### Desarrollador o promotor
+
+White Ark Enterprises
+
+Su página acredita participación en el proyecto. No se ha acreditado la propiedad de todo el conjunto.
+
+[White Ark Enterprises](https://www.whiteark.co/nlip)
+
+### Ubicación comprobada
+
+Laredo, condado de Webb, Texas.
+
+El cruce con Census corresponde sólo al punto. Límites TIGERweb ACS 2025 del 1 de enero de 2025. No es un deslinde del parque.
+
+Acceso/oficina de referencia sobre Mercury Drive, no centro del parque.
+
+Latitud 27.6975434
+Longitud -99.4661632
+
+[Ver ubicación en el mapa](https://www.openstreetmap.org/?mlat=27.6975434&mlon=-99.4661632#map=15/27.6975434/-99.4661632)
+
+### Etapas documentadas
+-
+
+#### Fase I
+
+White Ark la describe como terminada, sin indicar cuándo.
+
+Fecha de terminación no informada. No acredita el estado actual.
+
+[White Ark Enterprises](https://www.whiteark.co/nlip)
+
+-
+
+#### Fases II a V
+
+No se encontró un estado de obra fechado y consistente entre las descripciones de las fases.
+
+Fecha de obra no informada.
+
+[White Ark Enterprises](https://www.whiteark.co/nlip)
+
+No se encontró una superficie del conjunto con fecha de corte.
+
+Datos públicos con su fuente. Para disponibilidad y precios, consulta al desarrollador.
+
+Escríbenos sobre este parque[Todos los parques](https://investtexashub.com/parques/index.html)
+
+### Fuentes y fechas
+- [North Laredo Industrial Park](https://northlaredoindustrialpark.net/lots/)Documento sin fecha de publicación informada. Consulta 10 de noviembre de 2026.
+- [White Ark Enterprises](https://www.whiteark.co/nlip)Documento sin fecha de publicación informada. Consulta 10 de noviembre de 2026.
+- [U.S. Census Bureau, TIGERweb ACS 2025](https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2025/MapServer)Límites al 1 de enero de 2025. Consultas por punto del 10 de noviembre de 2026.
+
+[Ciudad](https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2025/MapServer/28/query?f=json&geometry=-99.4661632%2C27.6975434&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=NAME%2CGEOID&returnGeometry=false)[Condado](https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2025/MapServer/82/query?f=json&geometry=-99.4661632%2C27.6975434&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=NAME%2CGEOID&returnGeometry=false)[Estado](https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2025/MapServer/80/query?f=json&geometry=-99.4661632%2C27.6975434&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=NAME%2CGEOID&returnGeometry=false)[Área estadística](https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2025/MapServer/30/query?f=json&geometry=-99.4661632%2C27.6975434&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=NAME%2CGEOID&returnGeometry=false)
+
+El punto se cotejó visualmente con el domicilio y las vialidades de la fuente. Es una referencia aproximada. [Fuente del domicilio](https://northlaredoindustrialpark.net/lots/) [Mapa de la comprobación](https://www.google.com/maps/search/?api=1&query=27.6975434,-99.4661632)
+
+Cartografía del contorno de Texas de U.S. Census Bureau. TIGERweb ACS 2025, dominio público. Simplificada para esta vista; no es un plano de predio. [Condiciones de uso](https://www.census.gov/about/policies/privacy/privacy-policy.html)
+
+
+---
+
+
+# https://investtexashub.com/parques/world-logistics/
+
+Modificación del mapa del sitio: 2026-11-11
+
+Parques industriales
+
+## World Logistics Park
+
+Fuera de ciudad incorporada, condado de Webb. Ubicación de referencia, etapas documentadas y fuentes.
+
+Referencia en Texas. Cartografía de U.S. Census Bureau.
+
+Fuentes y punto consultados el 10 de noviembre de 2026. La fecha de consulta no es una fecha de obra.
+
+### El conjunto
+
+Brittingham lo enlaza como World Industrial Park al sitio World Logistics Park. Los dos nombres se tratan como un solo conjunto.
+
+[Brittingham Development Group](https://brittinghamdev.com/markets/) [World Logistics Park](https://worldlogisticspark.com/)
+
+#### Desarrollador o promotor
+
+Brittingham Development Group
+
+[Brittingham Development Group](https://brittinghamdev.com/markets/)
+
+### Ubicación comprobada
+
+Fuera de ciudad incorporada, condado de Webb, Texas.
+
+El cruce con Census corresponde sólo al punto. Límites TIGERweb ACS 2025 del 1 de enero de 2025. No es un deslinde del parque.
+
+Referencia de la entrada identificada como Phase I en 15546 Interstate 35.
+
+Latitud 27.7408920
+Longitud -99.4438706
+
+[Ver ubicación en el mapa](https://www.openstreetmap.org/?mlat=27.7408920&mlon=-99.4438706#map=15/27.7408920/-99.4438706)
+
+### Etapas documentadas
+-
+
+#### Conjunto
+
+No se encontró un estado de obra por fase con fecha.
+
+Fecha de obra no informada.
+
+[World Logistics Park](https://worldlogisticspark.com/)
+
+El rótulo Phase I del punto de referencia no acredita una fase concluida. No se encontró una superficie del conjunto con fecha de corte.
+
+Datos públicos con su fuente. Para disponibilidad y precios, consulta al desarrollador.
+
+Escríbenos sobre este parque[Todos los parques](https://investtexashub.com/parques/index.html)
+
+### Fuentes y fechas
+- [World Logistics Park](https://worldlogisticspark.com/)Documento sin fecha de publicación informada. Consulta 10 de noviembre de 2026.
+- [Brittingham Development Group](https://brittinghamdev.com/markets/)Documento sin fecha de publicación informada. Consulta 10 de noviembre de 2026.
+- [U.S. Census Bureau, TIGERweb ACS 2025](https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2025/MapServer)Límites al 1 de enero de 2025. Consultas por punto del 10 de noviembre de 2026.
+
+[Ciudad](https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2025/MapServer/28/query?f=json&geometry=-99.4438706%2C27.740892&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=NAME%2CGEOID&returnGeometry=false)[Condado](https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2025/MapServer/82/query?f=json&geometry=-99.4438706%2C27.740892&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=NAME%2CGEOID&returnGeometry=false)[Estado](https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2025/MapServer/80/query?f=json&geometry=-99.4438706%2C27.740892&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=NAME%2CGEOID&returnGeometry=false)[Área estadística](https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2025/MapServer/30/query?f=json&geometry=-99.4438706%2C27.740892&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=NAME%2CGEOID&returnGeometry=false)
+
+El punto se cotejó visualmente con el domicilio y las vialidades de la fuente. Es una referencia aproximada. [Fuente del domicilio](https://worldlogisticspark.com/) [Mapa de la comprobación](https://www.google.com/maps/search/?api=1&query=27.740892,-99.4438706)
+
+Cartografía del contorno de Texas de U.S. Census Bureau. TIGERweb ACS 2025, dominio público. Simplificada para esta vista; no es un plano de predio. [Condiciones de uso](https://www.census.gov/about/policies/privacy/privacy-policy.html)
+
+
+---
+
+
+# https://investtexashub.com/parques/pinnacle/
+
+Modificación del mapa del sitio: 2026-11-11
+
+Parques industriales
+
+## Pinnacle Industry Center
+
+Laredo, condado de Webb. Ubicación de referencia, etapas documentadas y fuentes.
+
+Referencia en Texas. Cartografía de U.S. Census Bureau.
+
+Fuentes y punto consultados el 10 de noviembre de 2026. La fecha de consulta no es una fecha de obra.
+
+### El conjunto
+
+Se registra Pinnacle Industry Center como un conjunto. El alcance de sus unidades municipales sigue pendiente de conciliación.
+
+[Kraus Development](https://www.krausdevelopment.com/pinnacle-industry-center-2)
+
+#### Desarrollador o promotor
+
+Kraus Development
+
+Lo incluye en su cartera de proyectos. No se ha acreditado la propiedad de todo el conjunto.
+
+[Kraus Development](https://www.krausdevelopment.com/pinnacle-industry-center-2)
+
+### Ubicación comprobada
+
+Laredo, condado de Webb, Texas.
+
+El cruce con Census corresponde sólo al punto. Límites TIGERweb ACS 2025 del 1 de enero de 2025. No es un deslinde del parque.
+
+Marcador del conjunto al oeste de Mines Road, cerca de Vidal Cantu Road.
+
+Latitud 27.6480197
+Longitud -99.5603637
+
+[Ver ubicación en el mapa](https://www.openstreetmap.org/?mlat=27.6480197&mlon=-99.5603637#map=15/27.6480197/-99.5603637)
+
+### Etapas documentadas
+-
+
+#### Conjunto
+
+No se encontró un estado de obra del conjunto con fecha.
+
+Fecha de obra no informada.
+
+[Kraus Development](https://www.krausdevelopment.com/pinnacle-industry-center-2)
+
+No se encontró una superficie del conjunto con fecha de corte.
+
+Datos públicos con su fuente. Para disponibilidad y precios, consulta al desarrollador.
+
+Escríbenos sobre este parque[Todos los parques](https://investtexashub.com/parques/index.html)
+
+### Fuentes y fechas
+- [Kraus Development](https://www.krausdevelopment.com/pinnacle-industry-center-2)Documento sin fecha de publicación informada. Consulta 10 de noviembre de 2026.
+- [U.S. Census Bureau, TIGERweb ACS 2025](https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2025/MapServer)Límites al 1 de enero de 2025. Consultas por punto del 10 de noviembre de 2026.
+
+[Ciudad](https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2025/MapServer/28/query?f=json&geometry=-99.5603637%2C27.6480197&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=NAME%2CGEOID&returnGeometry=false)[Condado](https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2025/MapServer/82/query?f=json&geometry=-99.5603637%2C27.6480197&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=NAME%2CGEOID&returnGeometry=false)[Estado](https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2025/MapServer/80/query?f=json&geometry=-99.5603637%2C27.6480197&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=NAME%2CGEOID&returnGeometry=false)[Área estadística](https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2025/MapServer/30/query?f=json&geometry=-99.5603637%2C27.6480197&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=NAME%2CGEOID&returnGeometry=false)
+
+El punto se cotejó visualmente con el domicilio y las vialidades de la fuente. Es una referencia aproximada. [Fuente del domicilio](https://www.krausdevelopment.com/pinnacle-industry-center-2) [Mapa de la comprobación](https://www.google.com/maps/search/?api=1&query=27.6480197,-99.5603637)
+
+Cartografía del contorno de Texas de U.S. Census Bureau. TIGERweb ACS 2025, dominio público. Simplificada para esta vista; no es un plano de predio. [Condiciones de uso](https://www.census.gov/about/policies/privacy/privacy-policy.html)
+
+
+---
+
+
+# https://investtexashub.com/parques/longhorn-35/
+
+Modificación del mapa del sitio: 2026-11-11
+
+Parques industriales
+
+## Longhorn 35 Logistics Park
+
+Lancaster, condado de Dallas. Ubicación de referencia, etapas documentadas y fuentes.
+
+Referencia en Texas. Cartografía de U.S. Census Bureau.
+
+Fuentes y punto consultados el 10 de noviembre de 2026. La fecha de consulta no es una fecha de obra.
+
+### El conjunto
+
+Se reúne en una ficha el conjunto de edificios I, II y III. El nombre del conjunto procede de los nombres publicados para esos edificios.
+
+[Johnson Development Associates](https://www.johnsondevelopment.net/industrial/properties/i35-distribution-center-i) [Johnson Development / CBRE](https://www.johnsondevelopment.net/files/longhorn-35-distribution-ctr_brochure-v7383646348.pdf)
+
+#### Desarrollador o promotor
+
+Johnson Development Associates
+
+[Johnson Development Associates](https://www.johnsondevelopment.net/industrial/properties/i35-distribution-center-i)
+
+### Ubicación comprobada
+
+Lancaster, condado de Dallas, Texas.
+
+El cruce con Census corresponde sólo al punto. Límites TIGERweb ACS 2025 del 1 de enero de 2025. No es un deslinde del parque.
+
+Edificio II en 2301 E. Longhorn Drive.
+
+Latitud 32.6151813
+Longitud -96.8126786
+
+[Ver ubicación en el mapa](https://www.openstreetmap.org/?mlat=32.6151813&mlon=-96.8126786#map=15/32.6151813/-96.8126786)
+
+### Etapas documentadas
+-
+
+#### Edificio II
+
+El desarrollador informa su terminación en 2023.
+
+Terminación en 2023.
+
+[Johnson Development Associates](https://www.johnsondevelopment.net/industrial/properties/i35-distribution-center-i)
+
+-
+
+#### Edificios I y III
+
+Fechas de terminación por verificar.
+
+Fechas de obra por verificar.
+
+[Johnson Development / CBRE](https://www.johnsondevelopment.net/files/longhorn-35-distribution-ctr_brochure-v7383646348.pdf)
+
+La referencia corresponde al edificio II. No se encontró un estado operativo actual del conjunto. La fuente indica el año de terminación, pero no una fecha de corte explícita para la superficie.
+
+Datos públicos con su fuente. Para disponibilidad y precios, consulta al desarrollador.
+
+Escríbenos sobre este parque[Todos los parques](https://investtexashub.com/parques/index.html)
+
+### Fuentes y fechas
+- [Johnson Development Associates](https://www.johnsondevelopment.net/industrial/properties/i35-distribution-center-i)Documento sin fecha de publicación informada. Consulta 10 de noviembre de 2026.
+- [Johnson Development / CBRE](https://www.johnsondevelopment.net/files/longhorn-35-distribution-ctr_brochure-v7383646348.pdf)Documento sin fecha de publicación informada. Consulta 10 de noviembre de 2026.
+- [U.S. Census Bureau, TIGERweb ACS 2025](https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2025/MapServer)Límites al 1 de enero de 2025. Consultas por punto del 10 de noviembre de 2026.
+
+[Ciudad](https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2025/MapServer/28/query?f=json&geometry=-96.8126786%2C32.6151813&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=NAME%2CGEOID&returnGeometry=false)[Condado](https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2025/MapServer/82/query?f=json&geometry=-96.8126786%2C32.6151813&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=NAME%2CGEOID&returnGeometry=false)[Estado](https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2025/MapServer/80/query?f=json&geometry=-96.8126786%2C32.6151813&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=NAME%2CGEOID&returnGeometry=false)[Área estadística](https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2025/MapServer/30/query?f=json&geometry=-96.8126786%2C32.6151813&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=NAME%2CGEOID&returnGeometry=false)
+
+El punto se cotejó visualmente con el domicilio y las vialidades de la fuente. Es una referencia aproximada. [Fuente del domicilio](https://www.johnsondevelopment.net/files/longhorn-35-distribution-ctr_brochure-v7383646348.pdf) [Mapa de la comprobación](https://www.google.com/maps/search/?api=1&query=32.6151813,-96.8126786)
+
+Cartografía del contorno de Texas de U.S. Census Bureau. TIGERweb ACS 2025, dominio público. Simplificada para esta vista; no es un plano de predio. [Condiciones de uso](https://www.census.gov/about/policies/privacy/privacy-policy.html)
+
+
+---
+
+
+# https://investtexashub.com/parques/logistix-hub/
+
+Modificación del mapa del sitio: 2026-11-11
+
+Parques industriales
+
+## Logistix Hub South Dallas
+
+Wilmer, condado de Dallas. Ubicación de referencia, etapas documentadas y fuentes.
+
+Referencia en Texas. Cartografía de U.S. Census Bureau.
+
+Fuentes y punto consultados el 10 de noviembre de 2026. La fecha de consulta no es una fecha de obra.
+
+### El conjunto
+
+Logistix Hub South Dallas tiene fases 1 y 2. Es un conjunto distinto de Southport Logistics Park, aunque ambos aparecen en el documento del distrito.
+
+[Wilmer Municipal Utility District No. 1](https://samco.postos.com/wp-content/uploads/2025/08/Wilmer-MUD-1-FOS-Second-Revised.pdf) [MYCON](https://mycon.com/project/the-logistix-hub-south-dallas/)
+
+#### Desarrollador o promotor
+
+Fulghum XT, LLC / Xebec Realty
+
+El distrito identifica a Fulghum XT como desarrollador. MYCON identifica a Xebec Realty como cliente del proyecto. Estos antecedentes no acreditan la administración actual.
+
+[Wilmer Municipal Utility District No. 1](https://samco.postos.com/wp-content/uploads/2025/08/Wilmer-MUD-1-FOS-Second-Revised.pdf) [MYCON](https://mycon.com/project/the-logistix-hub-south-dallas/)
+
+### Ubicación comprobada
+
+Wilmer, condado de Dallas, Texas.
+
+El cruce con Census corresponde sólo al punto. Límites TIGERweb ACS 2025 del 1 de enero de 2025. No es un deslinde del parque.
+
+Edificio 1, 1301 Southport Parkway; referencia de fase 1.
+
+Latitud 32.6231837
+Longitud -96.6756152
+
+[Ver ubicación en el mapa](https://www.openstreetmap.org/?mlat=32.6231837&mlon=-96.6756152#map=15/32.6231837/-96.6756152)
+
+### Etapas documentadas
+-
+
+#### Fase 1
+
+El documento del distrito informa que terminó en el primer trimestre de 2023.
+
+Terminación en el primer trimestre de 2023.
+
+[Wilmer Municipal Utility District No. 1](https://samco.postos.com/wp-content/uploads/2025/08/Wilmer-MUD-1-FOS-Second-Revised.pdf)
+
+-
+
+#### Fase 2
+
+Anuncio. El documento de 2025 describe la fase planeada sin calendario de desarrollo. No se ha comprobado su ejecución posterior.
+
+Plan descrito en 2025.
+
+[Wilmer Municipal Utility District No. 1](https://samco.postos.com/wp-content/uploads/2025/08/Wilmer-MUD-1-FOS-Second-Revised.pdf)
+
+No se encontró una superficie del conjunto con fecha de corte ni un estado de fase 2 en 2026.
+
+Datos públicos con su fuente. Para disponibilidad y precios, consulta al desarrollador.
+
+Escríbenos sobre este parque[Todos los parques](https://investtexashub.com/parques/index.html)
+
+### Fuentes y fechas
+- [Wilmer Municipal Utility District No. 1](https://samco.postos.com/wp-content/uploads/2025/08/Wilmer-MUD-1-FOS-Second-Revised.pdf)Fecha del documento 2025-06-26. Consulta 10 de noviembre de 2026.
+- [MYCON](https://mycon.com/project/the-logistix-hub-south-dallas/)Documento sin fecha de publicación informada. Consulta 10 de noviembre de 2026.
+- [CBRE, sitio del proyecto Logistix](https://logistix.cbre-properties.com/building-1/)Documento sin fecha de publicación informada. Consulta 10 de noviembre de 2026.
+- [U.S. Census Bureau, TIGERweb ACS 2025](https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2025/MapServer)Límites al 1 de enero de 2025. Consultas por punto del 10 de noviembre de 2026.
+
+[Ciudad](https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2025/MapServer/28/query?f=json&geometry=-96.6756152%2C32.6231837&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=NAME%2CGEOID&returnGeometry=false)[Condado](https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2025/MapServer/82/query?f=json&geometry=-96.6756152%2C32.6231837&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=NAME%2CGEOID&returnGeometry=false)[Estado](https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2025/MapServer/80/query?f=json&geometry=-96.6756152%2C32.6231837&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=NAME%2CGEOID&returnGeometry=false)[Área estadística](https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2025/MapServer/30/query?f=json&geometry=-96.6756152%2C32.6231837&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=NAME%2CGEOID&returnGeometry=false)
+
+El punto se cotejó visualmente con el domicilio y las vialidades de la fuente. Es una referencia aproximada. [Fuente del domicilio](https://logistix.cbre-properties.com/building-1/) [Mapa de la comprobación](https://www.google.com/maps/search/?api=1&query=32.6231837,-96.6756152)
+
+Cartografía del contorno de Texas de U.S. Census Bureau. TIGERweb ACS 2025, dominio público. Simplificada para esta vista; no es un plano de predio. [Condiciones de uso](https://www.census.gov/about/policies/privacy/privacy-policy.html)
+
+
+---
+
+
+# https://investtexashub.com/hoja-de-ruta/
+
+Modificación del mapa del sitio: 2026-11-11
+
+Hoja de ruta
+
+## Arma tu hoja de ruta a Texas
+
+Cinco respuestas y la hoja se llena con lo que aplica a tu caso. Cada dato lleva su fuente y su fecha.
+
+Fondo NASA Blue Marble vía GIBS
+
+### Tu hoja de ruta
+
+Invest Texas Hub. Guía independiente.
+
+0 de 5
+
+La hoja reúne las regiones que encajan con tu forma de envío, las rutas publicadas desde tu origen y los datos de costos que corresponden a tu plan. Cada dato conserva su fuente y fecha. Puedes cambiar las regiones, compartir el enlace o imprimir el resultado.
+
+- ¿Qué quieres hacer en Texas?
+- ¿Desde dónde sales?
+- ¿Cómo se mueve tu mercancía?
+- ¿Con cuántas personas empezarías?
+- ¿Qué tan cerca estás de decidir?
+
+Activa JavaScript para contestar. También puedes consultar los datos directamente.
+
+- [Salarios por región](https://investtexashub.com/costos/index.html)
+- [Impuestos](https://investtexashub.com/impuestos/index.html)
+- [Electricidad](https://investtexashub.com/energia/index.html)
+- [Parques industriales verificados](https://investtexashub.com/parques/index.html)
+
+Las comparaciones no son una recomendación de ciudad. La nómina de referencia es sueldo base, sin prestaciones, impuestos sobre la nómina ni seguros. La electricidad usa un promedio industrial del estado, no una tarifa para un inmueble.
+
+¿Sabes cuántos kWh usas al mes? Viene en tu recibo.Opcional. Puedes dejarlo vacío.
+
+###
+
+### Lo que cobra Texas a una empresa[Ver impuestos, alcance y fuentes](https://investtexashub.com/impuestos/index.html)
+
+### Qué leer ahora
+
+Guardar o imprimirCopiar el enlace de tu hoja
+
+### ¿Te avisamos cuando cambie un dato de tu hoja?
+
+Correo
+
+Empresa (opcional)
+
+A qué se dedica (opcional)Elige una actividadalimentos y bebidasautopartes y metalmecánicaelectrodomésticos y electrónicamateriales de construcciónquímicos y plásticoslogística y transportesoftware y serviciosotro
+
+Si tienes una duda concreta, escríbela y la respondemos con fuente
+
+Leí el [aviso de privacidad](https://investtexashub.com/aviso.html)Quiero que me presenten con el organismo de desarrollo económico de
+
+Sitio web
+
+Enviar por correo
+
+### Fuentes de tu hoja
+
+Información general con datos públicos. No sustituye asesoría legal, fiscal ni migratoria.

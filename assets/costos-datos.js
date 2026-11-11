@@ -2,16 +2,16 @@
 window.COSTOS_DATOS = {
   "version": 1,
   "sha256_origen": {
-    "salarios": "5a2ece5aefa495e4b9de86f2e0200fe81a9a1f7df8514bc9d2f304b51d1a929b",
-    "impuestos": "4eceb52ec53ad3cf5c7cdc29ab4b39327b1806f832b67e5a50784a68fa3ee9ba",
-    "energia": "fa88e8c588c3a4177f915973748a465ac8c313e04e7956c2ac30c9d5caa42fef"
+    "salarios": "05f9baaf1ef9eb0192ada5d6de8b2ebe7638c6073131046ed1bd5e7b2eb7d5ee",
+    "impuestos": "fbc3c6136f63722a2719da2f726b6e0b026858c95879740f68d08cb49434ed52",
+    "energia": "b25c5429ac7a4184a12a6f2edd03792dd1ce0b06f97a91ea3b549904a8bd9b03"
   },
   "salarios": {
     "consulta": "2026-11-10",
     "periodo": "Mayo de 2025 (edición más reciente de OEWS, última modificación 15-may-2026 según bls.gov)",
     "fuente": {
       "nombre": "Occupational Employment and Wage Statistics (OEWS), Bureau of Labor Statistics, serie OE",
-      "acceso": "Servicio público de BLS sin llave. La ronda inicial consultó una serie por solicitud; el encargo 5 agrupó las pendientes por zona, con un máximo de once series por solicitud. Serie = OEUM + zona (7 dígitos) + 000000 (todas las industrias) + ocupación (6 dígitos) + 08 (mediana por hora).",
+      "acceso": "Servicio público de BLS sin llave. Serie = OEUM + zona (7 dígitos) + 000000 (todas las industrias) + ocupación (6 dígitos) + 08 (mediana por hora).",
       "tipos_de_dato": "https://download.bls.gov/pub/time.series/oe/oe.datatype",
       "zonas_y_ocupaciones": [
         "https://download.bls.gov/pub/time.series/oe/oe.area",
@@ -1051,7 +1051,7 @@ window.COSTOS_DATOS = {
         "tasa": "El estado no cobra impuesto a la propiedad. Lo fijan y cobran unidades locales (escuelas, condados, ciudades y otras); el Comptroller no los cobra ni fija las tasas",
         "aplica_a": "Propietarios de inmuebles y de ciertos bienes de empresa, según el avalúo local",
         "anio": "Vigente a la consulta",
-        "fuente": "Texas Comptroller of Public Accounts, página de impuesto a la propiedad (leída en la ronda anterior, TX-03); hoy se confirmó que los distritos de avalúo reportan valores y tasas al Comptroller",
+        "fuente": "Texas Comptroller of Public Accounts",
         "url": "https://comptroller.texas.gov/taxes/property-tax/rates/",
         "estado": "verificado"
       },
@@ -1060,7 +1060,7 @@ window.COSTOS_DATOS = {
         "impuesto": "Tasa total de impuesto a la propiedad en la ciudad principal de cada región",
         "tasa": null,
         "aplica_a": "Cada unidad local fija su tasa; la tasa total de un inmueble suma las unidades que lo cubren",
-        "anio": "Lista de tasas de 2025, publicada por la División de Asistencia de Impuesto a la Propiedad el 30-dic-2025 (según resumen de búsqueda del Comptroller)",
+        "anio": "Lista de tasas de 2025",
         "fuente": "Texas Comptroller, Tax Rates and Levies",
         "url": "https://comptroller.texas.gov/taxes/property-tax/rates/",
         "estado": "no encontrado"
@@ -1172,7 +1172,7 @@ window.COSTOS_DATOS = {
         "ciudad": "El Paso",
         "empresa": "El Paso Electric",
         "tipo": "empresa integrada fuera de ERCOT (generación, transmisión y distribución)",
-        "red": "Fuera de ERCOT; interconexión del oeste (WECC) según documento del PUC visto en resumen en la ronda anterior",
+        "red": "Fuera de ERCOT; interconexión del oeste (WECC)",
         "libre_eleccion": "no",
         "fuente": [
           "https://www.epelectric.com/",
@@ -1182,7 +1182,7 @@ window.COSTOS_DATOS = {
       }
     ],
     "precios": {
-      "nota": "Centavos de dólar por kilovatio hora, sector industrial, promedio de venta final. Leídos hoy en las tablas de la EIA. 2026 es preliminar; 2025 es final.",
+      "nota": "Centavos de dólar por kilovatio hora, sector industrial, promedio de venta final. 2026 es preliminar; 2025 es final.",
       "fuente_nombre": "U.S. Energy Information Administration, Electric Power Monthly, publicada el 2026-10-23 (próxima: 2026-11-24). Datos del formulario EIA-861M.",
       "mes_reciente": {
         "periodo": "agosto 2026 (preliminar) y agosto 2025 (final)",

@@ -1,0 +1,89 @@
+zona,puesto,codigo,mediana_por_hora,periodo,fuente,fecha_consulta
+"Laredo, TX",Ensamblador u operario de producción (ensambladores y fabricantes varios),51-2090,14.87,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002970000000051209008,2026-11-10
+"Laredo, TX",Maquinista,51-4041,,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002970000000051404108,2026-11-10
+"Laredo, TX",Soldador,51-4121,21.81,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002970000000051412108,2026-11-10
+"Laredo, TX",Mecánico de maquinaria industrial,49-9041,26.95,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002970000000049904108,2026-11-10
+"Laredo, TX",Supervisor de producción,51-1011,25.49,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002970000000051101108,2026-11-10
+"Laredo, TX",Ayudante general de carga y almacén (peón de carga a mano),53-7062,15.61,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002970000000053706208,2026-11-10
+"Laredo, TX",Operador de montacargas (y tractores industriales),53-7051,14.28,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002970000000053705108,2026-11-10
+"Laredo, TX",Chofer de tractocamión,53-3032,23.56,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002970000000053303208,2026-11-10
+"Laredo, TX",Ingeniero industrial,17-2112,,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002970000000017211208,2026-11-10
+"Laredo, TX","Auxiliar contable (tenedores de libros, contabilidad y auditoría)",43-3031,19.09,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002970000000043303108,2026-11-10
+"Laredo, TX",Representante de servicio al cliente,43-4051,16.55,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002970000000043405108,2026-11-10
+"McAllen-Edinburg-Mission, TX",Ensamblador u operario de producción (ensambladores y fabricantes varios),51-2090,14.34,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM003258000000051209008,2026-11-10
+"McAllen-Edinburg-Mission, TX",Maquinista,51-4041,23.19,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM003258000000051404108,2026-11-10
+"McAllen-Edinburg-Mission, TX",Soldador,51-4121,19.09,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM003258000000051412108,2026-11-10
+"McAllen-Edinburg-Mission, TX",Mecánico de maquinaria industrial,49-9041,24.31,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM003258000000049904108,2026-11-10
+"McAllen-Edinburg-Mission, TX",Supervisor de producción,51-1011,25.05,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM003258000000051101108,2026-11-10
+"McAllen-Edinburg-Mission, TX",Ayudante general de carga y almacén (peón de carga a mano),53-7062,15.20,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM003258000000053706208,2026-11-10
+"McAllen-Edinburg-Mission, TX",Operador de montacargas (y tractores industriales),53-7051,15.14,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM003258000000053705108,2026-11-10
+"McAllen-Edinburg-Mission, TX",Chofer de tractocamión,53-3032,22.62,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM003258000000053303208,2026-11-10
+"McAllen-Edinburg-Mission, TX",Ingeniero industrial,17-2112,44.08,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM003258000000017211208,2026-11-10
+"McAllen-Edinburg-Mission, TX","Auxiliar contable (tenedores de libros, contabilidad y auditoría)",43-3031,20.17,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM003258000000043303108,2026-11-10
+"McAllen-Edinburg-Mission, TX",Representante de servicio al cliente,43-4051,17.23,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM003258000000043405108,2026-11-10
+"Brownsville-Harlingen, TX",Ensamblador u operario de producción (ensambladores y fabricantes varios),51-2090,16.35,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001518000000051209008,2026-11-10
+"Brownsville-Harlingen, TX",Maquinista,51-4041,23.54,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001518000000051404108,2026-11-10
+"Brownsville-Harlingen, TX",Soldador,51-4121,21.64,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001518000000051412108,2026-11-10
+"Brownsville-Harlingen, TX",Mecánico de maquinaria industrial,49-9041,27.39,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001518000000049904108,2026-11-10
+"Brownsville-Harlingen, TX",Supervisor de producción,51-1011,28.50,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001518000000051101108,2026-11-10
+"Brownsville-Harlingen, TX",Ayudante general de carga y almacén (peón de carga a mano),53-7062,15.53,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001518000000053706208,2026-11-10
+"Brownsville-Harlingen, TX",Operador de montacargas (y tractores industriales),53-7051,16.65,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001518000000053705108,2026-11-10
+"Brownsville-Harlingen, TX",Chofer de tractocamión,53-3032,23.34,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001518000000053303208,2026-11-10
+"Brownsville-Harlingen, TX",Ingeniero industrial,17-2112,35.13,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001518000000017211208,2026-11-10
+"Brownsville-Harlingen, TX","Auxiliar contable (tenedores de libros, contabilidad y auditoría)",43-3031,19.97,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001518000000043303108,2026-11-10
+"Brownsville-Harlingen, TX",Representante de servicio al cliente,43-4051,18.44,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001518000000043405108,2026-11-10
+"San Antonio-New Braunfels, TX",Ensamblador u operario de producción (ensambladores y fabricantes varios),51-2090,20.15,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM004170000000051209008,2026-11-10
+"San Antonio-New Braunfels, TX",Maquinista,51-4041,25.57,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM004170000000051404108,2026-11-10
+"San Antonio-New Braunfels, TX",Soldador,51-4121,23.18,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM004170000000051412108,2026-11-10
+"San Antonio-New Braunfels, TX",Mecánico de maquinaria industrial,49-9041,29.21,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM004170000000049904108,2026-11-10
+"San Antonio-New Braunfels, TX",Supervisor de producción,51-1011,33.89,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM004170000000051101108,2026-11-10
+"San Antonio-New Braunfels, TX",Ayudante general de carga y almacén (peón de carga a mano),53-7062,18.01,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM004170000000053706208,2026-11-10
+"San Antonio-New Braunfels, TX",Operador de montacargas (y tractores industriales),53-7051,21.80,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM004170000000053705108,2026-11-10
+"San Antonio-New Braunfels, TX",Chofer de tractocamión,53-3032,25.79,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM004170000000053303208,2026-11-10
+"San Antonio-New Braunfels, TX",Ingeniero industrial,17-2112,47.65,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM004170000000017211208,2026-11-10
+"San Antonio-New Braunfels, TX","Auxiliar contable (tenedores de libros, contabilidad y auditoría)",43-3031,23.15,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM004170000000043303108,2026-11-10
+"San Antonio-New Braunfels, TX",Representante de servicio al cliente,43-4051,20.54,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM004170000000043405108,2026-11-10
+"Austin-Round Rock-San Marcos, TX",Ensamblador u operario de producción (ensambladores y fabricantes varios),51-2090,19.16,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001242000000051209008,2026-11-10
+"Austin-Round Rock-San Marcos, TX",Maquinista,51-4041,28.38,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001242000000051404108,2026-11-10
+"Austin-Round Rock-San Marcos, TX",Soldador,51-4121,28.39,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001242000000051412108,2026-11-10
+"Austin-Round Rock-San Marcos, TX",Mecánico de maquinaria industrial,49-9041,30.13,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001242000000049904108,2026-11-10
+"Austin-Round Rock-San Marcos, TX",Supervisor de producción,51-1011,34.36,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001242000000051101108,2026-11-10
+"Austin-Round Rock-San Marcos, TX",Ayudante general de carga y almacén (peón de carga a mano),53-7062,18.53,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001242000000053706208,2026-11-10
+"Austin-Round Rock-San Marcos, TX",Operador de montacargas (y tractores industriales),53-7051,22.32,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001242000000053705108,2026-11-10
+"Austin-Round Rock-San Marcos, TX",Chofer de tractocamión,53-3032,27.46,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001242000000053303208,2026-11-10
+"Austin-Round Rock-San Marcos, TX",Ingeniero industrial,17-2112,49.81,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001242000000017211208,2026-11-10
+"Austin-Round Rock-San Marcos, TX","Auxiliar contable (tenedores de libros, contabilidad y auditoría)",43-3031,26.12,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001242000000043303108,2026-11-10
+"Austin-Round Rock-San Marcos, TX",Representante de servicio al cliente,43-4051,21.02,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001242000000043405108,2026-11-10
+"Dallas-Fort Worth-Arlington, TX",Ensamblador u operario de producción (ensambladores y fabricantes varios),51-2090,18.43,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001910000000051209008,2026-11-10
+"Dallas-Fort Worth-Arlington, TX",Maquinista,51-4041,28.76,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001910000000051404108,2026-11-10
+"Dallas-Fort Worth-Arlington, TX",Soldador,51-4121,24.82,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001910000000051412108,2026-11-10
+"Dallas-Fort Worth-Arlington, TX",Mecánico de maquinaria industrial,49-9041,30.47,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001910000000049904108,2026-11-10
+"Dallas-Fort Worth-Arlington, TX",Supervisor de producción,51-1011,33.63,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001910000000051101108,2026-11-10
+"Dallas-Fort Worth-Arlington, TX",Ayudante general de carga y almacén (peón de carga a mano),53-7062,18.52,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001910000000053706208,2026-11-10
+"Dallas-Fort Worth-Arlington, TX",Operador de montacargas (y tractores industriales),53-7051,22.71,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001910000000053705108,2026-11-10
+"Dallas-Fort Worth-Arlington, TX",Chofer de tractocamión,53-3032,28.62,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001910000000053303208,2026-11-10
+"Dallas-Fort Worth-Arlington, TX",Ingeniero industrial,17-2112,50.79,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001910000000017211208,2026-11-10
+"Dallas-Fort Worth-Arlington, TX","Auxiliar contable (tenedores de libros, contabilidad y auditoría)",43-3031,24.86,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001910000000043303108,2026-11-10
+"Dallas-Fort Worth-Arlington, TX",Representante de servicio al cliente,43-4051,21.63,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM001910000000043405108,2026-11-10
+"Houston-Pasadena-The Woodlands, TX",Ensamblador u operario de producción (ensambladores y fabricantes varios),51-2090,18.22,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002642000000051209008,2026-11-10
+"Houston-Pasadena-The Woodlands, TX",Maquinista,51-4041,29.46,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002642000000051404108,2026-11-10
+"Houston-Pasadena-The Woodlands, TX",Soldador,51-4121,27.86,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002642000000051412108,2026-11-10
+"Houston-Pasadena-The Woodlands, TX",Mecánico de maquinaria industrial,49-9041,30.38,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002642000000049904108,2026-11-10
+"Houston-Pasadena-The Woodlands, TX",Supervisor de producción,51-1011,36.21,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002642000000051101108,2026-11-10
+"Houston-Pasadena-The Woodlands, TX",Ayudante general de carga y almacén (peón de carga a mano),53-7062,18.27,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002642000000053706208,2026-11-10
+"Houston-Pasadena-The Woodlands, TX",Operador de montacargas (y tractores industriales),53-7051,22.11,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002642000000053705108,2026-11-10
+"Houston-Pasadena-The Woodlands, TX",Chofer de tractocamión,53-3032,27.33,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002642000000053303208,2026-11-10
+"Houston-Pasadena-The Woodlands, TX",Ingeniero industrial,17-2112,53.70,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002642000000017211208,2026-11-10
+"Houston-Pasadena-The Woodlands, TX","Auxiliar contable (tenedores de libros, contabilidad y auditoría)",43-3031,23.78,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002642000000043303108,2026-11-10
+"Houston-Pasadena-The Woodlands, TX",Representante de servicio al cliente,43-4051,19.42,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002642000000043405108,2026-11-10
+"El Paso, TX",Ensamblador u operario de producción (ensambladores y fabricantes varios),51-2090,16.60,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002134000000051209008,2026-11-10
+"El Paso, TX",Maquinista,51-4041,22.54,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002134000000051404108,2026-11-10
+"El Paso, TX",Soldador,51-4121,21.63,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002134000000051412108,2026-11-10
+"El Paso, TX",Mecánico de maquinaria industrial,49-9041,27.15,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002134000000049904108,2026-11-10
+"El Paso, TX",Supervisor de producción,51-1011,29.46,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002134000000051101108,2026-11-10
+"El Paso, TX",Ayudante general de carga y almacén (peón de carga a mano),53-7062,17.09,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002134000000053706208,2026-11-10
+"El Paso, TX",Operador de montacargas (y tractores industriales),53-7051,18.52,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002134000000053705108,2026-11-10
+"El Paso, TX",Chofer de tractocamión,53-3032,23.69,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002134000000053303208,2026-11-10
+"El Paso, TX",Ingeniero industrial,17-2112,39.79,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002134000000017211208,2026-11-10
+"El Paso, TX","Auxiliar contable (tenedores de libros, contabilidad y auditoría)",43-3031,19.97,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002134000000043303108,2026-11-10
+"El Paso, TX",Representante de servicio al cliente,43-4051,18.10,2025-05,https://api.bls.gov/publicAPI/v2/timeseries/data/OEUM002134000000043405108,2026-11-10
