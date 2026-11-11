@@ -17,6 +17,10 @@
     contacto_clic:["seccion","asunto"],origen_elegido:["origen"],region_elegida:["region","desde"],necesidad_elegida:["necesidad"],comparar_region:["region","accion"],puentes_estado:["estado"],empresas_capa:["capa"],parques_zona:["zona"],ruta_alterna:["region"],costos_puesto:["puesto"],impuestos_actividad:["actividad"],energia_region:["region"],
     mapa_region:["region","desde"],mapa_parque:["parque","nivel","desde"],mapa_vista:["vista"],mapa_buscar:["region"],mapa_enlace:["tipo"]
   };
+  /* La etiqueta de Google cuenta una vista de página cada vez que cambia la dirección, y la manda con la dirección
+     completa. La hoja de ruta guarda sus respuestas en la dirección: la cambia con la función original del navegador,
+     tomada aquí, antes de que la etiqueta cargue y la envuelva. */
+  window.cambiarDireccion = History.prototype.replaceState.bind(history);
   window.medir = function (nombre, datos) {
     if(!Object.prototype.hasOwnProperty.call(permitidos,nombre))return;
     var limpios={};permitidos[nombre].forEach(function(k){var v=datos&&datos[k];if(typeof v==="boolean"||typeof v==="number"&&Number.isFinite(v))limpios[k]=v;else if(typeof v==="string"&&v.length<=160&&!/[<>@\r\n]/.test(v))limpios[k]=v;});
@@ -41,9 +45,12 @@
   var id=guion&&guion.dataset.ga4;if(!/^G-[A-Z0-9]+$/.test(id||""))return;
   window.dataLayer=window.dataLayer||[];
   window.gtag=function(){window.dataLayer.push(arguments);};
-  var config={allow_google_signals:false,allow_ad_personalization_signals:false,page_location:"https://investtexashub.com"+rutaPublica()+campania()};
-  if(interno)config.traffic_type="internal";
-  try{var ref=new URL(document.referrer);config.page_referrer=ref.origin+ref.pathname;}catch(e){config.page_referrer="";}
-  window.gtag("js",new Date());window.gtag("config",id,config);
+  var comunes={allow_google_signals:false,allow_ad_personalization_signals:false,page_location:"https://investtexashub.com"+rutaPublica()+campania()};
+  if(interno)comunes.traffic_type="internal";
+  try{var ref=new URL(document.referrer);comunes.page_referrer=ref.origin+ref.pathname;}catch(e){comunes.page_referrer="";}
+  /* La etiqueta de Google ignora los parámetros que llegan dentro de «config» (comprobado el 11-nov-2026 con
+     herramientas/probar-medicion.mjs): ni la dirección limpia, ni la marca de tráfico interno, ni los ajustes de
+     privacidad llegaban a la petición. Sólo se aplican con «set», y antes de «js». */
+  window.gtag("set",comunes);window.gtag("js",new Date());window.gtag("config",id);
   var tag=document.createElement("script");tag.async=true;tag.src="https://www.googletagmanager.com/gtag/js?id="+id;document.head.appendChild(tag);
 })();

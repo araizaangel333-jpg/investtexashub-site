@@ -76,7 +76,7 @@
   function tope(){return matchMedia('(max-width: 699px)').matches?2:3;}
   function normalizar(){if(estado.plan==='oficina')delete estado.envio;if(estado.plan==='vender')delete estado.personas;if(estado.plan!=='producir')delete estado.kwh;if(estado.regiones)estado.regiones=estado.regiones.slice(0,tope());}
   function url(){return doc.querySelector('link[rel=canonical]').href+'?'+direccion(estado);}
-  function actualizarURL(){var p=new URLSearchParams(direccion(estado)),actual=new URLSearchParams(location.search);['medir','interno'].forEach(function(k){if(actual.has(k))p.set(k,actual.get(k));});try{history.replaceState(null,'','?'+p.toString());}catch(e){/* file:// puede impedir replaceState; copiar sigue disponible. */}}
+  function actualizarURL(){var p=new URLSearchParams(direccion(estado)),actual=new URLSearchParams(location.search);['medir','interno'].forEach(function(k){if(actual.has(k))p.set(k,actual.get(k));});try{(root.cambiarDireccion||history.replaceState.bind(history))(null,'','?'+p.toString());}catch(e){/* file:// puede impedir replaceState; copiar sigue disponible. */}}
   function responder(k,v){
     var antes=estado[k];estado[k]=v;editando=null;animar=k;
     if(['plan','origen','envio'].indexOf(k)>=0&&antes!==v)delete estado.regiones;
