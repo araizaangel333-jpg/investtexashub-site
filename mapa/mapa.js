@@ -67,6 +67,15 @@
 
   var S = { region: null, sel: null, vista: "sat", filtro: "", verSin: false };
   var portada = $("portada"), explorador = $("explorador");
+  /* Piloto de empresas por parque (herramientas/empresas-por-parque.py). Sólo se pide con ?piloto=empresas en la
+     dirección, y su archivo no se publica: sin ese parámetro la página no lo busca. */
+  var PILOTO = new URLSearchParams(location.search).get("piloto") === "empresas";
+  if (PILOTO) {
+    var guionPiloto = el("script");
+    guionPiloto.src = "./piloto-empresas.js";
+    guionPiloto.onload = function () { if (S.sel && PPOR[S.sel] && !ficha.hidden) pintarFicha(PPOR[S.sel]); };
+    doc.head.appendChild(guionPiloto);
+  }
 
   /* ------------------------------------------------------------ 1. portada */
   var SAT = { // recortes de assets/SATELITE-FUENTE.txt
@@ -310,6 +319,8 @@
     html += '<a href="mailto:contacto@investtexashub.com?subject=' + encodeURIComponent("Duda sobre " + p.n) + '" data-enlace="correo">Escríbenos sobre este parque</a>';
     ac.innerHTML = html; ficha.appendChild(ac);
     ficha.appendChild(el("p", "mp-nota", "Datos públicos con su fuente. Para disponibilidad y precios, consulta al desarrollador."));
+    // Piloto de empresas por parque: su bloque sólo existe si se cargó con ?piloto=empresas (ver abajo).
+    if (window.pilotoEmpresas) { var bloque = window.pilotoEmpresas(p); if (bloque) ficha.appendChild(bloque); }
   }
   ficha.addEventListener("click", function (ev) {
     var a = ev.target.closest && ev.target.closest("a[data-enlace]");
@@ -648,6 +659,7 @@
     if (S.region) p.set("region", S.region);
     if (S.sel) p.set("parque", S.sel);
     if (S.vista !== "sat") p.set("vista", S.vista);
+    if (PILOTO) p.set("piloto", "empresas");
     var u = location.pathname + (p.toString() ? "?" + p.toString() : "");
     // Con las funciones originales del navegador (assets/medir.js): elegir región o parque no cuenta como vista de página.
     var poner = nueva ? (window.agregarDireccion || history.pushState.bind(history)) : (window.cambiarDireccion || history.replaceState.bind(history));
